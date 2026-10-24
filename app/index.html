@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Học HSK 3–4</title>
+<link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+<header>
+  <h1 id="homeLink">🀄 HSK</h1>
+  <div class="book-switch" id="bookSwitch">
+    <button data-book="hsk3">HSK 3</button>
+    <button data-book="hsk4">HSK 4</button>
+  </div>
+  <button id="userChip" class="user-chip"></button>
+  <nav>
+    <button data-view="home" class="active">Hôm nay</button>
+    <button data-view="lessons">Bài học</button>
+    <button data-view="practice">Luyện tập</button>
+    <button data-view="list">Từ vựng</button>
+    <button data-view="settings">⚙︎</button>
+  </nav>
+</header>
+
+<main>
+  <!-- HÔM NAY -->
+  <section id="view-home" class="view">
+    <div class="banner" id="banner"></div>
+    <div class="cards-row">
+      <div class="stat"><b id="statLearned">0</b><span>đã học / <span id="statTotal"></span> từ</span></div>
+      <div class="stat"><b id="statDue">0</b><span>cần ôn hôm nay</span></div>
+      <div class="stat"><b id="statWeak">0</b><span>từ hay sai</span></div>
+    </div>
+    <div class="progress"><div id="progressBar"></div></div>
+    <div class="todo" id="todoBox"></div>
+    <div class="tips">
+      <h3>Cách học hiệu quả</h3>
+      <ul>
+        <li><b>Mỗi ngày 1 bài:</b> đọc bài khoá (bật 🔊 nghe từng câu) → học từ mới bằng flashcard → luyện tập bài đó.</li>
+        <li>Mặt sau thẻ có <b>âm Hán Việt</b> và <b>các từ có chung chữ</b> — người Việt nhớ chữ Hán nhanh hơn nhiều nhờ Hán Việt.</li>
+        <li>Từ làm sai sẽ quay lại theo lịch 1 → 3 → 7 → 14 → 30 ngày. Tối nào cũng bấm <b>Ôn tập</b>.</li>
+        <li>Phím tắt trên máy tính: <kbd>Space</kbd> lật thẻ, <kbd>1</kbd> chưa nhớ, <kbd>2</kbd> nhớ rồi, <kbd>←</kbd><kbd>→</kbd> thẻ trước/sau.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- DANH SÁCH BÀI -->
+  <section id="view-lessons" class="view hidden">
+    <div id="lessonGrid" class="lesson-grid"></div>
+  </section>
+
+  <!-- CHI TIẾT BÀI -->
+  <section id="view-lesson" class="view hidden">
+    <div class="lesson-head">
+      <button class="btn small" id="backLessons">◀ Bài học</button>
+      <div><div class="zh big" id="lsTitleZh"></div><div class="muted" id="lsTitleVi"></div></div>
+    </div>
+    <div class="actions">
+      <button class="btn primary" id="lsStudy">📖 Học từ mới</button>
+      <button class="btn" id="lsPractice">✍️ Luyện bài này</button>
+    </div>
+    <div class="tabs">
+      <button data-tab="words" class="active">Từ mới</button>
+      <button data-tab="texts">Bài khoá</button>
+      <button data-tab="grammar">Ngữ pháp</button>
+    </div>
+    <div id="lsWords"></div>
+    <div id="lsTexts" class="hidden">
+      <div class="inline-row">
+        <label class="check"><input type="checkbox" id="showPy" checked> Hiện pinyin</label>
+        <label class="check"><input type="checkbox" id="showVi"> Hiện bản dịch</label>
+      </div>
+      <div id="lsTextsBody"></div>
+    </div>
+    <div id="lsGrammar" class="hidden"></div>
+  </section>
+
+  <!-- FLASHCARD -->
+  <section id="view-study" class="view hidden">
+    <div class="study-head"><span id="studyTitle"></span><span id="studyCount" class="muted"></span></div>
+    <div class="progress small"><div id="studyBar"></div></div>
+    <div class="review-banner hidden" id="reviewBanner">👀 Đang xem lại thẻ đã học — bấm <b>Sau ▶</b> để quay về thẻ đang học</div>
+    <div id="card" class="card">
+      <div class="card-cat" id="cardCat"></div>
+      <div class="card-front">
+        <div class="zh huge" id="cardWord"></div>
+        <div class="py" id="cardPyFront"></div>
+      </div>
+      <div class="card-back hidden" id="cardBack">
+        <div class="py big" id="cardPy"></div>
+        <div class="meaning" id="cardMean"></div>
+        <div class="hv" id="cardHV"></div>
+        <div class="example" id="cardEx"></div>
+        <div class="related" id="cardRelated"></div>
+      </div>
+      <button class="speak" id="speakBtn" title="Nghe">🔊</button>
+    </div>
+    <div class="actions" id="flipActions"><button class="btn primary wide" id="flipBtn">Lật thẻ</button></div>
+    <div class="actions hidden" id="gradeActions">
+      <button class="btn bad" id="againBtn">😵 Chưa nhớ <small>(1)</small></button>
+      <button class="btn good" id="goodBtn">😎 Nhớ rồi <small>(2)</small></button>
+    </div>
+    <div class="nav-row">
+      <button class="btn" id="prevBtn">◀ Trước</button>
+      <button class="btn" id="nextBtn">Bỏ qua ▶</button>
+    </div>
+  </section>
+
+  <!-- LUYỆN TẬP -->
+  <section id="view-practice" class="view hidden">
+    <div id="pracSetup">
+      <h3>✍️ Luyện tập theo dạng đề HSK</h3>
+      <label>Phạm vi
+        <select id="pracScope">
+          <option value="lesson">Bài đang học</option>
+          <option value="learned">Các từ đã học</option>
+          <option value="weak">Từ hay sai</option>
+          <option value="book">Cả cuốn sách</option>
+        </select>
+      </label>
+      <label id="pracLessonWrap">Bài
+        <select id="pracLesson"></select>
+      </label>
+      <div class="type-grid" id="pracTypes">
+        <label class="check"><input type="checkbox" value="mean" checked> Chọn nghĩa</label>
+        <label class="check"><input type="checkbox" value="pinyin" checked> Chọn pinyin (dấu thanh)</label>
+        <label class="check"><input type="checkbox" value="hanzi" checked> Chọn chữ Hán</label>
+        <label class="check"><input type="checkbox" value="listen" checked> 🎧 Nghe chọn chữ</label>
+        <label class="check"><input type="checkbox" value="fill" checked> 选词填空 Điền từ</label>
+        <label class="check"><input type="checkbox" value="order" checked> 连词成句 Sắp xếp câu</label>
+      </div>
+      <label>Số câu
+        <select id="pracNum"><option>10</option><option selected>20</option><option>30</option><option>50</option></select>
+      </label>
+      <button class="btn primary wide" id="pracStart">Bắt đầu</button>
+      <p class="muted" id="pracMsg"></p>
+    </div>
+    <div id="pracRun" class="hidden">
+      <div class="study-head"><span id="pracProgress"></span><span class="muted" id="pracScore"></span></div>
+      <div class="progress small"><div id="pracBar"></div></div>
+      <div class="card q-card">
+        <div class="card-cat" id="qAsk"></div>
+        <div id="qBody"></div>
+        <button class="speak hidden" id="qSpeak" title="Nghe lại">🔊</button>
+      </div>
+      <div class="choices" id="qChoices"></div>
+      <div id="qOrder" class="hidden">
+        <div class="order-built" id="orderBuilt"></div>
+        <div class="order-pool" id="orderPool"></div>
+        <div class="actions"><button class="btn" id="orderReset">↺ Làm lại</button><button class="btn primary" id="orderCheck">Kiểm tra</button></div>
+      </div>
+      <div class="explain hidden" id="qExplain"></div>
+      <div class="actions"><button class="btn primary wide hidden" id="qNext">Câu tiếp ▶</button></div>
+    </div>
+    <div id="pracDone" class="hidden"></div>
+  </section>
+
+  <!-- TỪ VỰNG -->
+  <section id="view-list" class="view hidden">
+    <div class="list-tools">
+      <input id="search" placeholder="Tìm: chữ Hán, pinyin (gõ không dấu cũng được), nghĩa, Hán Việt…">
+      <select id="listLesson"></select>
+      <select id="listFilter">
+        <option value="all">Tất cả</option><option value="new">Chưa học</option>
+        <option value="seen">Đã học</option><option value="weak">Hay sai</option>
+      </select>
+    </div>
+    <p class="muted" id="listCount"></p>
+    <table class="vocab-table"><tbody id="listBody"></tbody></table>
+  </section>
+
+  <!-- CÀI ĐẶT -->
+  <section id="view-settings" class="view hidden">
+    <h3>Cài đặt</h3>
+    <label>Ngày thi <input type="date" id="setExam"></label>
+    <label>Mặt trước thẻ
+      <select id="setFront">
+        <option value="hz">Chỉ chữ Hán (luyện nhận mặt chữ)</option>
+        <option value="hzpy">Chữ Hán + pinyin</option>
+      </select>
+    </label>
+    <label class="check"><input type="checkbox" id="setAutoSpeak"> Tự đọc phát âm khi lật thẻ</label>
+    <label>Tốc độ đọc
+      <select id="setRate"><option value="0.7">Chậm</option><option value="0.9" selected>Vừa</option><option value="1">Bình thường</option></select>
+    </label>
+    <button class="btn primary" id="saveSettings">Lưu</button>
+    <hr>
+    <h3>👤 Đồng bộ giữa các máy</h3>
+    <p class="muted" id="syncNote"></p>
+    <div class="sync-row">
+      <input id="syncUser" placeholder="username, vd: nhuy-hsk" autocapitalize="none" autocomplete="username">
+      <button class="btn primary" id="syncLogin">Đồng bộ</button>
+      <button class="btn" id="syncLogout">Thoát</button>
+    </div>
+    <p class="muted" id="syncStatus"></p>
+    <hr>
+    <h3>Sao lưu bằng file</h3>
+    <button class="btn" id="exportBtn">Xuất file tiến độ</button>
+    <label class="btn file-btn">Nhập file tiến độ<input type="file" id="importFile" accept=".json" hidden></label>
+    <hr>
+    <button class="btn bad" id="resetBtn">Xoá toàn bộ tiến độ</button>
+  </section>
+</main>
+
+<div id="toast" class="toast hidden"></div>
+
+<script src="data.js?v=1"></script>
+<script src="app.js?v=1"></script>
+<script src="sync-config.js?v=1"></script>
+<script src="sync.js?v=1"></script>
+</body>
+</html>
