@@ -6,9 +6,10 @@ Web học theo giáo trình **Chuẩn HSK 3** (20 bài) và **Chuẩn HSK 4 Thư
 
 | Phần | Nội dung |
 |---|---|
-| **Bài học** | Mỗi bài có 3 tab. **Từ mới**: pinyin, từ loại, nghĩa, âm Hán Việt. **Bài khoá**: từng câu kèm pinyin và bản dịch, có 🔊 nghe từng câu hoặc cả bài. **Ngữ pháp**: giải thích và câu ví dụ. |
+| **Bài học** | Mỗi bài có 4 tab. **Từ mới**: pinyin, từ loại, nghĩa, âm Hán Việt. **Bài khoá**: từng câu kèm pinyin và bản dịch, có 🔊 nghe từng câu hoặc cả bài. **Ngữ pháp**: giải thích và câu ví dụ, dưới mỗi điểm có nút luyện riêng. **Bài tập**: bài tập ngữ pháp soạn thêm, không trùng sách (điền từ, chọn câu đúng, dịch Việt → Trung, sắp xếp câu), mỗi câu có pinyin, bản dịch và giải thích. |
 | **Flashcard** | Mặt trước là chữ Hán. Mặt sau có pinyin, nghĩa, Hán Việt, câu ví dụ lấy từ bài khoá và các từ có chung chữ. Ôn lại theo lịch 1 → 3 → 7 → 14 → 30 ngày. |
 | **Luyện tập** | 6 dạng câu hỏi: chọn nghĩa, chọn pinyin đúng dấu thanh, chọn chữ Hán, nghe chọn chữ, 选词填空 (điền từ), 连词成句 (sắp xếp câu). Từ nào làm sai sẽ quay lại hàng ôn. |
+| **Câu ví dụ** | Danh sách từ vựng HSK 3.0 (HSK 3: 973 từ, HSK 4: 1000 từ), mỗi từ một câu ví dụ, chia nhóm 20 câu. Học bằng thẻ câu (lặp lại theo lịch ôn), rồi kiểm tra bằng 5 dạng: điền từ vào câu, câu này nghĩa là gì, chọn đúng câu đã học, nghe câu chọn nghĩa, sắp xếp câu. |
 | **Từ vựng** | Tra theo chữ Hán, pinyin (gõ không dấu cũng được), nghĩa hoặc Hán Việt. |
 | **Đồng bộ** | Nhập cùng một username trên mọi máy là dùng chung tiến độ. |
 
@@ -23,8 +24,11 @@ Phát âm dùng giọng tiếng Trung có sẵn của trình duyệt. Trên iPho
 ```
 index.html, style.css, app.js   giao diện + logic
 sync.js, sync-config.js         đồng bộ qua Firebase
+extra.js                        câu ví dụ + bài tập ngữ pháp bổ sung
 data/*.jsonl                    DỮ LIỆU GỐC (chép từ giáo trình) — sửa ở đây
-build_data.py                   gộp data/*.jsonl -> data.js
+vocab/hsk3.jsonl, hsk4.jsonl    từ vựng HSK 3.0 kèm câu ví dụ (trích từ "NEW HSK3/4 3.0.pdf", xem tools/README.md)
+exercises/*.jsonl               bài tập ngữ pháp bổ sung (mỗi dòng 1 câu)
+build_data.py                   gộp tất cả -> data.js
 data.js                         file sinh tự động, đừng sửa tay
 ```
 

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Gộp data/*.jsonl -> data.js (const DATA = {lessons, words, texts, grammar}).
+"""Gộp data/*.jsonl (giáo trình) + vocab/*.jsonl (từ vựng HSK 3.0 kèm câu ví dụ)
++ exercises/*.jsonl (bài tập ngữ pháp bổ sung) -> data.js.
 
 Chạy: python3 build_data.py
 """
@@ -43,8 +44,17 @@ def main():
     if errors:
         print('\n'.join(errors))
         sys.exit(1)
-    for k in out:
+    for k in KINDS.values():
         out[k].sort(key=lambda r: (r['book'], r['lesson'], r.get('text', 0), r.get('proper', False), r.get('no') or 0))
+    out['vocab'] = {}
+    for f in sorted((ROOT / 'vocab').glob('hsk*.jsonl')):
+        rows = [json.loads(l) for l in f.read_text(encoding='utf-8').splitlines() if l.strip()]
+        out['vocab'][f.stem] = rows
+        print(f'{f.stem} (HSK 3.0): {len(rows)} từ kèm câu ví dụ')
+    out['gq'] = []
+    for f in sorted((ROOT / 'exercises').glob('*.jsonl')):
+        out['gq'] += [json.loads(l) for l in f.read_text(encoding='utf-8').splitlines() if l.strip()]
+    print(f"Bài tập ngữ pháp bổ sung: {len(out['gq'])} câu")
     js = '// File sinh tự động bởi build_data.py — đừng sửa tay, hãy sửa data/*.jsonl rồi chạy lại.\n'
     js += 'const DATA = ' + json.dumps(out, ensure_ascii=False, separators=(',', ':')) + ';\n'
     (ROOT / 'data.js').write_text(js, encoding='utf-8')

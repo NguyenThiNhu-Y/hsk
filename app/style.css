@@ -165,3 +165,31 @@ hr { border: 0; border-top: 1px solid var(--line); margin: 20px 0; }
   .choices { grid-template-columns: 1fr; } .type-grid { grid-template-columns: 1fr; }
   .list-tools { grid-template-columns: 1fr 1fr; } .list-tools input { grid-column: 1 / -1; }
 }
+
+/* Câu ví dụ + bài tập ngữ pháp */
+.combo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 10px 0; }
+.combo-btn { display: flex; flex-direction: column; gap: 4px; text-align: left; padding: 12px; border-radius: 12px; cursor: pointer;
+  border: 1px solid var(--accent); background: var(--accent-soft); color: var(--text); }
+.combo-btn b { font-size: 15px; color: var(--accent); }
+.combo-btn span { font-size: 12px; color: var(--muted); }
+.sent-test { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 4px 14px 12px; margin-bottom: 10px; }
+#cardWord.sent { font-size: 26px; font-weight: 500; line-height: 1.8; text-align: left; }
+#cardWord mark, .sent-zh mark, .q-sent mark, .explain mark { background: var(--accent-soft); color: var(--accent); font-weight: 700; border-radius: 4px; padding: 0 2px; }
+.sent-row { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; margin-bottom: 6px; }
+.sent-w { font-size: 14px; }
+.sent-w .zh { font-weight: 700; }
+.sent-w .py { color: var(--accent); }
+.sent-zh { font-size: 19px; line-height: 1.8; margin-top: 2px; }
+.sent-row .lpy { color: var(--muted); font-size: 13px; }
+.sent-row .lvi { font-size: 14px; }
+.choice.vi { text-align: left; font-size: 15px; line-height: 1.5; }
+.choice.sent { text-align: left; font-size: 18px; line-height: 1.6; }
+.gq-tag { margin-top: 6px; font-size: 13px; }
+.gq-why { margin-top: 6px; }
+.gq-opts { margin: 6px 0 0; padding-left: 0; list-style: none; font-size: 14px; }
+.gq-opts li { margin: 3px 0; color: var(--muted); }
+.gq-opts li.ok { color: var(--good); font-weight: 600; }
+.gq-head { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 4px 14px 10px; margin-bottom: 8px; }
+.gq-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; background: var(--panel);
+  border: 1px solid var(--line); border-radius: 10px; padding: 8px 12px; margin-bottom: 6px; }
+.gq-btn { margin-top: 8px; }

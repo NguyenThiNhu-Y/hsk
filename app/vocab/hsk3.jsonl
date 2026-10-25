@@ -1,0 +1,973 @@
+{"level": 3, "no": 1, "hz": "爱心", "py": "àixīn", "vi": "tình yêu thương, lòng nhân ái", "ex": {"zh": "她充满了爱心。", "py": "Tā chōngmǎn le àixīn.", "vi": "Cô ấy tràn đầy lòng nhân ái."}}
+{"level": 3, "no": 2, "hz": "安排", "py": "ānpái", "vi": "sắp xếp", "ex": {"zh": "老师安排了明天的作业。", "py": "Lǎoshī ānpái le míngtiān de zuòyè.", "vi": "Giáo viên đã sắp xếp bài tập cho ngày mai."}}
+{"level": 3, "no": 3, "hz": "安装", "py": "ānzhuāng", "vi": "lắp đặt", "ex": {"zh": "我们正在安装空调。", "py": "Wǒmen zhèngzài ānzhuāng kōngtiáo.", "vi": "Chúng tôi đang lắp điều hòa."}}
+{"level": 3, "no": 4, "hz": "按", "py": "àn", "vi": "nhấn, ấn, theo", "ex": {"zh": "请按这个按钮。", "py": "Qǐng àn zhège ànniǔ.", "vi": "Hãy nhấn nút này."}}
+{"level": 3, "no": 5, "hz": "按照", "py": "ànzhào", "vi": "theo như", "ex": {"zh": "按照规定不能迟到。", "py": "Ànzhào guīdìng bùnéng chídào.", "vi": "Theo quy định thì không được đến muộn."}}
+{"level": 3, "no": 6, "hz": "把（介）", "py": "bǎ", "vi": "giới từ “bǎ”", "ex": {"zh": "请把门关上。", "py": "Qǐng bǎ mén guānshàng.", "vi": "Hãy đóng cửa lại."}}
+{"level": 3, "no": 7, "hz": "把（量）", "py": "bǎ", "vi": "lượng từ “bǎ”", "ex": {"zh": "他买了一把椅子。", "py": "Tā mǎi le yì bǎ yǐzi.", "vi": "Anh ấy đã mua một cái ghế."}}
+{"level": 3, "no": 8, "hz": "把握", "py": "bǎwò", "vi": "nắm chắc, nắm bắt", "ex": {"zh": "请把握这个机会。", "py": "Qǐng bǎwò zhège jīhuì.", "vi": "Hãy nắm bắt cơ hội này."}}
+{"level": 3, "no": 9, "hz": "白（副）", "py": "bái", "vi": "uổng công, phí công", "ex": {"zh": "我白跑了一趟。", "py": "Wǒ bái pǎo le yī tàng.", "vi": "Tôi đã chạy đi uổng công một chuyến."}}
+{"level": 3, "no": 10, "hz": "白菜", "py": "bái cài", "vi": "cải thảo", "ex": {"zh": "我喜欢吃白菜。", "py": "Wǒ xǐhuān chī báicài.", "vi": "Tôi thích ăn cải thảo."}}
+{"level": 3, "no": 11, "hz": "班级", "py": "bān jí", "vi": "lớp học", "ex": {"zh": "我们是同一个班级的。", "py": "Wǒmen shì tóng yī gè bānjí de.", "vi": "Chúng tôi học cùng lớp."}}
+{"level": 3, "no": 12, "hz": "搬", "py": "bān", "vi": "chuyển", "ex": {"zh": "我明天要搬家。", "py": "Wǒ míngtiān yào bānjiā.", "vi": "Ngày mai tôi sẽ chuyển nhà."}}
+{"level": 3, "no": 13, "hz": "搬家", "py": "bān jiā", "vi": "dọn nhà", "ex": {"zh": "他们最近搬家了。", "py": "Tāmen zuìjìn bānjiā le.", "vi": "Họ mới chuyển nhà gần đây."}}
+{"level": 3, "no": 14, "hz": "板", "py": "bǎn", "vi": "tấm ván", "ex": {"zh": "请把那块板拿来。", "py": "Qǐng bǎ nà kuài bǎn nálái.", "vi": "Hãy lấy tấm ván đó."}}
+{"level": 3, "no": 15, "hz": "办理", "py": "bànlǐ", "vi": "làm, giải quyết", "ex": {"zh": "请到服务台办理手续。", "py": "Qǐng dào fúwùtái bànlǐ shǒuxù.", "vi": "Hãy đến quầy dịch vụ để làm thủ tục."}}
+{"level": 3, "no": 16, "hz": "保", "py": "bǎo", "vi": "bảo vệ, đảm bảo", "ex": {"zh": "他负责保管这些文件。", "py": "Tā fùzé bǎoguǎn zhèxiē wénjiàn.", "vi": "Anh ấy chịu trách nhiệm giữ tài liệu này."}}
+{"level": 3, "no": 17, "hz": "保安", "py": "bǎo ān", "vi": "bảo vệ", "ex": {"zh": "保安正在门口检查。", "py": "Bǎo’ān zhèngzài ménkǒu jiǎnchá.", "vi": "Bảo vệ đang kiểm tra ở cổng."}}
+{"level": 3, "no": 18, "hz": "保持", "py": "bǎochí", "vi": "giữ gìn", "ex": {"zh": "保持安静。", "py": "Bǎochí ānjìng.", "vi": "Giữ yên lặng."}}
+{"level": 3, "no": 19, "hz": "保存", "py": "bǎocún", "vi": "lưu giữ", "ex": {"zh": "请保存好文件。", "py": "Qǐng bǎocún hǎo wénjiàn.", "vi": "Hãy lưu giữ tài liệu cẩn thận."}}
+{"level": 3, "no": 20, "hz": "保护", "py": "bǎohù", "vi": "bảo vệ", "ex": {"zh": "我们要保护环境。", "py": "Wǒmen yào bǎohù huánjìng.", "vi": "Chúng ta cần bảo vệ môi trường."}}
+{"level": 3, "no": 21, "hz": "保留", "py": "bǎoliú", "vi": "giữ lại", "ex": {"zh": "请保留发票。", "py": "Qǐng bǎoliú fāpiào.", "vi": "Hãy giữ lại hóa đơn."}}
+{"level": 3, "no": 22, "hz": "保险", "py": "bǎoxiǎn", "vi": "bảo hiểm", "ex": {"zh": "你买保险了吗？", "py": "Nǐ mǎi bǎoxiǎn le ma?", "vi": "Bạn đã mua bảo hiểm chưa?"}}
+{"level": 3, "no": 23, "hz": "保证", "py": "bǎozhèng", "vi": "đảm bảo", "ex": {"zh": "我保证不迟到。", "py": "Wǒ bǎozhèng bù chídào.", "vi": "Tôi đảm bảo sẽ không đến muộn."}}
+{"level": 3, "no": 24, "hz": "报（名）", "py": "bào", "vi": "báo, báo cáo", "ex": {"zh": "他每天看报。", "py": "Tā měitiān kàn bào.", "vi": "Anh ấy đọc báo mỗi ngày."}}
+{"level": 3, "no": 25, "hz": "报到", "py": "bàodào", "vi": "báo danh", "ex": {"zh": "新员工今天报到。", "py": "Xīn yuángōng jīntiān bàodào.", "vi": "Nhân viên mới đến báo danh hôm nay."}}
+{"level": 3, "no": 26, "hz": "报道", "py": "bàodào", "vi": "đưa tin, đưa báo cáo", "ex": {"zh": "新闻报道很及时。", "py": "Xīnwén bàodào hěn jíshí.", "vi": "Tin tức được đưa rất kịp thời."}}
+{"level": 3, "no": 27, "hz": "报告", "py": "bàogào", "vi": "báo cáo", "ex": {"zh": "请写一份工作报告。", "py": "Qǐng xiě yí fèn gōngzuò bàogào.", "vi": "Hãy viết một bản báo cáo công việc."}}
+{"level": 3, "no": 28, "hz": "背", "py": "bèi", "vi": "lưng", "ex": {"zh": "我的背很疼。", "py": "Wǒ de bèi hěn téng.", "vi": "Lưng tôi rất đau."}}
+{"level": 3, "no": 29, "hz": "北部", "py": "běi bù", "vi": "miền bắc", "ex": {"zh": "中国的北部天气很冷。", "py": "Zhōngguó de běibù tiānqì hěn lěng.", "vi": "Miền Bắc Trung Quốc rất lạnh."}}
+{"level": 3, "no": 30, "hz": "背（名）", "py": "bèi", "vi": "lưng, phía sau", "ex": {"zh": "他背上背着一个包。", "py": "Tā bèi shàng bèi zhe yī gè bāo.", "vi": "Trên lưng anh ấy đeo một cái túi."}}
+{"level": 3, "no": 31, "hz": "背后", "py": "bèi hòu", "vi": "phía sau", "ex": {"zh": "他在我背后说话。", "py": "Tā zài wǒ bèihòu shuōhuà.", "vi": "Anh ấy nói chuyện sau lưng tôi."}}
+{"level": 3, "no": 32, "hz": "被", "py": "bèi", "vi": "bị (bị động); chăn", "ex": {"zh": "他被老师表扬了。", "py": "Tā bèi lǎoshī biǎoyáng le.", "vi": "Anh ấy được giáo viên khen."}}
+{"level": 3, "no": 33, "hz": "被子", "py": "bèizi", "vi": "chăn", "ex": {"zh": "冬天我盖两床被子。", "py": "Dōngtiān wǒ gài liǎng chuáng bèizi.", "vi": "Vào mùa đông tôi đắp hai cái chăn."}}
+{"level": 3, "no": 34, "hz": "本来", "py": "běnlái", "vi": "vốn dĩ, ban đầu", "ex": {"zh": "他本来不喜欢运动。", "py": "Tā běnlái bù xǐhuān yùndòng.", "vi": "Ban đầu anh ấy không thích thể thao."}}
+{"level": 3, "no": 35, "hz": "本领", "py": "běnlǐng", "vi": "bản lĩnh, khả năng", "ex": {"zh": "她有很强的本领。", "py": "Tā yǒu hěn qiáng de běnlǐng.", "vi": "Cô ấy có năng lực rất mạnh."}}
+{"level": 3, "no": 36, "hz": "本事", "py": "běnshi", "vi": "bản lĩnh, tài cán", "ex": {"zh": "他很有本事。", "py": "Tā hěn yǒu běnshi.", "vi": "Anh ấy rất có tài."}}
+{"level": 3, "no": 37, "hz": "比较", "py": "bǐjiào", "vi": "so sánh; khá là", "ex": {"zh": "今天比较冷。", "py": "Jīntiān bǐjiào lěng.", "vi": "Hôm nay khá lạnh."}}
+{"level": 3, "no": 38, "hz": "比例", "py": "bǐlì", "vi": "tỷ lệ", "ex": {"zh": "男女比例是1:1。", "py": "Nán nǚ bǐlì shì yī bǐ yī.", "vi": "Tỷ lệ nam nữ là 1:1."}}
+{"level": 3, "no": 39, "hz": "比赛", "py": "bǐsài", "vi": "thi đấu", "ex": {"zh": "明天有一场比赛。", "py": "Míngtiān yǒu yī chǎng bǐsài.", "vi": "Ngày mai có một trận thi đấu."}}
+{"level": 3, "no": 40, "hz": "必然", "py": "bìrán", "vi": "tất nhiên, không tránh khỏi", "ex": {"zh": "成功是努力的必然结果。", "py": "Chénggōng shì nǔlì de bìrán jiéguǒ.", "vi": "Thành công là kết quả tất yếu của sự nỗ lực."}}
+{"level": 3, "no": 41, "hz": "必要", "py": "bìyào", "vi": "cần thiết", "ex": {"zh": "没有必要生气。", "py": "Méiyǒu bìyào shēngqì.", "vi": "Không cần phải tức"}}
+{"level": 3, "no": 42, "hz": "变化", "py": "biànhuà", "vi": "thay đổi", "ex": {"zh": "天气有很大变化。", "py": "Tiānqì yǒu hěn dà biànhuà.", "vi": "Thời tiết thay đổi nhiều."}}
+{"level": 3, "no": 43, "hz": "变为", "py": "biàn wéi", "vi": "trở thành", "ex": {"zh": "他变为一个好人了。", "py": "Tā biàn wéi yī gè hǎo rén le.", "vi": "Anh ấy đã trở thành một người tốt."}}
+{"level": 3, "no": 44, "hz": "标题", "py": "biāotí", "vi": "tiêu đề", "ex": {"zh": "这篇文章的标题很有趣。", "py": "Zhè piān wénzhāng de biāotí hěn yǒuqù.", "vi": "Tiêu đề bài viết này rất"}}
+{"level": 3, "no": 45, "hz": "标准", "py": "biāozhǔn", "vi": "tiêu chuẩn", "ex": {"zh": "他写字很标准。", "py": "Tā xiězì hěn biāozhǔn.", "vi": "Anh ấy viết chữ rất chuẩn."}}
+{"level": 3, "no": 46, "hz": "表达", "py": "biǎodá", "vi": "biểu đạt", "ex": {"zh": "他表达了自己的意见。", "py": "Tā biǎodá le zìjǐ de yìjiàn.", "vi": "Anh ấy đã bày tỏ ý kiến của mình."}}
+{"level": 3, "no": 47, "hz": "表格", "py": "biǎogé", "vi": "bảng biểu", "ex": {"zh": "请填写这张表格。", "py": "Qǐng tiánxiě zhè zhāng biǎogé.", "vi": "Hãy điền vào bảng biểu này."}}
+{"level": 3, "no": 48, "hz": "表面", "py": "biǎomiàn", "vi": "bề mặt", "ex": {"zh": "水的表面很平静。", "py": "Shuǐ de biǎomiàn hěn píngjìng.", "vi": "Bề mặt nước rất yên tĩnh."}}
+{"level": 3, "no": 49, "hz": "表明", "py": "biǎomíng", "vi": "chứng tỏ, biểu thị", "ex": {"zh": "这件事表明了他很认真。", "py": "Zhè jiàn shì biǎomíng le tā hěn rènzhēn.", "vi": "Việc này chứng tỏ anh ấy rất nghiêm túc."}}
+{"level": 3, "no": 50, "hz": "表现", "py": "biǎoxiàn", "vi": "thể hiện, biểu hiện", "ex": {"zh": "他在比赛中表现很好。", "py": "Tā zài bǐsài zhōng biǎoxiàn hěn hǎo.", "vi": "Anh ấy thể hiện rất tốt trong trận"}}
+{"level": 3, "no": 51, "hz": "表演", "py": "biǎoyǎn", "vi": "biểu diễn", "ex": {"zh": "他正在表演节目。", "py": "Tā zhèngzài biǎoyǎn jiémù.", "vi": "Anh ấy đang biểu diễn tiết mục."}}
+{"level": 3, "no": 52, "hz": "并（副、连）", "py": "bìng", "vi": "và; cũng", "ex": {"zh": "我并不知道这件事。", "py": "Wǒ bìng bù zhīdào zhè jiàn shì.", "vi": "Tôi thật sự không biết chuyện này."}}
+{"level": 3, "no": 53, "hz": "并且", "py": "bìngqiě", "vi": "hơn nữa", "ex": {"zh": "他聪明并且努力。", "py": "Tā cōngmíng bìngqiě nǔlì.", "vi": "Anh ấy thông minh và siêng năng."}}
+{"level": 3, "no": 54, "hz": "播出", "py": "bō chū", "vi": "phát sóng", "ex": {"zh": "这部电视剧将在今晚播出。", "py": "Zhè bù diànshìjù jiāng zài jīnwǎn bōchū.", "vi": "Bộ phim này sẽ phát sóng tối nay."}}
+{"level": 3, "no": 55, "hz": "播放", "py": "bōfàng", "vi": "phát", "ex": {"zh": "请播放那首歌。", "py": "Qǐng bōfàng nà shǒu gē.", "vi": "Hãy phát bài hát đó."}}
+{"level": 3, "no": 56, "hz": "不必", "py": "bú bì", "vi": "không cần", "ex": {"zh": "你不必担心。", "py": "Nǐ bú bì dānxīn.", "vi": "Bạn không cần lo lắng."}}
+{"level": 3, "no": 57, "hz": "不断", "py": "búduàn", "vi": "liên tục", "ex": {"zh": "他不断努力学习。", "py": "Tā búduàn nǔlì xuéxí.", "vi": "Anh ấy luôn chăm chỉ học tập."}}
+{"level": 3, "no": 58, "hz": "不论", "py": "bú lùn", "vi": "bất kể", "ex": {"zh": "不论结果如何，我都支持你。", "py": "Búlùn jiéguǒ rúhé, wǒ dōu zhīchí nǐ.", "vi": "Dù kết quả thế nào, tôi vẫn ủng hộ bạn."}}
+{"level": 3, "no": 59, "hz": "补", "py": "bǔ", "vi": "bổ sung", "ex": {"zh": "他需要补课。", "py": "Tā xūyào bǔkè.", "vi": "Anh ấy cần học bù."}}
+{"level": 3, "no": 60, "hz": "补充", "py": "bǔchōng", "vi": "bổ sung", "ex": {"zh": "我想补充一点意见。", "py": "Wǒ xiǎng bǔchōng yīdiǎn yìjiàn.", "vi": "Tôi muốn bổ sung một chút ý kiến."}}
+{"level": 3, "no": 61, "hz": "不安", "py": "bù’ān", "vi": "bất an", "ex": {"zh": "她感到很不安。", "py": "Tā gǎndào hěn bù’ān.", "vi": "Cô ấy cảm thấy rất bất an."}}
+{"level": 3, "no": 62, "hz": "不得不", "py": "bùdébù", "vi": "đành phải", "ex": {"zh": "我不得不离开了。", "py": "Wǒ bùdébù líkāi le.", "vi": "Tôi đành phải rời đi."}}
+{"level": 3, "no": 63, "hz": "不光", "py": "bù guāng", "vi": "không chỉ", "ex": {"zh": "他不光聪明，还很勤奋。", "py": "Tā bùguāng cōngmíng, hái hěn qínfèn.", "vi": "Anh ấy không chỉ thông minh mà còn chăm chỉ."}}
+{"level": 3, "no": 64, "hz": "不仅", "py": "bùjǐn", "vi": "không chỉ", "ex": {"zh": "不仅你，我也去了。", "py": "Bùjǐn nǐ, wǒ yě qù le.", "vi": "Không chỉ bạn, tôi cũng đã đi."}}
+{"level": 3, "no": 65, "hz": "布", "py": "bù", "vi": "vải", "ex": {"zh": "她买了一块布。", "py": "Tā mǎi le yī kuài bù.", "vi": "Cô ấy mua một tấm vải."}}
+{"level": 3, "no": 66, "hz": "步", "py": "bù", "vi": "bước", "ex": {"zh": "他走了三步。", "py": "Tā zǒu le sān bù.", "vi": "Anh ấy đã đi ba bước."}}
+{"level": 3, "no": 67, "hz": "部", "py": "bù", "vi": "phần", "ex": {"zh": "这是一部分内容。", "py": "Zhè shì yí bùfèn nèiróng.", "vi": "Đây là một phần nội dung."}}
+{"level": 3, "no": 68, "hz": "部门", "py": "bùmén", "vi": "bộ phận", "ex": {"zh": "他在销售部门工作。", "py": "Tā zài xiāoshòu bùmén gōngzuò.", "vi": "Anh ấy làm việc ở bộ phận kinh doanh."}}
+{"level": 3, "no": 69, "hz": "部长", "py": "bù zhǎng", "vi": "bộ trưởng", "ex": {"zh": "他是教育部长。", "py": "Tā shì jiàoyù bùzhǎng.", "vi": "Ông ấy là Bộ trưởng Giáo dục."}}
+{"level": 3, "no": 70, "hz": "才能", "py": "cái néng", "vi": "tài năng", "ex": {"zh": "他有很高的才能。", "py": "Tā yǒu hěn gāo de cáinéng.", "vi": "Anh ấy có tài năng cao."}}
+{"level": 3, "no": 71, "hz": "采取", "py": "cǎiqǔ", "vi": "thực hiện", "ex": {"zh": "我们采取了新措施。", "py": "Wǒmen cǎiqǔ le xīn cuòshī.", "vi": "Chúng tôi đã áp dụng biện pháp mới."}}
+{"level": 3, "no": 72, "hz": "采用", "py": "cǎi yòng", "vi": "sử dụng", "ex": {"zh": "他采用了这个方法。", "py": "Tā cǎiyòng le zhège fāngfǎ.", "vi": "Anh ấy đã sử dụng phương pháp này."}}
+{"level": 3, "no": 73, "hz": "彩色", "py": "cǎi sè", "vi": "màu sắc", "ex": {"zh": "我喜欢彩色的画。", "py": "Wǒ xǐhuān cǎisè de huà.", "vi": "Tôi thích bức tranh màu."}}
+{"level": 3, "no": 74, "hz": "曾经", "py": "céngjīng", "vi": "đã từng", "ex": {"zh": "我曾经去过那里。", "py": "Wǒ céngjīng qù guò nàlǐ.", "vi": "Tôi đã từng đến đó."}}
+{"level": 3, "no": 75, "hz": "产生", "py": "chǎnshēng", "vi": "tạo ra", "ex": {"zh": "这种药会产生副作用。", "py": "Zhè zhǒng yào huì chǎnshēng fùzuòyòng.", "vi": "Loại thuốc này sẽ gây tác dụng phụ."}}
+{"level": 3, "no": 76, "hz": "长城", "py": "Chángchéng", "vi": "vạn Lý Trường Thành", "ex": {"zh": "我想去参观长城。", "py": "Wǒ xiǎng qù cānguān Chángchéng.", "vi": "Tôi muốn thăm Vạn Lý Trường Thành."}}
+{"level": 3, "no": 77, "hz": "长处", "py": "cháng chù", "vi": "điểm mạnh", "ex": {"zh": "每个人都有自己的长处。", "py": "Měi gèrén dōu yǒu zìjǐ de chángchù.", "vi": "Mỗi người đều có điểm mạnh riêng."}}
+{"level": 3, "no": 78, "hz": "长期", "py": "cháng qī", "vi": "dài hạn", "ex": {"zh": "这是一个长期计划。", "py": "Zhè shì yīgè chángqī jìhuà.", "vi": "Đây là một kế hoạch dài hạn."}}
+{"level": 3, "no": 79, "hz": "厂", "py": "chǎng", "vi": "nhà máy", "ex": {"zh": "他在一家厂里工作。", "py": "Tā zài yī jiā chǎng lǐ gōngzuò.", "vi": "Anh ấy làm việc trong một nhà máy."}}
+{"level": 3, "no": 80, "hz": "场合", "py": "chǎnghé", "vi": "dịp", "ex": {"zh": "这种衣服不适合正式场合。", "py": "Zhè zhǒng yīfu bú shìhé zhèngshì chǎnghé.", "vi": "Loại quần áo này không phù hợp dịp trang trọng."}}
+{"level": 3, "no": 81, "hz": "场所", "py": "chǎngsuǒ", "vi": "nơi chốn", "ex": {"zh": "公共场所禁止吸烟。", "py": "Gōnggòng chǎngsuǒ jìnzhǐ xīyān.", "vi": "Nơi công cộng cấm hút thuốc."}}
+{"level": 3, "no": 82, "hz": "超级", "py": "chāojí", "vi": "siêu", "ex": {"zh": "他是超级明星。", "py": "Tā shì chāojí míngxīng.", "vi": "Anh ấy là siêu sao."}}
+{"level": 3, "no": 83, "hz": "朝", "py": "cháo", "vi": "hướng về", "ex": {"zh": "他朝我走过来。", "py": "Tā cháo wǒ zǒu guòlái.", "vi": "Anh ấy đi về phía tôi."}}
+{"level": 3, "no": 84, "hz": "吵", "py": "chǎo", "vi": "ồn ào", "ex": {"zh": "外面太吵了。", "py": "Wàimiàn tài chǎo le.", "vi": "Bên ngoài quá ồn."}}
+{"level": 3, "no": 85, "hz": "吵架", "py": "chǎojià", "vi": "cãi nhau", "ex": {"zh": "他们在吵架。", "py": "Tāmen zài chǎojià.", "vi": "Họ đang cãi nhau."}}
+{"level": 3, "no": 86, "hz": "衬衫", "py": "chènshān", "vi": "áo sơ mi", "ex": {"zh": "他穿着一件白衬衫。", "py": "Tā chuānzhe yī jiàn bái chènshān.", "vi": "Anh ấy mặc áo sơ mi trắng."}}
+{"level": 3, "no": 87, "hz": "衬衣", "py": "chèn yī", "vi": "áo sơ mi", "ex": {"zh": "她的衬衣很漂亮。", "py": "Tā de chènyī hěn piàoliang.", "vi": "Áo sơ mi của cô ấy rất đẹp."}}
+{"level": 3, "no": 88, "hz": "称为", "py": "chēng wéi", "vi": "được gọi là", "ex": {"zh": "他被称为英雄。", "py": "Tā bèi chēngwéi yīngxióng.", "vi": "Anh ấy được gọi là anh hùng."}}
+{"level": 3, "no": 89, "hz": "成功", "py": "chénggōng", "vi": "thành công", "ex": {"zh": "祝你成功！", "py": "Zhù nǐ chénggōng!", "vi": "Chúc bạn thành công!"}}
+{"level": 3, "no": 90, "hz": "成果", "py": "chéngguǒ", "vi": "thành quả", "ex": {"zh": "这是他的研究成果。", "py": "Zhè shì tā de yánjiū chéngguǒ.", "vi": "Đây là thành quả nghiên cứu của anh ấy."}}
+{"level": 3, "no": 91, "hz": "成就", "py": "chéngjiù", "vi": "thành tựu", "ex": {"zh": "她在音乐方面有很大成就。", "py": "Tā zài yīnyuè fāngmiàn yǒu hěn dà chéngjiù.", "vi": "Cô ấy có nhiều thành tựu về âm nhạc."}}
+{"level": 3, "no": 92, "hz": "成立", "py": "chénglì", "vi": "thành lập", "ex": {"zh": "这家公司成立于2000年。", "py": "Zhè jiā gōngsī chénglì yú 2000 nián.", "vi": "Công ty này thành lập vào năm 2000."}}
+{"level": 3, "no": 93, "hz": "成熟", "py": "chéngshú", "vi": "trưởng thành", "ex": {"zh": "他是个很成熟的人。", "py": "Tā shì gè hěn chéngshú de rén.", "vi": "Anh ấy là người rất trưởng thành."}}
+{"level": 3, "no": 94, "hz": "成员", "py": "chéngyuán", "vi": "thành viên", "ex": {"zh": "她是这个团队的成员。", "py": "Tā shì zhège tuánduì de chéngyuán.", "vi": "Cô ấy là thành viên của nhóm này."}}
+{"level": 3, "no": 95, "hz": "成长", "py": "chéngzhǎng", "vi": "trưởng thành", "ex": {"zh": "孩子的成长需要关爱。", "py": "Háizi de chéngzhǎng xūyào guān’ài.", "vi": "Sự trưởng thành của trẻ cần được quan tâm."}}
+{"level": 3, "no": 96, "hz": "城", "py": "chéng", "vi": "thành phố", "ex": {"zh": "这座城很漂亮。", "py": "Zhè zuò chéng hěn piàoliang.", "vi": "Thành phố này rất đẹp."}}
+{"level": 3, "no": 97, "hz": "城市", "py": "chéngshì", "vi": "thành phố", "ex": {"zh": "他住在大城市。", "py": "Tā zhù zài dà chéngshì.", "vi": "Anh ấy sống ở thành phố lớn."}}
+{"level": 3, "no": 98, "hz": "程度", "py": "chéngdù", "vi": "mức độ", "ex": {"zh": "你的中文程度很高。", "py": "Nǐ de zhōngwén chéngdù hěn gāo.", "vi": "Trình độ tiếng Trung của bạn rất"}}
+{"level": 3, "no": 99, "hz": "持续", "py": "chíxù", "vi": "tiếp tục", "ex": {"zh": "雨已经持续三天了。", "py": "Yǔ yǐjīng chíxù sān tiān le.", "vi": "Trời đã mưa liên tục ba ngày rồi."}}
+{"level": 3, "no": 100, "hz": "充满", "py": "chōngmǎn", "vi": "tràn đầy", "ex": {"zh": "他充满信心。", "py": "Tā chōngmǎn xìnxīn.", "vi": "Anh ấy tràn đầy tự tin."}}
+{"level": 3, "no": 101, "hz": "重", "py": "zhòng", "vi": "nặng", "ex": {"zh": "这个箱子太重了。", "py": "Zhège xiāngzi tài zhòng le.", "vi": "Cái vali này quá nặng."}}
+{"level": 3, "no": 102, "hz": "初", "py": "chū", "vi": "ban đầu", "ex": {"zh": "他是初学者。", "py": "Tā shì chūxuézhě.", "vi": "Anh ấy là người mới học."}}
+{"level": 3, "no": 103, "hz": "初（初一）", "py": "chū (chū yī)", "vi": "lớp 6", "ex": {"zh": "我弟弟上初一了。", "py": "Wǒ dìdi shàng chū yī le.", "vi": "Em trai tôi học lớp 6 rồi."}}
+{"level": 3, "no": 104, "hz": "初步", "py": "chūbù", "vi": "sơ bộ", "ex": {"zh": "我们达成了初步协议。", "py": "Wǒmen dáchéng le chūbù xiéyì.", "vi": "Chúng tôi đã đạt được thỏa thuận sơ bộ."}}
+{"level": 3, "no": 105, "hz": "初级", "py": "chūjí", "vi": "sơ cấp", "ex": {"zh": "她正在学习初级汉语。", "py": "Tā zhèngzài xuéxí chūjí hànyǔ.", "vi": "Cô ấy đang học tiếng Trung sơ cấp."}}
+{"level": 3, "no": 106, "hz": "初中", "py": "chū zhōng", "vi": "trung học cơ sở", "ex": {"zh": "他是初中学生。", "py": "Tā shì chūzhōng xuéshēng.", "vi": "Anh ấy là học sinh trung học cơ sở."}}
+{"level": 3, "no": 107, "hz": "除了", "py": "chúle", "vi": "ngoài ra", "ex": {"zh": "除了你，我都不认识。", "py": "Chúle nǐ, wǒ dōu bù rènshi.", "vi": "Ngoài bạn ra, tôi không quen ai cả."}}
+{"level": 3, "no": 108, "hz": "处理", "py": "chǔlǐ", "vi": "xử lý", "ex": {"zh": "请你处理这个问题。", "py": "Qǐng nǐ chǔlǐ zhège wèntí.", "vi": "Hãy xử lý vấn đề này."}}
+{"level": 3, "no": 109, "hz": "传", "py": "chuán", "vi": "truyền", "ex": {"zh": "请把这个消息传给他。", "py": "Qǐng bǎ zhège xiāoxi chuán gěi tā.", "vi": "Hãy truyền tin này cho anh ấy."}}
+{"level": 3, "no": 110, "hz": "传播", "py": "chuánbō", "vi": "lan truyền", "ex": {"zh": "谣言传播得很快。", "py": "Yáoyán chuánbō de hěn kuài.", "vi": "Tin đồn lan rất nhanh."}}
+{"level": 3, "no": 111, "hz": "传来", "py": "chuán lái", "vi": "truyền đến", "ex": {"zh": "传来一阵笑声。", "py": "Chuán lái yí zhèn xiàoshēng.", "vi": "Tiếng cười truyền đến."}}
+{"level": 3, "no": 112, "hz": "传说", "py": "chuánshuō", "vi": "truyền thuyết", "ex": {"zh": "这是一个古老的传说。", "py": "Zhè shì yīgè gǔlǎo de chuánshuō.", "vi": "Đây là một truyền thuyết cổ xưa."}}
+{"level": 3, "no": 113, "hz": "创新", "py": "chuàngxīn", "vi": "đổi mới", "ex": {"zh": "我们公司重视创新。", "py": "Wǒmen gōngsī zhòngshì chuàngxīn.", "vi": "Công ty chúng tôi coi trọng đổi mới."}}
+{"level": 3, "no": 114, "hz": "创业", "py": "chuàngyè", "vi": "khởi nghiệp", "ex": {"zh": "他正在创业。", "py": "Tā zhèngzài chuàngyè.", "vi": "Anh ấy đang khởi nghiệp."}}
+{"level": 3, "no": 115, "hz": "创造", "py": "chuàngzào", "vi": "sáng tạo", "ex": {"zh": "他创造了一个新纪录。", "py": "Tā chuàngzào le yīgè xīn jìlù.", "vi": "Anh ấy lập nên một kỷ lục mới."}}
+{"level": 3, "no": 116, "hz": "创作", "py": "chuàngzuò", "vi": "sáng tác", "ex": {"zh": "她在创作一本小说。", "py": "Tā zài chuàngzuò yī běn xiǎoshuō.", "vi": "Cô ấy đang sáng tác một tiểu thuyết."}}
+{"level": 3, "no": 117, "hz": "从来", "py": "cónglái", "vi": "từ trước đến nay", "ex": {"zh": "我从来没见过他。", "py": "Wǒ cónglái méi jiànguò tā.", "vi": "Tôi chưa từng gặp anh ấy."}}
+{"level": 3, "no": 118, "hz": "从前", "py": "cóngqián", "vi": "trước đây", "ex": {"zh": "从前有一只老虎。", "py": "Cóngqián yǒu yī zhī lǎohǔ.", "vi": "Ngày xưa có một con hổ."}}
+{"level": 3, "no": 119, "hz": "从事", "py": "cóngshì", "vi": "theo nghề", "ex": {"zh": "他从事教育工作。", "py": "Tā cóngshì jiàoyù gōngzuò.", "vi": "Anh ấy làm trong ngành giáo dục."}}
+{"level": 3, "no": 120, "hz": "村", "py": "cūn", "vi": "làng", "ex": {"zh": "他住在一个小村里。", "py": "Tā zhù zài yīgè xiǎo cūn lǐ.", "vi": "Anh ấy sống ở một ngôi làng nhỏ."}}
+{"level": 3, "no": 121, "hz": "存", "py": "cún", "vi": "gửi", "ex": {"zh": "我把钱存在银行。", "py": "Wǒ bǎ qián cún zài yínháng.", "vi": "Tôi gửi tiền vào ngân hàng."}}
+{"level": 3, "no": 122, "hz": "存在", "py": "cúnzài", "vi": "tồn tại", "ex": {"zh": "这个问题确实存在。", "py": "Zhège wèntí quèshí cúnzài.", "vi": "Vấn đề này thực sự tồn tại."}}
+{"level": 3, "no": 123, "hz": "错误", "py": "cuòwù", "vi": "sai lầm", "ex": {"zh": "他认识到自己的错误。", "py": "Tā rènshí dào zìjǐ de cuòwù.", "vi": "Anh ấy nhận ra sai lầm của mình."}}
+{"level": 3, "no": 124, "hz": "达到", "py": "dádào", "vi": "đạt được", "ex": {"zh": "我终于达到了目标。", "py": "Wǒ zhōngyú dádào le mùbiāo.", "vi": "Cuối cùng tôi cũng đạt được mục tiêu."}}
+{"level": 3, "no": 125, "hz": "打破", "py": "dǎ pò", "vi": "phá vỡ", "ex": {"zh": "他打破了世界纪录。", "py": "Tā dǎpò le shìjiè jìlù.", "vi": "Anh ấy phá kỷ lục thế giới."}}
+{"level": 3, "no": 126, "hz": "打听", "py": "dǎting", "vi": "hỏi thăm", "ex": {"zh": "我想打听一下情况。", "py": "Wǒ xiǎng dǎting yíxià qíngkuàng.", "vi": "Tôi muốn hỏi thăm tình hình một chút."}}
+{"level": 3, "no": 127, "hz": "大概", "py": "dàgài", "vi": "có lẽ", "ex": {"zh": "他大概已经到了。", "py": "Tā dàgài yǐjīng dào le.", "vi": "Có lẽ anh ấy đã đến rồi."}}
+{"level": 3, "no": 128, "hz": "大使馆", "py": "dàshǐguǎn", "vi": "đại sứ quán", "ex": {"zh": "我去中国大使馆办签证。", "py": "Wǒ qù Zhōngguó dàshǐguǎn bàn qiānzhèng.", "vi": "Tôi đến Đại sứ quán Trung Quốc để làm visa."}}
+{"level": 3, "no": 129, "hz": "大约", "py": "dàyuē", "vi": "khoảng", "ex": {"zh": "大约三十个人来了。", "py": "Dàyuē sānshí gè rén lái le.", "vi": "Khoảng 30 người đã đến."}}
+{"level": 3, "no": 130, "hz": "大夫", "py": "dàifu", "vi": "bác sĩ", "ex": {"zh": "他是儿科大夫。", "py": "Tā shì érkē dàifu.", "vi": "Anh ấy là bác sĩ nhi khoa."}}
+{"level": 3, "no": 131, "hz": "代", "py": "dài", "vi": "thay thế", "ex": {"zh": "我代他参加会议。", "py": "Wǒ dài tā cānjiā huìyì.", "vi": "Tôi thay mặt anh ấy tham dự cuộc họp."}}
+{"level": 3, "no": 132, "hz": "代表", "py": "dàibiǎo", "vi": "đại biểu", "ex": {"zh": "他是我们的代表。", "py": "Tā shì wǒmen de dàibiǎo.", "vi": "Anh ấy là đại diện của chúng tôi."}}
+{"level": 3, "no": 133, "hz": "代表团", "py": "dài biǎo tuán", "vi": "đoàn đại biểu", "ex": {"zh": "代表团访问了越南。", "py": "Dàibiǎotuán fǎngwèn le Yuènán.", "vi": "Đoàn đại biểu đã đến thăm Việt Nam."}}
+{"level": 3, "no": 134, "hz": "带动", "py": "dài dòng", "vi": "thúc đẩy", "ex": {"zh": "他带动了整个团队。", "py": "Tā dàidòng le zhěnggè tuánduì.", "vi": "Anh ấy đã thúc đẩy cả đội."}}
+{"level": 3, "no": 135, "hz": "带领", "py": "dàilǐng", "vi": "dẫn dắt", "ex": {"zh": "老师带领我们参观工厂。", "py": "Lǎoshī dàilǐng wǒmen cānguān gōngchǎng.", "vi": "Giáo viên dẫn chúng tôi đi thăm nhà máy."}}
+{"level": 3, "no": 136, "hz": "单元", "py": "dānyuán", "vi": "đơn nguyên", "ex": {"zh": "我住在二单元。", "py": "Wǒ zhù zài èr dānyuán.", "vi": "Tôi sống ở đơn nguyên số 2."}}
+{"level": 3, "no": 137, "hz": "当初", "py": "dāngchū", "vi": "lúc đầu", "ex": {"zh": "当初我不应该答应他。", "py": "Dāngchū wǒ bù yìnggāi dāyìng tā.", "vi": "Lúc đầu tôi không nên đồng ý với anh ta."}}
+{"level": 3, "no": 138, "hz": "当地", "py": "dāngdì", "vi": "địa phương", "ex": {"zh": "我喜欢当地的食物。", "py": "Wǒ xǐhuān dāngdì de shíwù.", "vi": "Tôi thích món ăn địa phương."}}
+{"level": 3, "no": 139, "hz": "当然", "py": "dāngrán", "vi": "đương nhiên", "ex": {"zh": "当然可以帮你。", "py": "Dāngrán kěyǐ bāng nǐ.", "vi": "Đương nhiên có thể giúp bạn."}}
+{"level": 3, "no": 140, "hz": "当中", "py": "dāng zhōng", "vi": "ở giữa", "ex": {"zh": "她坐在学生当中。", "py": "Tā zuò zài xuéshēng dāngzhōng.", "vi": "Cô ấy ngồi giữa các học sinh."}}
+{"level": 3, "no": 141, "hz": "刀", "py": "dāo", "vi": "dao", "ex": {"zh": "小心这把刀很锋利。", "py": "Xiǎoxīn zhè bǎ dāo hěn fēnglì.", "vi": "Cẩn thận con dao này rất sắc."}}
+{"level": 3, "no": 142, "hz": "导演", "py": "dǎoyǎn", "vi": "đạo diễn", "ex": {"zh": "这部电影的导演很有名。", "py": "Zhè bù diànyǐng de dǎoyǎn hěn yǒumíng.", "vi": "Đạo diễn của bộ phim này rất nổi tiếng."}}
+{"level": 3, "no": 143, "hz": "到达", "py": "dàodá", "vi": "đến nơi", "ex": {"zh": "火车准时到达了。", "py": "Huǒchē zhǔnshí dàodá le.", "vi": "Tàu đã đến đúng giờ."}}
+{"level": 3, "no": 144, "hz": "到底", "py": "dàodǐ", "vi": "rốt cuộc", "ex": {"zh": "你到底去不去？", "py": "Nǐ dàodǐ qù bù qù?", "vi": "Rốt cuộc bạn có đi không?"}}
+{"level": 3, "no": 145, "hz": "得分", "py": "dé fēn", "vi": "ghi điểm", "ex": {"zh": "他在比赛中得了高分。", "py": "Tā zài bǐsài zhōng dé le gāofēn.", "vi": "Anh ấy ghi điểm cao trong trận đấu."}}
+{"level": 3, "no": 146, "hz": "等待", "py": "děngdài", "vi": "chờ đợi", "ex": {"zh": "他正在等待朋友。", "py": "Tā zhèngzài děngdài péngyǒu.", "vi": "Anh ấy đang đợi bạn."}}
+{"level": 3, "no": 147, "hz": "底下", "py": "dǐ xià", "vi": "bên dưới", "ex": {"zh": "桌子底下有只猫。", "py": "Zhuōzi dǐxià yǒu zhī māo.", "vi": "Có một con mèo dưới bàn."}}
+{"level": 3, "no": 148, "hz": "地区", "py": "dìqū", "vi": "khu vực", "ex": {"zh": "这个地区很安静。", "py": "Zhège dìqū hěn ānjìng.", "vi": "Khu vực này rất yên tĩnh."}}
+{"level": 3, "no": 149, "hz": "电视剧", "py": "diàn shì jù", "vi": "phim truyền hình", "ex": {"zh": "我在看一部电视剧。", "py": "Wǒ zài kàn yí bù diànshìjù.", "vi": "Tôi đang xem một bộ phim truyền hình."}}
+{"level": 3, "no": 150, "hz": "电视台", "py": "diàn shì tái", "vi": "đài truyền hình", "ex": {"zh": "他在电视台工作。", "py": "Tā zài diànshìtái gōngzuò.", "vi": "Anh ấy làm việc ở đài truyền hình."}}
+{"level": 3, "no": 151, "hz": "电台", "py": "diàntái", "vi": "đài phát thanh", "ex": {"zh": "他在电台工作。", "py": "Tā zài diàntái gōngzuò.", "vi": "Anh ấy làm việc ở đài phát thanh."}}
+{"level": 3, "no": 152, "hz": "电子邮件", "py": "diànzǐyóujiàn", "vi": "thư điện tử", "ex": {"zh": "我每天检查电子邮件。", "py": "Wǒ měitiān jiǎnchá diànzǐ yóujiàn.", "vi": "Tôi kiểm tra email hàng ngày."}}
+{"level": 3, "no": 153, "hz": "调", "py": "diào", "vi": "điều chuyển", "ex": {"zh": "他被调到北京工作。", "py": "Tā bèi diào dào Běijīng gōngzuò.", "vi": "Anh ấy được điều chuyển đến Bắc Kinh làm việc."}}
+{"level": 3, "no": 154, "hz": "调查", "py": "diàochá", "vi": "điều tra", "ex": {"zh": "警察正在进行调查。", "py": "Jǐngchá zhèngzài jìnxíng diàochá.", "vi": "Cảnh sát đang tiến hành điều tra."}}
+{"level": 3, "no": 155, "hz": "订", "py": "dìng", "vi": "đặt (hàng, vé...)", "ex": {"zh": "我订了一张机票。", "py": "Wǒ dìng le yì zhāng jīpiào.", "vi": "Tôi đã đặt một vé máy bay."}}
+{"level": 3, "no": 156, "hz": "定期", "py": "dìngqī", "vi": "định kỳ", "ex": {"zh": "我们每月定期检查设备。", "py": "Wǒmen měi yuè dìngqī jiǎnchá shèbèi.", "vi": "Chúng tôi kiểm tra thiết bị định kỳ hàng tháng."}}
+{"level": 3, "no": 157, "hz": "东部", "py": "dōng bù", "vi": "khu vực phía Đông", "ex": {"zh": "他们住在城市的东部。", "py": "Tāmen zhù zài chéngshì de dōngbù.", "vi": "Họ sống ở khu phía Đông thành phố."}}
+{"level": 3, "no": 158, "hz": "动力", "py": "dònglì", "vi": "động lực", "ex": {"zh": "家庭是我最大的动力。", "py": "Jiātíng shì wǒ zuì dà de dònglì.", "vi": "Gia đình là động lực lớn nhất của tôi."}}
+{"level": 3, "no": 159, "hz": "动人", "py": "dòng rén", "vi": "cảm động", "ex": {"zh": "她的故事很动人。", "py": "Tā de gùshì hěn dòngrén.", "vi": "Câu chuyện của cô ấy rất cảm động."}}
+{"level": 3, "no": 160, "hz": "读者", "py": "dú zhě", "vi": "độc giả", "ex": {"zh": "这本书受到读者欢迎。", "py": "Zhè běn shū shòudào dúzhě huānyíng.", "vi": "Cuốn sách này được độc giả đón nhận."}}
+{"level": 3, "no": 161, "hz": "短处", "py": "duǎn chù", "vi": "điểm yếu", "ex": {"zh": "每个人都有短处。", "py": "Měi gèrén dōu yǒu duǎnchù.", "vi": "Ai cũng có điểm yếu."}}
+{"level": 3, "no": 162, "hz": "短裤", "py": "duǎn kù", "vi": "quần short", "ex": {"zh": "夏天我喜欢穿短裤。", "py": "Xiàtiān wǒ xǐhuān chuān duǎnkù.", "vi": "Mùa hè tôi thích mặc quần short."}}
+{"level": 3, "no": 163, "hz": "短期", "py": "duǎn qī", "vi": "ngắn hạn", "ex": {"zh": "这是一个短期项目。", "py": "Zhè shì yīgè duǎnqī xiàngmù.", "vi": "Đây là một dự án ngắn hạn."}}
+{"level": 3, "no": 164, "hz": "断", "py": "duàn", "vi": "ngắt, gãy", "ex": {"zh": "他不小心把杯子打断了。", "py": "Tā bù xiǎoxīn bǎ bēizi dǎ duàn le.", "vi": "Anh ấy vô tình làm vỡ cái cốc."}}
+{"level": 3, "no": 165, "hz": "队员", "py": "duì yuán", "vi": "thành viên đội", "ex": {"zh": "每个队员都很努力。", "py": "Měi gè duìyuán dōu hěn nǔlì.", "vi": "Mỗi thành viên trong đội đều rất nỗ lực."}}
+{"level": 3, "no": 166, "hz": "对待", "py": "duìdài", "vi": "đối xử", "ex": {"zh": "他对人很友好地对待。", "py": "Tā duì rén hěn yǒuhǎo de duìdài.", "vi": "Anh ấy đối xử với mọi người rất thân thiện."}}
+{"level": 3, "no": 167, "hz": "对方", "py": "duìfāng", "vi": "phía bên kia", "ex": {"zh": "比赛中要了解对方。", "py": "Bǐsài zhōng yào liǎojiě duìfāng.", "vi": "Trong trận đấu cần hiểu rõ đối thủ."}}
+{"level": 3, "no": 168, "hz": "对手", "py": "duìshǒu", "vi": "đối thủ", "ex": {"zh": "他是一个强大的对手。", "py": "Tā shì yīgè qiángdà de duìshǒu.", "vi": "Anh ấy là một đối thủ mạnh."}}
+{"level": 3, "no": 169, "hz": "对象", "py": "duìxiàng", "vi": "đối tượng", "ex": {"zh": "她是我研究的对象。", "py": "Tā shì wǒ yánjiū de duìxiàng.", "vi": "Cô ấy là đối tượng nghiên cứu của tôi."}}
+{"level": 3, "no": 170, "hz": "顿", "py": "dùn", "vi": "bữa (ăn)", "ex": {"zh": "我们吃了一顿丰盛的晚餐。", "py": "Wǒmen chī le yí dùn fēngshèng de wǎncān.", "vi": "Chúng tôi ăn một bữa tối thịnh soạn."}}
+{"level": 3, "no": 171, "hz": "发表", "py": "fābiǎo", "vi": "công bố", "ex": {"zh": "他在杂志上发表了文章。", "py": "Tā zài zázhì shàng fābiǎo le wénzhāng.", "vi": "Anh ấy đã đăng bài trên tạp chí."}}
+{"level": 3, "no": 172, "hz": "发出", "py": "fā chū", "vi": "phát ra", "ex": {"zh": "发出强烈的光芒。", "py": "Fāchū qiángliè de guāngmáng.", "vi": "Phát ra ánh sáng mạnh."}}
+{"level": 3, "no": 173, "hz": "发达", "py": "fādá", "vi": "phát triển", "ex": {"zh": "中国的经济很发达。", "py": "Zhōngguó de jīngjì hěn fādá.", "vi": "Kinh tế Trung Quốc rất phát triển."}}
+{"level": 3, "no": 174, "hz": "发动", "py": "fādòng", "vi": "phát động", "ex": {"zh": "发动了一场改革。", "py": "Fādòng le yī chǎng gǎigé.", "vi": "Phát động một cuộc cải cách."}}
+{"level": 3, "no": 175, "hz": "发明", "py": "fāmíng", "vi": "phát minh", "ex": {"zh": "他发明了新机器。", "py": "Tā fāmíng le xīn jīqì.", "vi": "Anh ấy phát minh ra máy móc mới."}}
+{"level": 3, "no": 176, "hz": "发生", "py": "fāshēng", "vi": "xảy ra", "ex": {"zh": "昨天发生了意外。", "py": "Zuótiān fāshēng le yìwài.", "vi": "Hôm qua đã xảy ra sự cố."}}
+{"level": 3, "no": 177, "hz": "发送", "py": "fā sòng", "vi": "gửi", "ex": {"zh": "我已经发送了邮件。", "py": "Wǒ yǐjīng fāsòng le yóujiàn.", "vi": "Tôi đã gửi email rồi."}}
+{"level": 3, "no": 178, "hz": "发言", "py": "fāyán", "vi": "phát biểu", "ex": {"zh": "他在会议上发言了。", "py": "Tā zài huìyì shàng fāyán le.", "vi": "Anh ấy đã phát biểu trong cuộc họp."}}
+{"level": 3, "no": 179, "hz": "发展", "py": "fāzhǎn", "vi": "phát triển", "ex": {"zh": "我们公司发展很快。", "py": "Wǒmen gōngsī fāzhǎn hěn kuài.", "vi": "Công ty chúng tôi phát triển rất nhanh."}}
+{"level": 3, "no": 180, "hz": "反对", "py": "fǎnduì", "vi": "phản đối", "ex": {"zh": "我们强烈反对这个提议。", "py": "Wǒmen qiángliè fǎnduì zhège tíyì.", "vi": "Chúng tôi kịch liệt phản đối đề xuất này."}}
+{"level": 3, "no": 181, "hz": "反复", "py": "fǎnfù", "vi": "lặp đi lặp lại", "ex": {"zh": "他反复地练习。", "py": "Tā fǎnfù de liànxí.", "vi": "Anh ấy luyện tập lặp đi lặp lại."}}
+{"level": 3, "no": 182, "hz": "反应", "py": "fǎnyìng", "vi": "phản ứng", "ex": {"zh": "她的反应很快。", "py": "Tā de fǎnyìng hěn kuài.", "vi": "Phản ứng của cô ấy rất nhanh."}}
+{"level": 3, "no": 183, "hz": "反正", "py": "fǎnzhèng", "vi": "dù sao", "ex": {"zh": "反正我不去。", "py": "Fǎnzhèng wǒ bù qù.", "vi": "Dù sao tôi cũng không đi."}}
+{"level": 3, "no": 184, "hz": "范围", "py": "fànwéi", "vi": "phạm vi", "ex": {"zh": "这个问题超出了我的范围。", "py": "Zhège wèntí chāochū le wǒ de fànwéi.", "vi": "Vấn đề này vượt ngoài phạm vi của tôi."}}
+{"level": 3, "no": 185, "hz": "方式", "py": "fāngshì", "vi": "phương thức", "ex": {"zh": "我们改变了工作方式。", "py": "Wǒmen gǎibiàn le gōngzuò fāngshì.", "vi": "Chúng tôi đã thay đổi phương thức làm việc."}}
+{"level": 3, "no": 186, "hz": "防", "py": "fáng", "vi": "phòng ngừa", "ex": {"zh": "需要防火措施。", "py": "Xūyào fánghuǒ cuòshī.", "vi": "Cần có biện pháp phòng cháy."}}
+{"level": 3, "no": 187, "hz": "防止", "py": "fángzhǐ", "vi": "ngăn chặn", "ex": {"zh": "我们要防止意外。", "py": "Wǒmen yào fángzhǐ yìwài.", "vi": "Chúng ta cần ngăn ngừa tai nạn."}}
+{"level": 3, "no": 188, "hz": "房东", "py": "fángdōng", "vi": "chủ nhà", "ex": {"zh": "房东对我们很好。", "py": "Fángdōng duì wǒmen hěn hǎo.", "vi": "Chủ nhà đối xử với chúng tôi rất tốt."}}
+{"level": 3, "no": 189, "hz": "房屋", "py": "fáng wū", "vi": "nhà cửa", "ex": {"zh": "城市里的房屋很贵。", "py": "Chéngshì lǐ de fángwū hěn guì.", "vi": "Nhà cửa ở thành phố rất đắt."}}
+{"level": 3, "no": 190, "hz": "房租", "py": "fáng zū", "vi": "tiền thuê nhà", "ex": {"zh": "我每月要交房租。", "py": "Wǒ měi yuè yào jiāo fángzū.", "vi": "Tôi phải trả tiền thuê nhà mỗi tháng."}}
+{"level": 3, "no": 191, "hz": "访问", "py": "fǎngwèn", "vi": "thăm", "ex": {"zh": "我们访问了那家公司。", "py": "Wǒmen fǎngwèn le nà jiā gōngsī.", "vi": "Chúng tôi đã đến thăm công ty đó."}}
+{"level": 3, "no": 192, "hz": "放到", "py": "fàng dào", "vi": "đặt vào", "ex": {"zh": "请把书放到桌子上。", "py": "Qǐng bǎ shū fàng dào zhuōzi shàng.", "vi": "Hãy đặt sách lên bàn."}}
+{"level": 3, "no": 193, "hz": "飞行", "py": "fēi xíng", "vi": "bay", "ex": {"zh": "飞行时间大约两小时。", "py": "Fēixíng shíjiān dàyuē liǎng xiǎoshí.", "vi": "Thời gian bay khoảng hai tiếng."}}
+{"level": 3, "no": 194, "hz": "费", "py": "fèi", "vi": "phí", "ex": {"zh": "修理费很高。", "py": "Xiūlǐ fèi hěn gāo.", "vi": "Phí sửa chữa rất cao."}}
+{"level": 3, "no": 195, "hz": "费用", "py": "fèi yòng", "vi": "chi phí", "ex": {"zh": "旅行费用由公司报销。", "py": "Lǚxíng fèiyòng yóu gōngsī bàoxiāo.", "vi": "Chi phí đi công tác được công ty hoàn trả."}}
+{"level": 3, "no": 196, "hz": "分别", "py": "fēnbié", "vi": "riêng biệt", "ex": {"zh": "我们分别从不同地方来。", "py": "Wǒmen fēnbié cóng bùtóng dìfāng lái.", "vi": "Chúng tôi đến từ những nơi khác nhau."}}
+{"level": 3, "no": 197, "hz": "分配", "py": "fēnpèi", "vi": "phân phối", "ex": {"zh": "老师分配了作业任务。", "py": "Lǎoshī fēnpèi le zuòyè rènwù.", "vi": "Giáo viên phân công bài tập."}}
+{"level": 3, "no": 198, "hz": "分组", "py": "fēn zǔ", "vi": "chia nhóm", "ex": {"zh": "请大家分组讨论。", "py": "Qǐng dàjiā fēnzǔ tǎolùn.", "vi": "Mọi người hãy chia nhóm thảo luận."}}
+{"level": 3, "no": 199, "hz": "丰富", "py": "fēngfù", "vi": "phong phú", "ex": {"zh": "他的经验非常丰富。", "py": "Tā de jīngyàn fēicháng fēngfù.", "vi": "Kinh nghiệm của anh ấy rất phong phú."}}
+{"level": 3, "no": 200, "hz": "风险", "py": "fēngxiǎn", "vi": "rủi ro", "ex": {"zh": "投资总是有风险的。", "py": "Tóuzī zǒng shì yǒu fēngxiǎn de.", "vi": "Đầu tư luôn có rủi ro."}}
+{"level": 3, "no": 201, "hz": "否定", "py": "fǒudìng", "vi": "phủ định", "ex": {"zh": "他否定了这个观点。", "py": "Tā fǒudìng le zhège guāndiǎn.", "vi": "Anh ấy phủ định quan điểm này."}}
+{"level": 3, "no": 202, "hz": "否认", "py": "fǒurèn", "vi": "phủ nhận", "ex": {"zh": "他否认自己有错。", "py": "Tā fǒurèn zìjǐ yǒu cuò.", "vi": "Anh ta phủ nhận mình sai."}}
+{"level": 3, "no": 203, "hz": "服装", "py": "fúzhuāng", "vi": "trang phục", "ex": {"zh": "她的服装很时尚。", "py": "Tā de fúzhuāng hěn shíshàng.", "vi": "Trang phục của cô ấy rất thời trang."}}
+{"level": 3, "no": 204, "hz": "福", "py": "fú", "vi": "phúc lành", "ex": {"zh": "新年快乐，万事如意，幸福安康！", "py": "Xīnnián kuàilè, wànshì rúyì, xìngfú ānkāng!", "vi": "Chúc mừng năm mới, vạn sự như ý, hạnh phúc an khang!"}}
+{"level": 3, "no": 205, "hz": "父母", "py": "fù mǔ", "vi": "cha mẹ", "ex": {"zh": "我非常尊敬我的父母。", "py": "Wǒ fēicháng zūnjìng wǒ de fùmǔ.", "vi": "Tôi rất tôn trọng cha mẹ mình."}}
+{"level": 3, "no": 206, "hz": "父亲", "py": "fùqīn", "vi": "cha", "ex": {"zh": "父亲每天都很忙。", "py": "Fùqīn měitiān dōu hěn máng.", "vi": "Bố tôi rất bận mỗi ngày."}}
+{"level": 3, "no": 207, "hz": "付", "py": "fù", "vi": "trả tiền", "ex": {"zh": "请先付一半费用。", "py": "Qǐng xiān fù yíbàn fèiyòng.", "vi": "Vui lòng trả trước một nửa chi phí."}}
+{"level": 3, "no": 208, "hz": "负责", "py": "fùzé", "vi": "chịu trách nhiệm", "ex": {"zh": "我负责这个项目。", "py": "Wǒ fùzé zhège xiàngmù.", "vi": "Tôi chịu trách nhiệm dự án này."}}
+{"level": 3, "no": 209, "hz": "复印", "py": "fùyìn", "vi": "sao chép", "ex": {"zh": "请帮我复印这份文件。", "py": "Qǐng bāng wǒ fùyìn zhè fèn wénjiàn.", "vi": "Giúp tôi sao chép tài liệu này với."}}
+{"level": 3, "no": 210, "hz": "复杂", "py": "fùzá", "vi": "phức tạp", "ex": {"zh": "这个问题很复杂。", "py": "Zhège wèntí hěn fùzá.", "vi": "Vấn đề này rất phức tạp."}}
+{"level": 3, "no": 211, "hz": "富", "py": "fù", "vi": "giàu", "ex": {"zh": "他家很富有。", "py": "Tā jiā hěn fùyǒu.", "vi": "Gia đình anh ấy rất giàu có."}}
+{"level": 3, "no": 212, "hz": "改进", "py": "gǎijìn", "vi": "cải tiến", "ex": {"zh": "我们要改进工作方法。", "py": "Wǒmen yào gǎijìn gōngzuò fāngfǎ.", "vi": "Chúng ta cần cải tiến cách làm việc."}}
+{"level": 3, "no": 213, "hz": "改造", "py": "gǎi zào", "vi": "cải tạo", "ex": {"zh": "这个地方被改造成了公园。", "py": "Zhège dìfāng bèi gǎizào chéng le gōngyuán.", "vi": "Nơi này đã được cải tạo thành công viên."}}
+{"level": 3, "no": 214, "hz": "概念", "py": "gàiniàn", "vi": "khái niệm", "ex": {"zh": "这个概念我还不太明白。", "py": "Zhège gàiniàn wǒ hái bù tài míngbái.", "vi": "Tôi vẫn chưa hiểu rõ khái niệm này."}}
+{"level": 3, "no": 215, "hz": "赶", "py": "gǎn", "vi": "đuổi kịp", "ex": {"zh": "我赶上了最后一班车。", "py": "Wǒ gǎn shàng le zuìhòu yì bān chē.", "vi": "Tôi đã kịp chuyến xe cuối cùng."}}
+{"level": 3, "no": 216, "hz": "赶到", "py": "gǎn dào", "vi": "đến nơi", "ex": {"zh": "他赶到现场帮助我们。", "py": "Tā gǎndào xiànchǎng bāngzhù wǒmen.", "vi": "Anh ấy đến hiện trường để giúp chúng tôi."}}
+{"level": 3, "no": 217, "hz": "赶紧", "py": "gǎnjǐn", "vi": "mau chóng", "ex": {"zh": "我们赶紧出发吧。", "py": "Wǒmen gǎnjǐn chūfā ba.", "vi": "Chúng ta mau khởi hành thôi."}}
+{"level": 3, "no": 218, "hz": "赶快", "py": "gǎnkuài", "vi": "nhanh chóng", "ex": {"zh": "赶快回来吃饭！", "py": "Gǎnkuài huílái chīfàn!", "vi": "Về ăn cơm nhanh lên!"}}
+{"level": 3, "no": 219, "hz": "敢", "py": "gǎn", "vi": "dám", "ex": {"zh": "我不敢一个人去。", "py": "Wǒ bù gǎn yí gè rén qù.", "vi": "Tôi không dám đi một mình."}}
+{"level": 3, "no": 220, "hz": "感冒", "py": "gǎnmào", "vi": "bị cảm", "ex": {"zh": "我最近感冒了。", "py": "Wǒ zuìjìn gǎnmào le.", "vi": "Gần đây tôi bị cảm."}}
+{"level": 3, "no": 221, "hz": "感情", "py": "gǎnqíng", "vi": "tình cảm", "ex": {"zh": "他们的感情很好。", "py": "Tāmen de gǎnqíng hěn hǎo.", "vi": "Tình cảm của họ rất tốt."}}
+{"level": 3, "no": 222, "hz": "感受", "py": "gǎnshòu", "vi": "cảm nhận", "ex": {"zh": "我能感受到你的心情。", "py": "Wǒ néng gǎnshòu dào nǐ de xīnqíng.", "vi": "Tôi có thể cảm nhận được tâm trạng của bạn."}}
+{"level": 3, "no": 223, "hz": "干吗", "py": "gàn má", "vi": "làm gì", "ex": {"zh": "你干吗不说话？", "py": "Nǐ gànmá bù shuōhuà?", "vi": "Sao bạn không nói gì vậy?"}}
+{"level": 3, "no": 224, "hz": "高速", "py": "gāo sù", "vi": "tốc độ cao", "ex": {"zh": "我们坐高速列车去上海。", "py": "Wǒmen zuò gāosù lièchē qù Shànghǎi.", "vi": "Chúng tôi đi tàu cao tốc đến Thượng Hải."}}
+{"level": 3, "no": 225, "hz": "高速公路", "py": "gāosùgōnglù", "vi": "đường cao tốc", "ex": {"zh": "这条高速公路很宽。", "py": "Zhè tiáo gāosùgōnglù hěn kuān.", "vi": "Tuyến đường cao tốc này rất rộng."}}
+{"level": 3, "no": 226, "hz": "告别", "py": "gàobié", "vi": "tạm biệt", "ex": {"zh": "他跟我们告别了。", "py": "Tā gēn wǒmen gàobié le.", "vi": "Anh ấy đã nói lời tạm biệt với chúng tôi."}}
+{"level": 3, "no": 227, "hz": "歌迷", "py": "gē mí", "vi": "người hâm mộ", "ex": {"zh": "她是这位歌手的歌迷。", "py": "Tā shì zhè wèi gēshǒu de gēmí.", "vi": "Cô ấy là người hâm mộ của ca sĩ này."}}
+{"level": 3, "no": 228, "hz": "歌声", "py": "gē shēng", "vi": "tiếng hát", "ex": {"zh": "她的歌声很动听。", "py": "Tā de gēshēng hěn dòngtīng.", "vi": "Giọng hát của cô ấy rất hay."}}
+{"level": 3, "no": 229, "hz": "歌手", "py": "gē shǒu", "vi": "ca sĩ", "ex": {"zh": "他是一位著名的歌手。", "py": "Tā shì yí wèi zhùmíng de gēshǒu.", "vi": "Anh ấy là một ca sĩ nổi tiếng."}}
+{"level": 3, "no": 230, "hz": "个人", "py": "gèrén", "vi": "cá nhân", "ex": {"zh": "这是我的个人意见。", "py": "Zhè shì wǒ de gèrén yìjiàn.", "vi": "Đây là ý kiến cá nhân của tôi."}}
+{"level": 3, "no": 231, "hz": "个性", "py": "gèxìng", "vi": "cá tính", "ex": {"zh": "她很有个性。", "py": "Tā hěn yǒu gèxìng.", "vi": "Cô ấy rất cá tính."}}
+{"level": 3, "no": 232, "hz": "各", "py": "gè", "vi": "mỗi, các", "ex": {"zh": "各方面都要考虑。", "py": "Gè fāngmiàn dōu yào kǎolǜ.", "vi": "Cần xem xét mọi phương diện."}}
+{"level": 3, "no": 233, "hz": "各地", "py": "gè dì", "vi": "các nơi", "ex": {"zh": "各地的风俗不一样。", "py": "Gèdì de fēngsú bù yíyàng.", "vi": "Tập tục ở các nơi khác nhau."}}
+{"level": 3, "no": 234, "hz": "各位", "py": "gè wèi", "vi": "quý vị", "ex": {"zh": "各位好，欢迎大家。", "py": "Gèwèi hǎo, huānyíng dàjiā.", "vi": "Xin chào quý vị, chào mừng mọi người."}}
+{"level": 3, "no": 235, "hz": "各种", "py": "gè zhǒng", "vi": "các loại", "ex": {"zh": "他收集了各种邮票。", "py": "Tā shōují le gèzhǒng yóupiào.", "vi": "Anh ấy sưu tầm nhiều loại tem."}}
+{"level": 3, "no": 236, "hz": "各自", "py": "gèzì", "vi": "mỗi người", "ex": {"zh": "各自回家吧。", "py": "Gèzì huíjiā ba.", "vi": "Mỗi người tự về nhà đi."}}
+{"level": 3, "no": 237, "hz": "根本", "py": "gēnběn", "vi": "căn bản", "ex": {"zh": "我根本不知道。", "py": "Wǒ gēnběn bù zhīdào.", "vi": "Tôi hoàn toàn không biết."}}
+{"level": 3, "no": 238, "hz": "更加", "py": "gèng jiā", "vi": "càng", "ex": {"zh": "我会更加努力。", "py": "Wǒ huì gèngjiā nǔlì.", "vi": "Tôi sẽ cố gắng hơn nữa."}}
+{"level": 3, "no": 239, "hz": "工厂", "py": "gōngchǎng", "vi": "nhà máy", "ex": {"zh": "他在工厂工作。", "py": "Tā zài gōngchǎng gōngzuò.", "vi": "Anh ấy làm việc ở nhà máy."}}
+{"level": 3, "no": 240, "hz": "工程师", "py": "gōngchéngshī", "vi": "kỹ sư", "ex": {"zh": "他是一名工程师。", "py": "Tā shì yì míng gōngchéngshī.", "vi": "Anh ấy là một kỹ sư."}}
+{"level": 3, "no": 241, "hz": "工夫", "py": "gōng fu", "vi": "thời gian", "ex": {"zh": "我没工夫陪你。", "py": "Wǒ méi gōngfu péi nǐ.", "vi": "Tôi không có thời gian đi cùng bạn."}}
+{"level": 3, "no": 242, "hz": "工具", "py": "gōngjù", "vi": "công cụ", "ex": {"zh": "我需要一些工具修理。", "py": "Wǒ xūyào yìxiē gōngjù xiūlǐ.", "vi": "Tôi cần vài dụng cụ để sửa chữa."}}
+{"level": 3, "no": 243, "hz": "工业", "py": "gōngyè", "vi": "công nghiệp", "ex": {"zh": "工业发展很重要。", "py": "Gōngyè fāzhǎn hěn zhòngyào.", "vi": "Phát triển công nghiệp rất quan trọng."}}
+{"level": 3, "no": 244, "hz": "工资", "py": "gōngzī", "vi": "tiền lương", "ex": {"zh": "他的工资很高。", "py": "Tā de gōngzī hěn gāo.", "vi": "Lương của anh ấy rất cao."}}
+{"level": 3, "no": 245, "hz": "公布", "py": "gōngbù", "vi": "công bố", "ex": {"zh": "政府公布了新政策。", "py": "Zhèngfǔ gōngbù le xīn zhèngcè.", "vi": "Chính phủ đã công bố chính sách mới."}}
+{"level": 3, "no": 246, "hz": "公共", "py": "gōng gòng", "vi": "công cộng", "ex": {"zh": "公共交通很方便。", "py": "Gōnggòng jiāotōng hěn fāngbiàn.", "vi": "Giao thông công cộng rất tiện lợi."}}
+{"level": 3, "no": 247, "hz": "公开", "py": "gōngkāi", "vi": "công khai", "ex": {"zh": "比赛结果已经公开。", "py": "Bǐsài jiéguǒ yǐjīng gōngkāi.", "vi": "Kết quả thi đã được công khai."}}
+{"level": 3, "no": 248, "hz": "公民", "py": "gōngmín", "vi": "công dân", "ex": {"zh": "每个公民都有权利。", "py": "Měi gè gōngmín dōu yǒu quánlì.", "vi": "Mỗi công dân đều có quyền lợi."}}
+{"level": 3, "no": 249, "hz": "公务员", "py": "gōng wù yuán", "vi": "công chức", "ex": {"zh": "他是国家公务员。", "py": "Tā shì guójiā gōngwùyuán.", "vi": "Anh ấy là công chức nhà nước."}}
+{"level": 3, "no": 250, "hz": "功夫", "py": "gōngfu", "vi": "công phu", "ex": {"zh": "他练了十年功夫。", "py": "Tā liàn le shí nián gōngfu.", "vi": "Anh ấy đã luyện công mười năm."}}
+{"level": 3, "no": 251, "hz": "功课", "py": "gōng kè", "vi": "bài tập", "ex": {"zh": "我今天的功课很多。", "py": "Wǒ jīntiān de gōngkè hěn duō.", "vi": "Hôm nay tôi có rất nhiều bài tập."}}
+{"level": 3, "no": 252, "hz": "功能", "py": "gōngnéng", "vi": "chức năng", "ex": {"zh": "这个手机有很多功能。", "py": "Zhège shǒujī yǒu hěn duō gōngnéng.", "vi": "Điện thoại này có nhiều chức năng."}}
+{"level": 3, "no": 253, "hz": "共同", "py": "gòngtóng", "vi": "chung", "ex": {"zh": "我们有共同的兴趣。", "py": "Wǒmen yǒu gòngtóng de xìngqù.", "vi": "Chúng tôi có sở thích chung."}}
+{"level": 3, "no": 254, "hz": "共有", "py": "gòng yǒu", "vi": "chia sẻ, có chung", "ex": {"zh": "我们共有一台电脑。", "py": "Wǒmen gòngyǒu yì tái diànnǎo.", "vi": "Chúng tôi cùng dùng chung một máy tính."}}
+{"level": 3, "no": 255, "hz": "姑娘", "py": "gūniang", "vi": "cô gái", "ex": {"zh": "那个姑娘很漂亮。", "py": "Nàge gūniang hěn piàoliang.", "vi": "Cô gái kia rất xinh đẹp."}}
+{"level": 3, "no": 256, "hz": "古", "py": "gǔ", "vi": "cổ", "ex": {"zh": "这是一座古老的城市。", "py": "Zhè shì yí zuò gǔlǎo de chéngshì.", "vi": "Đây là một thành phố cổ kính."}}
+{"level": 3, "no": 257, "hz": "古代", "py": "gǔdài", "vi": "cổ đại", "ex": {"zh": "他喜欢研究古代历史。", "py": "Tā xǐhuān yánjiū gǔdài lìshǐ.", "vi": "Anh ấy thích nghiên cứu lịch sử cổ đại."}}
+{"level": 3, "no": 258, "hz": "故乡", "py": "gùxiāng", "vi": "quê hương", "ex": {"zh": "我的故乡在南方。", "py": "Wǒ de gùxiāng zài nánfāng.", "vi": "Quê tôi ở miền Nam."}}
+{"level": 3, "no": 259, "hz": "挂", "py": "guà", "vi": "treo", "ex": {"zh": "他把衣服挂在墙上。", "py": "Tā bǎ yīfu guà zài qiáng shàng.", "vi": "Anh ấy treo quần áo lên tường."}}
+{"level": 3, "no": 260, "hz": "关系", "py": "guānxì", "vi": "mối quan hệ", "ex": {"zh": "他们的关系很好。", "py": "Tāmen de guānxì hěn hǎo.", "vi": "Quan hệ giữa họ rất tốt."}}
+{"level": 3, "no": 261, "hz": "关注", "py": "guān zhù", "vi": "quan tâm", "ex": {"zh": "我很关注这个新闻。", "py": "Wǒ hěn guānzhù zhège xīnwén.", "vi": "Tôi rất quan tâm đến tin tức này."}}
+{"level": 3, "no": 262, "hz": "观察", "py": "guānchá", "vi": "quan sát", "ex": {"zh": "请仔细观察这个实验。", "py": "Qǐng zǐxì guānchá zhège shíyàn.", "vi": "Hãy quan sát kỹ thí nghiệm này."}}
+{"level": 3, "no": 263, "hz": "观看", "py": "guān kàn", "vi": "xem", "ex": {"zh": "我们一起观看了演出。", "py": "Wǒmen yìqǐ guānkàn le yǎnchū.", "vi": "Chúng tôi đã cùng nhau xem buổi biểu diễn."}}
+{"level": 3, "no": 264, "hz": "观念", "py": "guānniàn", "vi": "quan niệm", "ex": {"zh": "他的观念很传统。", "py": "Tā de guānniàn hěn chuántǒng.", "vi": "Quan niệm của anh ấy rất truyền thống."}}
+{"level": 3, "no": 265, "hz": "观众", "py": "guānzhòng", "vi": "khán giả", "ex": {"zh": "演出吸引了很多观众。", "py": "Yǎnchū xīyǐn le hěn duō guānzhòng.", "vi": "Buổi biểu diễn thu hút rất nhiều khán giả."}}
+{"level": 3, "no": 266, "hz": "管", "py": "guǎn", "vi": "quản lý", "ex": {"zh": "他负责管这个部门。", "py": "Tā fùzé guǎn zhège bùmén.", "vi": "Anh ấy phụ trách quản lý bộ phận này."}}
+{"level": 3, "no": 267, "hz": "管理", "py": "guǎnlǐ", "vi": "quản lý", "ex": {"zh": "她有很强的管理能力。", "py": "Tā yǒu hěn qiáng de guǎnlǐ nénglì.", "vi": "Cô ấy có năng lực quản lý rất tốt."}}
+{"level": 3, "no": 268, "hz": "光", "py": "guāng", "vi": "ánh sáng", "ex": {"zh": "房间里没有光。", "py": "Fángjiān lǐ méiyǒu guāng.", "vi": "Trong phòng không có ánh sáng."}}
+{"level": 3, "no": 269, "hz": "光明", "py": "guāngmíng", "vi": "sáng sủa", "ex": {"zh": "我们有光明的未来。", "py": "Wǒmen yǒu guāngmíng de wèilái.", "vi": "Chúng ta có một tương lai tươi sáng."}}
+{"level": 3, "no": 270, "hz": "广播", "py": "guǎngbō", "vi": "phát thanh", "ex": {"zh": "我每天早上听广播。", "py": "Wǒ měitiān zǎoshang tīng guǎngbò.", "vi": "Mỗi sáng tôi nghe đài phát thanh."}}
+{"level": 3, "no": 271, "hz": "广大", "py": "guǎngdà", "vi": "rộng lớn", "ex": {"zh": "这片土地非常广大。", "py": "Zhè piàn tǔdì fēicháng guǎngdà.", "vi": "Vùng đất này rất rộng lớn."}}
+{"level": 3, "no": 272, "hz": "规定", "py": "guīdìng", "vi": "quy định", "ex": {"zh": "请遵守规定。", "py": "Qǐng zūnshǒu guīdìng.", "vi": "Hãy tuân thủ quy định."}}
+{"level": 3, "no": 273, "hz": "规范", "py": "guīfàn", "vi": "tiêu chuẩn", "ex": {"zh": "写作要符合语言规范。", "py": "Xiězuò yào fúhé yǔyán guīfàn.", "vi": "Viết văn cần đúng chuẩn ngôn ngữ."}}
+{"level": 3, "no": 274, "hz": "国内", "py": "guó nèi", "vi": "trong nước", "ex": {"zh": "这款产品只在国内销售。", "py": "Zhè kuǎn chǎnpǐn zhǐ zài guónèi xiāoshòu.", "vi": "Sản phẩm này chỉ bán trong nước."}}
+{"level": 3, "no": 275, "hz": "国庆", "py": "guó qìng", "vi": "quốc khánh", "ex": {"zh": "国庆节是十月一日。", "py": "Guóqìng jié shì shí yuè yī rì.", "vi": "Quốc khánh là ngày 1 tháng 10."}}
+{"level": 3, "no": 276, "hz": "果然", "py": "guǒrán", "vi": "quả nhiên", "ex": {"zh": "他果然迟到了。", "py": "Tā guǒrán chídào le.", "vi": "Anh ấy quả nhiên đến muộn."}}
+{"level": 3, "no": 277, "hz": "果汁", "py": "guǒzhī", "vi": "nước ép trái cây", "ex": {"zh": "我喜欢喝橙子果汁。", "py": "Wǒ xǐhuān hē chéngzi guǒzhī.", "vi": "Tôi thích uống nước cam."}}
+{"level": 3, "no": 278, "hz": "过程", "py": "guòchéng", "vi": "quá trình", "ex": {"zh": "这个过程很复杂。", "py": "Zhège guòchéng hěn fùzá.", "vi": "Quá trình này rất phức tạp."}}
+{"level": 3, "no": 279, "hz": "过去（名）", "py": "guò qù", "vi": "quá khứ", "ex": {"zh": "我想起了过去的事情。", "py": "Wǒ xiǎngqǐ le guòqù de shìqing.", "vi": "Tôi nhớ lại chuyện trong quá khứ."}}
+{"level": 3, "no": 280, "hz": "哈哈", "py": "hā hā", "vi": "ha ha", "ex": {"zh": "哈哈，你真有趣！", "py": "Hāhā, nǐ zhēn yǒuqù!", "vi": "Ha ha, bạn thật thú vị!"}}
+{"level": 3, "no": 281, "hz": "海关", "py": "hǎiguān", "vi": "hải quan", "ex": {"zh": "他在海关工作。", "py": "Tā zài hǎiguān gōngzuò.", "vi": "Anh ấy làm việc ở hải quan."}}
+{"level": 3, "no": 282, "hz": "害怕", "py": "hàipà", "vi": "sợ", "ex": {"zh": "我害怕黑暗。", "py": "Wǒ hàipà hēi'àn.", "vi": "Tôi sợ bóng tối."}}
+{"level": 3, "no": 283, "hz": "行", "py": "háng", "vi": "hàng", "ex": {"zh": "银行在那一行。", "py": "Yínháng zài nà yì háng.", "vi": "Ngân hàng ở dãy đó."}}
+{"level": 3, "no": 284, "hz": "好好", "py": "hǎo hǎo", "vi": "chăm chỉ, tốt", "ex": {"zh": "你要好好学习。", "py": "Nǐ yào hǎohǎo xuéxí.", "vi": "Bạn phải học hành chăm chỉ."}}
+{"level": 3, "no": 285, "hz": "好奇", "py": "hàoqí", "vi": "tò mò", "ex": {"zh": "孩子们对什么都很好奇。", "py": "Háizimen duì shénme dōu hěn hàoqí.", "vi": "Trẻ con cái gì cũng tò mò."}}
+{"level": 3, "no": 286, "hz": "合", "py": "hé", "vi": "hợp lại", "ex": {"zh": "这两本书合起来很重。", "py": "Zhè liǎng běn shū hé qǐlái hěn zhòng.", "vi": "Hai cuốn sách này cộng lại rất"}}
+{"level": 3, "no": 287, "hz": "合法", "py": "héfǎ", "vi": "hợp pháp", "ex": {"zh": "他是合法居民。", "py": "Tā shì héfǎ jūmín.", "vi": "Anh ấy là cư dân hợp pháp."}}
+{"level": 3, "no": 288, "hz": "合格", "py": "hégé", "vi": "đạt chuẩn", "ex": {"zh": "他考试合格了。", "py": "Tā kǎoshì hégé le.", "vi": "Anh ấy đã vượt qua kỳ thi."}}
+{"level": 3, "no": 289, "hz": "合理", "py": "hélǐ", "vi": "hợp lý", "ex": {"zh": "这个价格很合理。", "py": "Zhège jiàgé hěn hélǐ.", "vi": "Giá này rất hợp lý."}}
+{"level": 3, "no": 290, "hz": "合作", "py": "hézuò", "vi": "hợp tác", "ex": {"zh": "我们愿意与你合作。", "py": "Wǒmen yuànyì yǔ nǐ hézuò.", "vi": "Chúng tôi sẵn sàng hợp tác với bạn."}}
+{"level": 3, "no": 291, "hz": "和平", "py": "hépíng", "vi": "hòa bình", "ex": {"zh": "我们希望世界和平。", "py": "Wǒmen xīwàng shìjiè hépíng.", "vi": "Chúng tôi mong muốn thế giới hòa bình."}}
+{"level": 3, "no": 292, "hz": "红茶", "py": "hóng chá", "vi": "hồng trà", "ex": {"zh": "我每天早上喝红茶。", "py": "Wǒ měitiān zǎoshang hē hóngchá.", "vi": "Mỗi sáng tôi uống hồng trà."}}
+{"level": 3, "no": 293, "hz": "红酒", "py": "hóng jiǔ", "vi": "rượu vang đỏ", "ex": {"zh": "晚餐时我们喝了红酒。", "py": "Wǎncān shí wǒmen hē le hóngjiǔ.", "vi": "Chúng tôi đã uống rượu vang vào bữa tối."}}
+{"level": 3, "no": 294, "hz": "后果", "py": "hòuguǒ", "vi": "hậu quả", "ex": {"zh": "你要承担后果。", "py": "Nǐ yào chéngdān hòuguǒ.", "vi": "Bạn phải chịu hậu quả."}}
+{"level": 3, "no": 295, "hz": "后面", "py": "hòumiàn", "vi": "phía sau", "ex": {"zh": "他站在我后面。", "py": "Tā zhàn zài wǒ hòumiàn.", "vi": "Anh ấy đứng phía sau tôi."}}
+{"level": 3, "no": 296, "hz": "后年", "py": "hòu nián", "vi": "năm sau nữa", "ex": {"zh": "后年我就大学毕业了。", "py": "Hòunián wǒ jiù dàxué bìyè le.", "vi": "Năm sau nữa tôi sẽ tốt nghiệp đại học."}}
+{"level": 3, "no": 297, "hz": "互联网", "py": "hùliánwǎng", "vi": "internet", "ex": {"zh": "互联网改变了世界。", "py": "Hùliánwǎng gǎibiàn le shìjiè.", "vi": "Internet đã thay đổi thế giới."}}
+{"level": 3, "no": 298, "hz": "互相", "py": "hùxiāng", "vi": "lẫn nhau", "ex": {"zh": "我们要互相帮助。", "py": "Wǒmen yào hùxiāng bāngzhù.", "vi": "Chúng ta phải giúp đỡ lẫn nhau."}}
+{"level": 3, "no": 299, "hz": "划船", "py": "huá chuán", "vi": "chèo thuyền", "ex": {"zh": "我们去湖上划船。", "py": "Wǒmen qù hú shàng huáchuán.", "vi": "Chúng tôi đi chèo thuyền trên hồ."}}
+{"level": 3, "no": 300, "hz": "华人", "py": "huá rén", "vi": "người Hoa", "ex": {"zh": "他是美国的华人。", "py": "Tā shì Měiguó de Huárén.", "vi": "Anh ấy là người Hoa ở Mỹ."}}
+{"level": 3, "no": 301, "hz": "化（现代化）", "py": "huà (xiàn dài huà)", "vi": "hóa (hiện đại hóa)", "ex": {"zh": "城市已经实现现代化。", "py": "Chéngshì yǐjīng shíxiàn xiàndàihuà.", "vi": "Thành phố đã hiện đại hóa rồi."}}
+{"level": 3, "no": 302, "hz": "话剧", "py": "huà jù", "vi": "kịch nói", "ex": {"zh": "我昨天去看了一场话剧。", "py": "Wǒ zuótiān qù kàn le yì chǎng huàjù.", "vi": "Hôm qua tôi đi xem một vở kịch."}}
+{"level": 3, "no": 303, "hz": "话题", "py": "huàtí", "vi": "chủ đề", "ex": {"zh": "这个话题很有意思。", "py": "Zhège huàtí hěn yǒuyìsi.", "vi": "Chủ đề này rất thú vị."}}
+{"level": 3, "no": 304, "hz": "欢乐", "py": "huānlè", "vi": "vui vẻ", "ex": {"zh": "节日气氛非常欢乐。", "py": "Jiérì qìfēn fēicháng huānlè.", "vi": "Không khí lễ hội rất vui vẻ."}}
+{"level": 3, "no": 305, "hz": "环", "py": "huán", "vi": "vòng", "ex": {"zh": "他戴了一个金环。", "py": "Tā dài le yí gè jīn huán.", "vi": "Anh ấy đeo một chiếc vòng vàng."}}
+{"level": 3, "no": 306, "hz": "环保", "py": "huán bǎo", "vi": "bảo vệ môi trường", "ex": {"zh": "我们应该注意环保。", "py": "Wǒmen yīnggāi zhùyì huánbǎo.", "vi": "Chúng ta nên chú ý bảo vệ môi trường."}}
+{"level": 3, "no": 307, "hz": "环境", "py": "huánjìng", "vi": "môi trường", "ex": {"zh": "这里的环境很好。", "py": "Zhèlǐ de huánjìng hěn hǎo.", "vi": "Môi trường ở đây rất tốt."}}
+{"level": 3, "no": 308, "hz": "会议", "py": "huìyì", "vi": "cuộc họp", "ex": {"zh": "明天上午开会议。", "py": "Míngtiān shàngwǔ kāi huìyì.", "vi": "Sáng mai có cuộc họp."}}
+{"level": 3, "no": 309, "hz": "会员", "py": "huì yuán", "vi": "hội viên", "ex": {"zh": "他是健身房的会员。", "py": "Tā shì jiànshēnfáng de huìyuán.", "vi": "Anh ấy là hội viên của phòng gym."}}
+{"level": 3, "no": 310, "hz": "活", "py": "huó", "vi": "sống", "ex": {"zh": "她活得很快乐。", "py": "Tā huó de hěn kuàilè.", "vi": "Cô ấy sống rất vui vẻ."}}
+{"level": 3, "no": 311, "hz": "火（名）", "py": "huǒ", "vi": "lửa", "ex": {"zh": "山上起火了。", "py": "Shān shàng qǐhuǒ le.", "vi": "Trên núi có cháy."}}
+{"level": 3, "no": 312, "hz": "机器", "py": "jīqì", "vi": "máy móc", "ex": {"zh": "工厂里有很多机器。", "py": "Gōngchǎng lǐ yǒu hěn duō jīqì.", "vi": "Trong nhà máy có rất nhiều máy móc."}}
+{"level": 3, "no": 313, "hz": "积极", "py": "jījí", "vi": "tích cực", "ex": {"zh": "他学习非常积极。", "py": "Tā xuéxí fēicháng jījí.", "vi": "Anh ấy học tập rất tích cực."}}
+{"level": 3, "no": 314, "hz": "基本", "py": "jīběn", "vi": "cơ bản", "ex": {"zh": "你已经掌握了基本知识。", "py": "Nǐ yǐjīng zhǎngwò le jīběn zhīshì.", "vi": "Bạn đã nắm được kiến thức cơ bản."}}
+{"level": 3, "no": 315, "hz": "基本上", "py": "jī běn shàng", "vi": "về cơ bản", "ex": {"zh": "我们的想法基本上一样。", "py": "Wǒmen de xiǎngfǎ jīběn shàng yíyàng.", "vi": "Về cơ bản thì suy nghĩ của chúng tôi giống nhau."}}
+{"level": 3, "no": 316, "hz": "基础", "py": "jīchǔ", "vi": "nền tảng", "ex": {"zh": "他有很好的英语基础。", "py": "Tā yǒu hěn hǎo de Yīngyǔ jīchǔ.", "vi": "Anh ấy có nền tảng tiếng Anh rất tốt."}}
+{"level": 3, "no": 317, "hz": "及时", "py": "jíshí", "vi": "kịp thời", "ex": {"zh": "他及时地完成了任务。", "py": "Tā jíshí de wánchéng le rènwù.", "vi": "Anh ấy đã hoàn thành nhiệm vụ đúng lúc."}}
+{"level": 3, "no": 318, "hz": "…极了", "py": "… jí le", "vi": "cực kỳ", "ex": {"zh": "今天冷极了。", "py": "Jīntiān lěng jí le.", "vi": "Hôm nay lạnh cực kỳ."}}
+{"level": 3, "no": 319, "hz": "集体", "py": "jítǐ", "vi": "tập thể", "ex": {"zh": "我们是一个团结的集体。", "py": "Wǒmen shì yí gè tuánjié de jítǐ.", "vi": "Chúng tôi là một tập thể đoàn kết."}}
+{"level": 3, "no": 320, "hz": "集中", "py": "jízhōng", "vi": "tập trung", "ex": {"zh": "请集中注意力。", "py": "Qǐng jízhōng zhùyìlì.", "vi": "Hãy tập trung chú ý."}}
+{"level": 3, "no": 321, "hz": "计算", "py": "jìsuàn", "vi": "tính toán", "ex": {"zh": "请帮我计算一下总数。", "py": "Qǐng bāng wǒ jìsuàn yíxià zǒngshù.", "vi": "Hãy giúp tôi tính tổng số."}}
+{"level": 3, "no": 322, "hz": "记录", "py": "jìlù", "vi": "ghi chép", "ex": {"zh": "请把会议内容记录下来。", "py": "Qǐng bǎ huìyì nèiróng jìlù xiàlái.", "vi": "Hãy ghi lại nội dung cuộc họp."}}
+{"level": 3, "no": 323, "hz": "记者", "py": "jìzhě", "vi": "nhà báo", "ex": {"zh": "记者正在采访他。", "py": "Jìzhě zhèngzài cǎifǎng tā.", "vi": "Nhà báo đang phỏng vấn anh ấy."}}
+{"level": 3, "no": 324, "hz": "纪录", "py": "jìlù", "vi": "kỷ lục", "ex": {"zh": "他打破了世界纪录。", "py": "Tā dǎpò le shìjiè jìlù.", "vi": "Anh ấy đã phá kỷ lục thế giới."}}
+{"level": 3, "no": 325, "hz": "纪念", "py": "jìniàn", "vi": "kỷ niệm", "ex": {"zh": "今天是他们的结婚纪念日。", "py": "Jīntiān shì tāmen de jiéhūn jìniàn rì.", "vi": "Hôm nay là ngày kỷ niệm cưới của họ."}}
+{"level": 3, "no": 326, "hz": "技术", "py": "jìshù", "vi": "kỹ thuật", "ex": {"zh": "他的技术很高超。", "py": "Tā de jìshù hěn gāochāo.", "vi": "Kỹ thuật của anh ấy rất cao siêu."}}
+{"level": 3, "no": 327, "hz": "继续", "py": "jìxù", "vi": "tiếp tục", "ex": {"zh": "我们继续工作吧。", "py": "Wǒmen jìxù gōngzuò ba.", "vi": "Chúng ta tiếp tục làm việc nhé."}}
+{"level": 3, "no": 328, "hz": "加工", "py": "jiāgōng", "vi": "gia công", "ex": {"zh": "这家工厂主要加工金属。", "py": "Zhè jiā gōngchǎng zhǔyào jiāgōng jīnshǔ.", "vi": "Nhà máy này chủ yếu gia công kim loại."}}
+{"level": 3, "no": 329, "hz": "加快", "py": "jiā kuài", "vi": "tăng tốc", "ex": {"zh": "我们要加快进度。", "py": "Wǒmen yào jiākuài jìndù.", "vi": "Chúng ta phải tăng tốc tiến độ."}}
+{"level": 3, "no": 330, "hz": "加强", "py": "jiā qiáng", "vi": "tăng cường", "ex": {"zh": "应该加强锻炼身体。", "py": "Yīnggāi jiāqiáng duànliàn shēntǐ.", "vi": "Nên tăng cường rèn luyện sức khỏe."}}
+{"level": 3, "no": 331, "hz": "家具", "py": "jiājù", "vi": "đồ nội thất", "ex": {"zh": "他买了很多新家具。", "py": "Tā mǎi le hěn duō xīn jiājù.", "vi": "Anh ấy đã mua rất nhiều đồ nội thất mới."}}
+{"level": 3, "no": 332, "hz": "家属", "py": "jiāshǔ", "vi": "người thân", "ex": {"zh": "患者的家属在外面等着。", "py": "Huànzhě de jiāshǔ zài wàimiàn děngzhe.", "vi": "Người nhà bệnh nhân đang chờ ở ngoài."}}
+{"level": 3, "no": 333, "hz": "家乡", "py": "jiāxiāng", "vi": "quê nhà", "ex": {"zh": "我很想念我的家乡。", "py": "Wǒ hěn xiǎngniàn wǒ de jiāxiāng.", "vi": "Tôi rất nhớ quê nhà."}}
+{"level": 3, "no": 334, "hz": "价格", "py": "jiàgé", "vi": "giá cả", "ex": {"zh": "这个价格太贵了。", "py": "Zhège jiàgé tài guì le.", "vi": "Giá này quá đắt."}}
+{"level": 3, "no": 335, "hz": "价钱", "py": "jià qián", "vi": "giá tiền", "ex": {"zh": "你知道这本书的价钱吗？", "py": "Nǐ zhīdào zhè běn shū de jiàqián ma?", "vi": "Bạn biết giá cuốn sách này"}}
+{"level": 3, "no": 336, "hz": "价值", "py": "jiàzhí", "vi": "giá trị", "ex": {"zh": "这幅画很有价值。", "py": "Zhè fú huà hěn yǒu jiàzhí.", "vi": "Bức tranh này rất có giá trị."}}
+{"level": 3, "no": 337, "hz": "架", "py": "jià", "vi": "giá, khung", "ex": {"zh": "把书放在书架上。", "py": "Bǎ shū fàng zài shūjià shàng.", "vi": "Đặt sách lên giá sách."}}
+{"level": 3, "no": 338, "hz": "坚持", "py": "jiānchí", "vi": "kiên trì", "ex": {"zh": "只要坚持就能成功。", "py": "Zhǐyào jiānchí jiù néng chénggōng.", "vi": "Chỉ cần kiên trì là có thể thành công."}}
+{"level": 3, "no": 339, "hz": "坚决", "py": "jiānjué", "vi": "kiên quyết", "ex": {"zh": "我坚决反对这个决定。", "py": "Wǒ jiānjué fǎnduì zhège juédìng.", "vi": "Tôi kiên quyết phản đối quyết định này."}}
+{"level": 3, "no": 340, "hz": "坚强", "py": "jiānqiáng", "vi": "kiên cường", "ex": {"zh": "她是个坚强的女人。", "py": "Tā shì gè jiānqiáng de nǚrén.", "vi": "Cô ấy là một người phụ nữ kiên cường."}}
+{"level": 3, "no": 341, "hz": "简单", "py": "jiǎndān", "vi": "đơn giản", "ex": {"zh": "这个问题很简单。", "py": "Zhège wèntí hěn jiǎndān.", "vi": "Vấn đề này rất đơn giản."}}
+{"level": 3, "no": 342, "hz": "简直", "py": "jiǎnzhí", "vi": "thật là", "ex": {"zh": "他简直太棒了。", "py": "Tā jiǎnzhí tài bàng le.", "vi": "Anh ấy thật sự quá tuyệt."}}
+{"level": 3, "no": 343, "hz": "建", "py": "jiàn", "vi": "xây", "ex": {"zh": "我们正在建一座桥。", "py": "Wǒmen zhèngzài jiàn yí zuò qiáo.", "vi": "Chúng tôi đang xây một cây cầu."}}
+{"level": 3, "no": 344, "hz": "建成", "py": "jiàn chéng", "vi": "xây xong", "ex": {"zh": "大楼已经建成了。", "py": "Dàlóu yǐjīng jiànchéng le.", "vi": "Tòa nhà đã được xây xong."}}
+{"level": 3, "no": 345, "hz": "建立", "py": "jiànlì", "vi": "thiết lập", "ex": {"zh": "我们要建立信任。", "py": "Wǒmen yào jiànlì xìnrèn.", "vi": "Chúng ta cần xây dựng lòng tin."}}
+{"level": 3, "no": 346, "hz": "建设", "py": "jiànshè", "vi": "xây dựng", "ex": {"zh": "国家正在大力建设基础设施。", "py": "Guójiā zhèngzài dàlì jiànshè jīchǔ shèshī.", "vi": "Quốc gia đang tích cực xây dựng cơ sở hạ tầng."}}
+{"level": 3, "no": 347, "hz": "建议", "py": "jiànyì", "vi": "đề nghị", "ex": {"zh": "我有一个建议。", "py": "Wǒ yǒu yí gè jiànyì.", "vi": "Tôi có một đề nghị."}}
+{"level": 3, "no": 348, "hz": "将近", "py": "jiāngjìn", "vi": "gần như", "ex": {"zh": "他将近三十岁了。", "py": "Tā jiāngjìn sānshí suì le.", "vi": "Anh ấy gần ba mươi tuổi rồi."}}
+{"level": 3, "no": 349, "hz": "将来", "py": "jiānglái", "vi": "tương lai", "ex": {"zh": "将来我想做医生。", "py": "Jiānglái wǒ xiǎng zuò yīshēng.", "vi": "Tương lai tôi muốn làm bác sĩ."}}
+{"level": 3, "no": 350, "hz": "交费", "py": "jiāo fèi", "vi": "đóng phí", "ex": {"zh": "请在前台交费。", "py": "Qǐng zài qiántái jiāofèi.", "vi": "Xin vui lòng đóng phí tại quầy lễ tân."}}
+{"level": 3, "no": 351, "hz": "交警", "py": "jiāo jǐng", "vi": "cảnh sát giao thông", "ex": {"zh": "路口有交警在指挥。", "py": "Lùkǒu yǒu jiāojǐng zài zhǐhuī.", "vi": "Có cảnh sát giao thông đang điều khiển ở ngã tư."}}
+{"level": 3, "no": 352, "hz": "交流", "py": "jiāoliú", "vi": "giao lưu", "ex": {"zh": "他们经常与外国人交流。", "py": "Tāmen jīngcháng yǔ wàiguó rén jiāoliú.", "vi": "Họ thường xuyên giao lưu với người nước ngoài."}}
+{"level": 3, "no": 353, "hz": "交往", "py": "jiāowǎng", "vi": "qua lại", "ex": {"zh": "我们和他们家有很多交往。", "py": "Wǒmen hé tāmen jiā yǒu hěn duō jiāowǎng.", "vi": "Gia đình chúng tôi có nhiều mối quan hệ với họ."}}
+{"level": 3, "no": 354, "hz": "交易", "py": "jiāoyì", "vi": "giao dịch", "ex": {"zh": "这是一笔重要的交易。", "py": "Zhè shì yì bǐ zhòngyào de jiāoyì.", "vi": "Đây là một giao dịch quan trọng."}}
+{"level": 3, "no": 355, "hz": "叫（介）", "py": "jiào", "vi": "gọi là", "ex": {"zh": "他叫李明。", "py": "Tā jiào Lǐ Míng.", "vi": "Anh ấy tên là Lý Minh."}}
+{"level": 3, "no": 356, "hz": "较", "py": "jiào", "vi": "tương đối", "ex": {"zh": "这个问题较简单。", "py": "Zhège wèntí jiào jiǎndān.", "vi": "Vấn đề này tương đối đơn giản."}}
+{"level": 3, "no": 357, "hz": "教材", "py": "jiàocái", "vi": "giáo trình", "ex": {"zh": "我们使用新的教材。", "py": "Wǒmen shǐyòng xīn de jiàocái.", "vi": "Chúng tôi sử dụng giáo trình mới."}}
+{"level": 3, "no": 358, "hz": "教练", "py": "jiàoliàn", "vi": "huấn luyện viên", "ex": {"zh": "他是一名足球教练。", "py": "Tā shì yì míng zúqiú jiàoliàn.", "vi": "Anh ấy là huấn luyện viên bóng đá."}}
+{"level": 3, "no": 359, "hz": "结实", "py": "jiēshi", "vi": "chắc chắn", "ex": {"zh": "这把椅子很结实。", "py": "Zhè bǎ yǐzi hěn jiēshi.", "vi": "Cái ghế này rất chắc chắn."}}
+{"level": 3, "no": 360, "hz": "接待", "py": "jiēdài", "vi": "tiếp đón", "ex": {"zh": "前台负责接待客人。", "py": "Qiántái fùzé jiēdài kèrén.", "vi": "Quầy lễ tân phụ trách tiếp đón khách."}}
+{"level": 3, "no": 361, "hz": "接近", "py": "jiējìn", "vi": "gần", "ex": {"zh": "他接近退休年龄了。", "py": "Tā jiējìn tuìxiū niánlíng le.", "vi": "Anh ấy gần đến tuổi nghỉ hưu rồi."}}
+{"level": 3, "no": 362, "hz": "节约", "py": "jiéyuē", "vi": "tiết kiệm", "ex": {"zh": "我们要节约用水。", "py": "Wǒmen yào jiéyuē yòng shuǐ.", "vi": "Chúng ta phải tiết kiệm nước."}}
+{"level": 3, "no": 363, "hz": "结合", "py": "jiéhé", "vi": "kết hợp", "ex": {"zh": "理论要与实践相结合。", "py": "Lǐlùn yào yǔ shíjiàn xiāng jiéhé.", "vi": "Lý thuyết cần kết hợp với thực tiễn."}}
+{"level": 3, "no": 364, "hz": "结婚", "py": "jiéhūn", "vi": "kết hôn", "ex": {"zh": "他们下个月结婚。", "py": "Tāmen xià gè yuè jiéhūn.", "vi": "Họ sẽ kết hôn vào tháng sau."}}
+{"level": 3, "no": 365, "hz": "结束", "py": "jiéshù", "vi": "kết thúc", "ex": {"zh": "比赛已经结束了。", "py": "Bǐsài yǐjīng jiéshù le.", "vi": "Trận đấu đã kết thúc rồi."}}
+{"level": 3, "no": 366, "hz": "解决", "py": "jiějué", "vi": "giải quyết", "ex": {"zh": "我会解决这个问题。", "py": "Wǒ huì jiějué zhège wèntí.", "vi": "Tôi sẽ giải quyết vấn đề này."}}
+{"level": 3, "no": 367, "hz": "解开", "py": "jiě kāi", "vi": "cởi ra", "ex": {"zh": "他把绳子解开了。", "py": "Tā bǎ shéngzi jiěkāi le.", "vi": "Anh ấy đã tháo dây ra rồi."}}
+{"level": 3, "no": 368, "hz": "金", "py": "jīn", "vi": "vàng", "ex": {"zh": "这是一枚金戒指。", "py": "Zhè shì yì méi jīn jièzhǐ.", "vi": "Đây là một chiếc nhẫn vàng."}}
+{"level": 3, "no": 369, "hz": "金牌", "py": "jīn pái", "vi": "huy chương vàng", "ex": {"zh": "他赢得了金牌。", "py": "Tā yíngdé le jīnpái.", "vi": "Anh ấy đã giành được huy chương vàng."}}
+{"level": 3, "no": 370, "hz": "仅", "py": "jǐn", "vi": "chỉ", "ex": {"zh": "我仅有两天时间。", "py": "Wǒ jǐn yǒu liǎng tiān shíjiān.", "vi": "Tôi chỉ có hai ngày thời gian."}}
+{"level": 3, "no": 371, "hz": "仅仅", "py": "jǐn jǐn", "vi": "chỉ là", "ex": {"zh": "他仅仅是个孩子。", "py": "Tā jǐn jǐn shì gè háizi.", "vi": "Nó chỉ là một đứa trẻ."}}
+{"level": 3, "no": 372, "hz": "尽量", "py": "jǐnliàng", "vi": "hết sức", "ex": {"zh": "请尽量早点回来。", "py": "Qǐng jǐnliàng zǎodiǎn huílái.", "vi": "Hãy cố gắng về sớm nhất có thể."}}
+{"level": 3, "no": 373, "hz": "紧", "py": "jǐn", "vi": "chặt", "ex": {"zh": "这条裤子太紧了。", "py": "Zhè tiáo kùzi tài jǐn le.", "vi": "Cái quần này quá chật."}}
+{"level": 3, "no": 374, "hz": "紧急", "py": "jǐnjí", "vi": "khẩn cấp", "ex": {"zh": "发生了紧急情况。", "py": "Fāshēng le jǐnjí qíngkuàng.", "vi": "Có tình huống khẩn cấp xảy ra."}}
+{"level": 3, "no": 375, "hz": "紧张", "py": "jǐnzhāng", "vi": "căng thẳng", "ex": {"zh": "考试让我很紧张。", "py": "Kǎoshì ràng wǒ hěn jǐnzhāng.", "vi": "Kỳ thi khiến tôi rất căng thẳng."}}
+{"level": 3, "no": 376, "hz": "进步", "py": "jìnbù", "vi": "tiến bộ", "ex": {"zh": "他的中文有了很大进步。", "py": "Tā de Zhōngwén yǒu le hěn dà jìnbù.", "vi": "Tiếng Trung của anh ấy đã tiến bộ nhiều."}}
+{"level": 3, "no": 377, "hz": "进一步", "py": "jìn yí bù", "vi": "tiến thêm một bước", "ex": {"zh": "我们需要进一步讨论。", "py": "Wǒmen xūyào jìnyíbù tǎolùn.", "vi": "Chúng ta cần thảo luận thêm một bước nữa."}}
+{"level": 3, "no": 378, "hz": "进展", "py": "jìnzhǎn", "vi": "tiến triển", "ex": {"zh": "项目进展顺利。", "py": "Xiàngmù jìnzhǎn shùnlì.", "vi": "Dự án tiến triển thuận lợi."}}
+{"level": 3, "no": 379, "hz": "近期", "py": "jìn qī", "vi": "gần đây", "ex": {"zh": "近期天气变化大。", "py": "Jìnqī tiānqì biànhuà dà.", "vi": "Gần đây thời tiết thay đổi lớn."}}
+{"level": 3, "no": 380, "hz": "京剧", "py": "jīngjù", "vi": "kinh kịch", "ex": {"zh": "我看不懂京剧。", "py": "Wǒ kàn bù dǒng jīngjù.", "vi": "Tôi không hiểu Kinh kịch."}}
+{"level": 3, "no": 381, "hz": "经济", "py": "jīngjì", "vi": "kinh tế", "ex": {"zh": "中国经济发展迅速。", "py": "Zhōngguó jīngjì fāzhǎn xùnsù.", "vi": "Kinh tế Trung Quốc phát triển nhanh"}}
+{"level": 3, "no": 382, "hz": "经历", "py": "jīnglì", "vi": "từng trải", "ex": {"zh": "他经历了很多困难。", "py": "Tā jīnglì le hěn duō kùnnán.", "vi": "Anh ấy đã trải qua nhiều khó khăn."}}
+{"level": 3, "no": 383, "hz": "经验", "py": "jīngyàn", "vi": "kinh nghiệm", "ex": {"zh": "他有丰富的工作经验。", "py": "Tā yǒu fēngfù de gōngzuò jīngyàn.", "vi": "Anh ấy có kinh nghiệm làm việc phong phú."}}
+{"level": 3, "no": 384, "hz": "经营", "py": "jīngyíng", "vi": "kinh doanh", "ex": {"zh": "他们一起经营一家餐厅。", "py": "Tāmen yìqǐ jīngyíng yì jiā cāntīng.", "vi": "Họ cùng nhau kinh doanh một nhà hàng."}}
+{"level": 3, "no": 385, "hz": "精彩", "py": "jīngcǎi", "vi": "xuất sắc", "ex": {"zh": "比赛非常精彩。", "py": "Bǐsài fēicháng jīngcǎi.", "vi": "Trận đấu rất xuất sắc."}}
+{"level": 3, "no": 386, "hz": "精神", "py": "jīngshén", "vi": "tinh thần", "ex": {"zh": "他精神很好。", "py": "Tā jīngshén hěn hǎo.", "vi": "Tinh thần của anh ấy rất tốt."}}
+{"level": 3, "no": 387, "hz": "精神", "py": "jīngshen", "vi": "tinh thần (sinh lực)", "ex": {"zh": "孩子们玩得很有精神。", "py": "Háizimen wán de hěn yǒu jīngshen.", "vi": "Bọn trẻ chơi rất năng động."}}
+{"level": 3, "no": 388, "hz": "景色", "py": "jǐngsè", "vi": "phong cảnh", "ex": {"zh": "山上的景色很美。", "py": "Shān shàng de jǐngsè hěn měi.", "vi": "Phong cảnh trên núi rất đẹp."}}
+{"level": 3, "no": 389, "hz": "警察", "py": "jǐngchá", "vi": "cảnh sát", "ex": {"zh": "有人报警叫来警察了。", "py": "Yǒurén bàojǐng jiào lái jǐngchá le.", "vi": "Có người gọi cảnh sát đến."}}
+{"level": 3, "no": 390, "hz": "静", "py": "jìng", "vi": "yên tĩnh", "ex": {"zh": "夜晚很安静。", "py": "Yèwǎn hěn ānjìng.", "vi": "Ban đêm rất yên tĩnh."}}
+{"level": 3, "no": 391, "hz": "久", "py": "jiǔ", "vi": "lâu", "ex": {"zh": "我等你很久了。", "py": "Wǒ děng nǐ hěn jiǔ le.", "vi": "Tôi đợi bạn rất lâu rồi."}}
+{"level": 3, "no": 392, "hz": "旧", "py": "jiù", "vi": "cũ", "ex": {"zh": "他穿了一件旧衣服。", "py": "Tā chuān le yí jiàn jiù yīfu.", "vi": "Anh ấy mặc một cái áo cũ."}}
+{"level": 3, "no": 393, "hz": "救", "py": "jiù", "vi": "cứu", "ex": {"zh": "消防员救了他。", "py": "Xiāofángyuán jiù le tā.", "vi": "Lính cứu hỏa đã cứu anh ấy."}}
+{"level": 3, "no": 394, "hz": "就是", "py": "jiù shì", "vi": "chính là", "ex": {"zh": "她就是我的老师。", "py": "Tā jiùshì wǒ de lǎoshī.", "vi": "Cô ấy chính là giáo viên của tôi."}}
+{"level": 3, "no": 395, "hz": "就业", "py": "jiùyè", "vi": "có việc làm", "ex": {"zh": "大学生就业压力很大。", "py": "Dàxuéshēng jiùyè yālì hěn dà.", "vi": "Sinh viên đại học có áp lực việc làm lớn."}}
+{"level": 3, "no": 396, "hz": "举办", "py": "jǔbàn", "vi": "tổ chức", "ex": {"zh": "我们学校将举办音乐会。", "py": "Wǒmen xuéxiào jiāng jǔbàn yīnyuèhuì.", "vi": "Trường chúng tôi sẽ tổ chức buổi hòa nhạc."}}
+{"level": 3, "no": 397, "hz": "具体", "py": "jùtǐ", "vi": "cụ thể", "ex": {"zh": "请说出具体时间。", "py": "Qǐng shuō chū jùtǐ shíjiān.", "vi": "Hãy nói thời gian cụ thể."}}
+{"level": 3, "no": 398, "hz": "具有", "py": "jù yǒu", "vi": "có (tính chất)", "ex": {"zh": "他具有领导能力。", "py": "Tā jùyǒu lǐngdǎo nénglì.", "vi": "Anh ấy có khả năng lãnh đạo."}}
+{"level": 3, "no": 399, "hz": "剧场", "py": "jù chǎng", "vi": "rạp hát", "ex": {"zh": "我们去剧场看戏吧。", "py": "Wǒmen qù jùchǎng kàn xì ba.", "vi": "Chúng ta đến rạp hát xem kịch đi."}}
+{"level": 3, "no": 400, "hz": "据说", "py": "jùshuō", "vi": "nghe nói", "ex": {"zh": "据说他要结婚了。", "py": "Jùshuō tā yào jiéhūn le.", "vi": "Nghe nói anh ấy sắp kết hôn rồi."}}
+{"level": 3, "no": 401, "hz": "决定", "py": "juédìng", "vi": "quyết định", "ex": {"zh": "我决定明年出国。", "py": "Wǒ juédìng míngnián chūguó.", "vi": "Tôi quyết định đi nước ngoài vào năm sau."}}
+{"level": 3, "no": 402, "hz": "决赛", "py": "juésài", "vi": "chung kết", "ex": {"zh": "他进入了比赛的决赛。", "py": "Tā jìnrù le bǐsài de juésài.", "vi": "Anh ấy đã vào vòng chung kết của cuộc thi."}}
+{"level": 3, "no": 403, "hz": "决心", "py": "juéxīn", "vi": "quyết tâm", "ex": {"zh": "她下定决心要减肥。", "py": "Tā xià dìng juéxīn yào jiǎnféi.", "vi": "Cô ấy đã quyết tâm giảm cân."}}
+{"level": 3, "no": 404, "hz": "绝对", "py": "juéduì", "vi": "tuyệt đối", "ex": {"zh": "你说的绝对正确。", "py": "Nǐ shuō de juéduì zhèngquè.", "vi": "Bạn nói hoàn toàn đúng."}}
+{"level": 3, "no": 405, "hz": "咖啡", "py": "kāfēi", "vi": "cà phê", "ex": {"zh": "我每天早上喝咖啡。", "py": "Wǒ měitiān zǎoshang hē kāfēi.", "vi": "Tôi uống cà phê mỗi sáng."}}
+{"level": 3, "no": 406, "hz": "开发", "py": "kāifā", "vi": "phát triển", "ex": {"zh": "公司正在开发新产品。", "py": "Gōngsī zhèngzài kāifā xīn chǎnpǐn.", "vi": "Công ty đang phát triển sản phẩm mới."}}
+{"level": 3, "no": 407, "hz": "开放", "py": "kāifàng", "vi": "mở cửa", "ex": {"zh": "这个公园全天开放。", "py": "Zhège gōngyuán quán tiān kāifàng.", "vi": "Công viên này mở cửa cả ngày."}}
+{"level": 3, "no": 408, "hz": "开始", "py": "kāishǐ", "vi": "bắt đầu", "ex": {"zh": "比赛马上开始了。", "py": "Bǐsài mǎshàng kāishǐ le.", "vi": "Trận đấu sắp bắt đầu rồi."}}
+{"level": 3, "no": 409, "hz": "开业", "py": "kāi yè", "vi": "khai trương", "ex": {"zh": "我叔叔下周开业。", "py": "Wǒ shūshu xià zhōu kāiyè.", "vi": "Chú tôi khai trương vào tuần sau."}}
+{"level": 3, "no": 410, "hz": "开展", "py": "kāizhǎn", "vi": "triển khai", "ex": {"zh": "我们正在开展新项目。", "py": "Wǒmen zhèngzài kāizhǎn xīn xiàngmù.", "vi": "Chúng tôi đang triển khai dự án mới."}}
+{"level": 3, "no": 411, "hz": "看起来", "py": "kàn qǐ lái", "vi": "trông có vẻ", "ex": {"zh": "他看起来很累。", "py": "Tā kàn qǐlái hěn lèi.", "vi": "Anh ấy trông có vẻ mệt."}}
+{"level": 3, "no": 412, "hz": "看上去", "py": "kàn shàng qù", "vi": "có vẻ như", "ex": {"zh": "这件衣服看上去不错。", "py": "Zhè jiàn yīfu kànshàngqù búcuò.", "vi": "Cái áo này trông có vẻ ổn."}}
+{"level": 3, "no": 413, "hz": "考验", "py": "kǎoyàn", "vi": "thử thách", "ex": {"zh": "这是对我们的考验。", "py": "Zhè shì duì wǒmen de kǎoyàn.", "vi": "Đây là một thử thách đối với chúng ta."}}
+{"level": 3, "no": 414, "hz": "科技", "py": "kē jì", "vi": "khoa học kỹ thuật", "ex": {"zh": "科技发展得很快。", "py": "Kējì fāzhǎn de hěn kuài.", "vi": "Khoa học kỹ thuật phát triển rất nhanh."}}
+{"level": 3, "no": 415, "hz": "可靠", "py": "kěkào", "vi": "đáng tin cậy", "ex": {"zh": "他是一个可靠的人。", "py": "Tā shì yīgè kěkào de rén.", "vi": "Anh ấy là người đáng tin cậy."}}
+{"level": 3, "no": 416, "hz": "可乐", "py": "kě lè", "vi": "nước ngọt có ga", "ex": {"zh": "小朋友喜欢喝可乐。", "py": "Xiǎopéngyǒu xǐhuān hē kělè.", "vi": "Trẻ con thích uống nước ngọt có ga."}}
+{"level": 3, "no": 417, "hz": "克服", "py": "kèfú", "vi": "khắc phục", "ex": {"zh": "我们一定能克服困难。", "py": "Wǒmen yídìng néng kèfú kùnnán.", "vi": "Chúng ta chắc chắn có thể vượt qua khó khăn."}}
+{"level": 3, "no": 418, "hz": "客观", "py": "kèguān", "vi": "khách quan", "ex": {"zh": "我们需要客观分析问题。", "py": "Wǒmen xūyào kèguān fēnxī wèntí.", "vi": "Chúng ta cần phân tích vấn đề một cách khách quan."}}
+{"level": 3, "no": 419, "hz": "课程", "py": "kèchéng", "vi": "khóa học", "ex": {"zh": "新的课程已经开始了。", "py": "Xīn de kèchéng yǐjīng kāishǐ le.", "vi": "Khóa học mới đã bắt đầu rồi."}}
+{"level": 3, "no": 420, "hz": "空", "py": "kōng", "vi": "trống", "ex": {"zh": "箱子是空的。", "py": "Xiāngzi shì kōng de.", "vi": "Cái hộp này rỗng."}}
+{"level": 3, "no": 421, "hz": "空调", "py": "kōngtiáo", "vi": "máy điều hòa", "ex": {"zh": "夏天一定要开空调。", "py": "Xiàtiān yídìng yào kāi kōngtiáo.", "vi": "Mùa hè nhất định phải bật điều hòa."}}
+{"level": 3, "no": 422, "hz": "恐怕", "py": "kǒngpà", "vi": "e rằng", "ex": {"zh": "恐怕今天会下雨。", "py": "Kǒngpà jīntiān huì xiàyǔ.", "vi": "E rằng hôm nay sẽ mưa."}}
+{"level": 3, "no": 423, "hz": "空儿", "py": "kòngr", "vi": "thời gian rảnh", "ex": {"zh": "你有空儿吗？", "py": "Nǐ yǒu kòngr ma?", "vi": "Bạn có rảnh không?"}}
+{"level": 3, "no": 424, "hz": "裤子", "py": "kùzi", "vi": "quần dài", "ex": {"zh": "他穿了一条新裤子。", "py": "Tā chuān le yì tiáo xīn kùzi.", "vi": "Anh ấy mặc một chiếc quần dài mới."}}
+{"level": 3, "no": 425, "hz": "快速", "py": "kuài sù", "vi": "nhanh chóng", "ex": {"zh": "火车快速驶过。", "py": "Huǒchē kuàisù shǐguò.", "vi": "Tàu hỏa chạy nhanh qua."}}
+{"level": 3, "no": 426, "hz": "困", "py": "kùn", "vi": "buồn ngủ", "ex": {"zh": "我太困了，想睡觉。", "py": "Wǒ tài kùn le, xiǎng shuìjiào.", "vi": "Tôi buồn ngủ quá, muốn đi ngủ."}}
+{"level": 3, "no": 427, "hz": "困难", "py": "kùnnán", "vi": "khó khăn", "ex": {"zh": "我们一起克服困难。", "py": "Wǒmen yìqǐ kèfú kùnnán.", "vi": "Chúng ta cùng vượt qua khó khăn."}}
+{"level": 3, "no": 428, "hz": "浪费", "py": "làngfèi", "vi": "lãng phí", "ex": {"zh": "不要浪费食物。", "py": "Búyào làngfèi shíwù.", "vi": "Đừng lãng phí đồ ăn."}}
+{"level": 3, "no": 429, "hz": "老百姓", "py": "lǎobǎixìng", "vi": "người dân", "ex": {"zh": "政府关心老百姓的生活。", "py": "Zhèngfǔ guānxīn lǎobǎixìng de shēnghuó.", "vi": "Chính phủ quan tâm đến đời sống của người dân."}}
+{"level": 3, "no": 430, "hz": "老板", "py": "lǎobǎn", "vi": "ông chủ", "ex": {"zh": "我去见一下老板。", "py": "Wǒ qù jiàn yíxià lǎobǎn.", "vi": "Tôi đi gặp ông chủ một chút."}}
+{"level": 3, "no": 431, "hz": "老太太", "py": "lǎo tài tai", "vi": "bà lão", "ex": {"zh": "那位老太太很热情。", "py": "Nà wèi lǎotàitai hěn rèqíng.", "vi": "Bà lão đó rất nhiệt tình."}}
+{"level": 3, "no": 432, "hz": "老头儿", "py": "lǎo tóur", "vi": "ông già", "ex": {"zh": "公园里有很多老头儿在锻炼。", "py": "Gōngyuán lǐ yǒu hěn duō lǎotóur zài duànliàn.", "vi": "Trong công viên có nhiều ông già đang tập thể dục."}}
+{"level": 3, "no": 433, "hz": "乐", "py": "lè", "vi": "vui vẻ", "ex": {"zh": "孩子们玩得很快乐。", "py": "Háizimen wán de hěn kuàilè.", "vi": "Bọn trẻ chơi rất vui vẻ."}}
+{"level": 3, "no": 434, "hz": "乐观", "py": "lèguān", "vi": "lạc quan", "ex": {"zh": "他一直很乐观。", "py": "Tā yìzhí hěn lèguān.", "vi": "Anh ấy luôn rất lạc quan."}}
+{"level": 3, "no": 435, "hz": "类", "py": "lèi", "vi": "loại", "ex": {"zh": "这类问题很常见。", "py": "Zhè lèi wèntí hěn chángjiàn.", "vi": "Loại vấn đề này rất thường gặp."}}
+{"level": 3, "no": 436, "hz": "类似", "py": "lèisì", "vi": "tương tự", "ex": {"zh": "这两个词意思类似。", "py": "Zhè liǎng gè cí yìsi lèisì.", "vi": "Hai từ này nghĩa tương tự nhau."}}
+{"level": 3, "no": 437, "hz": "离婚", "py": "líhūn", "vi": "ly hôn", "ex": {"zh": "他们去年离婚了。", "py": "Tāmen qùnián líhūn le.", "vi": "Họ đã ly hôn năm ngoái."}}
+{"level": 3, "no": 438, "hz": "里面", "py": "lǐ miàn", "vi": "bên trong", "ex": {"zh": "房间里面很干净。", "py": "Fángjiān lǐmiàn hěn gānjìng.", "vi": "Bên trong phòng rất sạch sẽ."}}
+{"level": 3, "no": 439, "hz": "理发", "py": "lǐfà", "vi": "cắt tóc", "ex": {"zh": "我今天去理发了。", "py": "Wǒ jīntiān qù lǐfà le.", "vi": "Hôm nay tôi đã đi cắt tóc."}}
+{"level": 3, "no": 440, "hz": "理解", "py": "lǐjiě", "vi": "hiểu", "ex": {"zh": "我完全理解你的意思。", "py": "Wǒ wánquán lǐjiě nǐ de yìsi.", "vi": "Tôi hoàn toàn hiểu ý bạn."}}
+{"level": 3, "no": 441, "hz": "理论", "py": "lǐlùn", "vi": "lý thuyết", "ex": {"zh": "理论和实践要结合。", "py": "Lǐlùn hé shíjiàn yào jiéhé.", "vi": "Lý thuyết phải kết hợp với thực hành."}}
+{"level": 3, "no": 442, "hz": "理由", "py": "lǐyóu", "vi": "lý do", "ex": {"zh": "他没有迟到的理由。", "py": "Tā méiyǒu chídào de lǐyóu.", "vi": "Anh ấy không có lý do để đến muộn."}}
+{"level": 3, "no": 443, "hz": "力", "py": "lì", "vi": "sức mạnh", "ex": {"zh": "团结就是力量。", "py": "Tuánjié jiùshì lìliàng.", "vi": "Đoàn kết là sức mạnh."}}
+{"level": 3, "no": 444, "hz": "力量", "py": "lìliàng", "vi": "sức lực", "ex": {"zh": "这项工作需要很大的力量。", "py": "Zhè xiàng gōngzuò xūyào hěn dà de lìliàng.", "vi": "Công việc này cần sức lực lớn."}}
+{"level": 3, "no": 445, "hz": "立刻", "py": "lìkè", "vi": "lập tức", "ex": {"zh": "他立刻就答应了。", "py": "Tā lìkè jiù dāying le.", "vi": "Anh ấy lập tức đồng ý."}}
+{"level": 3, "no": 446, "hz": "利用", "py": "lìyòng", "vi": "tận dụng", "ex": {"zh": "要好好利用时间。", "py": "Yào hǎohāo lìyòng shíjiān.", "vi": "Phải tận dụng thời gian tốt."}}
+{"level": 3, "no": 447, "hz": "连", "py": "lián", "vi": "ngay cả", "ex": {"zh": "他连饭都没吃。", "py": "Tā lián fàn dōu méi chī.", "vi": "Ngay cả cơm anh ấy cũng chưa ăn."}}
+{"level": 3, "no": 448, "hz": "连忙", "py": "liánmáng", "vi": "vội vàng", "ex": {"zh": "他连忙跑了过去。", "py": "Tā liánmáng pǎo le guòqù.", "vi": "Anh ấy vội vàng chạy qua đó."}}
+{"level": 3, "no": 449, "hz": "连续", "py": "liánxù", "vi": "liên tục", "ex": {"zh": "他连续三天加班。", "py": "Tā liánxù sān tiān jiābān.", "vi": "Anh ấy làm thêm liên tục ba ngày."}}
+{"level": 3, "no": 450, "hz": "连续剧", "py": "lián xù jù", "vi": "phim truyền hình dài tập", "ex": {"zh": "她喜欢看韩国连续剧。", "py": "Tā xǐhuān kàn Hánguó liánxùjù.", "vi": "Cô ấy thích xem phim truyền hình Hàn Quốc"}}
+{"level": 3, "no": 451, "hz": "联合", "py": "liánhé", "vi": "liên hợp", "ex": {"zh": "他们联合举办了这次活动。", "py": "Tāmen liánhé jǔbàn le zhè cì huódòng.", "vi": "Họ liên hợp tổ chức sự kiện lần này."}}
+{"level": 3, "no": 452, "hz": "联合国", "py": "lián hé guó", "vi": "liên Hợp Quốc", "ex": {"zh": "联合国总部在纽约。", "py": "Liánhéguó zǒngbù zài Niǔyuē.", "vi": "Trụ sở Liên Hợp Quốc nằm ở New York."}}
+{"level": 3, "no": 453, "hz": "联系", "py": "liánxì", "vi": "liên lạc", "ex": {"zh": "请和我联系。", "py": "Qǐng hé wǒ liánxì.", "vi": "Xin hãy liên lạc với tôi."}}
+{"level": 3, "no": 454, "hz": "凉水", "py": "liáng shuǐ", "vi": "nước lạnh", "ex": {"zh": "夏天多喝凉水不太好。", "py": "Xiàtiān duō hē liángshuǐ bú tài hǎo.", "vi": "Mùa hè uống nhiều nước lạnh không tốt."}}
+{"level": 3, "no": 455, "hz": "了", "py": "le", "vi": "trợ từ thì quá khứ", "ex": {"zh": "我吃饭了。", "py": "Wǒ chīfàn le.", "vi": "Tôi ăn rồi."}}
+{"level": 3, "no": 456, "hz": "领", "py": "lǐng", "vi": "dẫn; nhận", "ex": {"zh": "他领我们参观公司。", "py": "Tā lǐng wǒmen cānguān gōngsī.", "vi": "Anh ấy dẫn chúng tôi tham quan công ty."}}
+{"level": 3, "no": 457, "hz": "领导", "py": "lǐngdǎo", "vi": "lãnh đạo", "ex": {"zh": "她是我们部门的领导。", "py": "Tā shì wǒmen bùmén de lǐngdǎo.", "vi": "Cô ấy là lãnh đạo của bộ phận chúng tôi."}}
+{"level": 3, "no": 458, "hz": "领先", "py": "lǐngxiān", "vi": "dẫn đầu", "ex": {"zh": "中国在这一领域中领先。", "py": "Zhōngguó zài zhè yī lǐngyù zhōng lǐngxiān.", "vi": "Trung Quốc dẫn đầu trong lĩnh vực này."}}
+{"level": 3, "no": 459, "hz": "另外", "py": "lìngwài", "vi": "ngoài ra", "ex": {"zh": "另外还有一个重要问题。", "py": "Lìngwài hái yǒu yī gè zhòngyào wèntí.", "vi": "Ngoài ra còn một vấn đề quan trọng nữa."}}
+{"level": 3, "no": 460, "hz": "另一方面", "py": "lìng yì fāng miàn", "vi": "mặt khác", "ex": {"zh": "他很聪明，另一方面也很努力。", "py": "Tā hěn cōngmíng, lìng yì fāngmiàn yě hěn nǔlì.", "vi": "Anh ấy rất thông minh, mặt khác cũng rất chăm chỉ."}}
+{"level": 3, "no": 461, "hz": "留学", "py": "liúxué", "vi": "du học", "ex": {"zh": "我哥哥在英国留学。", "py": "Wǒ gēge zài Yīngguó liúxué.", "vi": "Anh tôi đang du học ở Anh."}}
+{"level": 3, "no": 462, "hz": "龙", "py": "lóng", "vi": "rồng", "ex": {"zh": "中国人喜欢龙的象征。", "py": "Zhōngguó rén xǐhuān lóng de xiàngzhēng.", "vi": "Người Trung Quốc thích biểu tượng con rồng."}}
+{"level": 3, "no": 463, "hz": "录", "py": "lù", "vi": "ghi lại", "ex": {"zh": "请把这段话录下来。", "py": "Qǐng bǎ zhè duàn huà lù xiàlái.", "vi": "Hãy ghi âm lại đoạn này."}}
+{"level": 3, "no": 464, "hz": "录音", "py": "lùyīn", "vi": "ghi âm", "ex": {"zh": "上课时我做了录音。", "py": "Shàngkè shí wǒ zuò le lùyīn.", "vi": "Tôi đã ghi âm lại khi lên lớp."}}
+{"level": 3, "no": 465, "hz": "路线", "py": "lù xiàn", "vi": "tuyến đường", "ex": {"zh": "我们已经决定好旅游路线了。", "py": "Wǒmen yǐjīng juédìng hǎo lǚyóu lùxiàn le.", "vi": "Chúng tôi đã quyết định tuyến du lịch rồi."}}
+{"level": 3, "no": 466, "hz": "旅馆", "py": "lǚ guǎn", "vi": "khách sạn nhỏ", "ex": {"zh": "这家旅馆很便宜。", "py": "Zhè jiā lǚguǎn hěn piányi.", "vi": "Khách sạn này rất rẻ."}}
+{"level": 3, "no": 467, "hz": "旅行社", "py": "lǚ xíng shè", "vi": "công ty du lịch", "ex": {"zh": "我在旅行社订了机票。", "py": "Wǒ zài lǚxíngshè dìng le jīpiào.", "vi": "Tôi đã đặt vé máy bay ở công ty du lịch."}}
+{"level": 3, "no": 468, "hz": "绿茶", "py": "lǜ chá", "vi": "trà xanh", "ex": {"zh": "我喜欢喝绿茶。", "py": "Wǒ xǐhuān hē lǜchá.", "vi": "Tôi thích uống trà xanh."}}
+{"level": 3, "no": 469, "hz": "乱", "py": "luàn", "vi": "lộn xộn", "ex": {"zh": "房间太乱了。", "py": "Fángjiān tài luàn le.", "vi": "Phòng bừa bộn quá."}}
+{"level": 3, "no": 470, "hz": "落后", "py": "luòhòu", "vi": "lạc hậu", "ex": {"zh": "这个地区比较落后。", "py": "Zhège dìqū bǐjiào luòhòu.", "vi": "Khu vực này tương đối lạc hậu."}}
+{"level": 3, "no": 471, "hz": "麻烦", "py": "máfan", "vi": "phiền phức", "ex": {"zh": "不好意思，麻烦你一下。", "py": "Bù hǎoyìsi, máfan nǐ yíxià.", "vi": "Xin lỗi, làm phiền bạn một chút."}}
+{"level": 3, "no": 472, "hz": "马", "py": "mǎ", "vi": "ngựa", "ex": {"zh": "他骑着一匹马。", "py": "Tā qí zhe yì pǐ mǎ.", "vi": "Anh ấy đang cưỡi một con ngựa."}}
+{"level": 3, "no": 473, "hz": "满足", "py": "mǎnzú", "vi": "thỏa mãn", "ex": {"zh": "这个答案不太能满足我。", "py": "Zhège dá'àn bù tài néng mǎnzú wǒ.", "vi": "Câu trả lời này không khiến tôi hài lòng lắm."}}
+{"level": 3, "no": 474, "hz": "慢慢", "py": "màn màn", "vi": "chậm rãi", "ex": {"zh": "你慢慢说，我听得懂。", "py": "Nǐ màn màn shuō, wǒ tīng de dǒng.", "vi": "Bạn cứ nói chậm, tôi hiểu được."}}
+{"level": 3, "no": 475, "hz": "毛（名）", "py": "máo", "vi": "lông; mao", "ex": {"zh": "这只狗掉了很多毛。", "py": "Zhè zhī gǒu diào le hěn duō máo.", "vi": "Con chó này rụng nhiều lông."}}
+{"level": 3, "no": 476, "hz": "毛病", "py": "máobìng", "vi": "lỗi; trục trặc", "ex": {"zh": "这台电脑有点毛病。", "py": "Zhè tái diànnǎo yǒudiǎn máobìng.", "vi": "Máy tính này có chút vấn đề."}}
+{"level": 3, "no": 477, "hz": "没用", "py": "méi yòng", "vi": "vô ích", "ex": {"zh": "这本书对我来说没用。", "py": "Zhè běn shū duì wǒ lái shuō méi yòng.", "vi": "Quyển sách này với tôi vô dụng."}}
+{"level": 3, "no": 478, "hz": "媒体", "py": "méitǐ", "vi": "truyền thông", "ex": {"zh": "媒体报道了这件事。", "py": "Méitǐ bàodào le zhè jiàn shì.", "vi": "Truyền thông đã đưa tin về việc này."}}
+{"level": 3, "no": 479, "hz": "每", "py": "měi", "vi": "mỗi", "ex": {"zh": "我每天都锻炼。", "py": "Wǒ měitiān dōu duànliàn.", "vi": "Tôi tập thể dục mỗi ngày."}}
+{"level": 3, "no": 480, "hz": "美", "py": "měi", "vi": "đẹp", "ex": {"zh": "这个地方真美。", "py": "Zhè ge dìfāng zhēn měi.", "vi": "Nơi này thật đẹp."}}
+{"level": 3, "no": 481, "hz": "美好", "py": "měi hǎo", "vi": "tốt đẹp", "ex": {"zh": "祝你们的未来美好。", "py": "Zhù nǐmen de wèilái měihǎo.", "vi": "Chúc tương lai các bạn tốt đẹp."}}
+{"level": 3, "no": 482, "hz": "美丽", "py": "měilì", "vi": "xinh đẹp", "ex": {"zh": "她长得很美丽。", "py": "Tā zhǎng de hěn měilì.", "vi": "Cô ấy rất xinh đẹp."}}
+{"level": 3, "no": 483, "hz": "美食", "py": "měi shí", "vi": "ẩm thực ngon", "ex": {"zh": "台湾是美食的天堂。", "py": "Táiwān shì měishí de tiāntáng.", "vi": "Đài Loan là thiên đường ẩm thực."}}
+{"level": 3, "no": 484, "hz": "美术", "py": "měishù", "vi": "mỹ thuật", "ex": {"zh": "她在大学学美术。", "py": "Tā zài dàxué xué měishù.", "vi": "Cô ấy học mỹ thuật ở đại học."}}
+{"level": 3, "no": 485, "hz": "美元", "py": "měi yuán", "vi": "đô la Mỹ", "ex": {"zh": "一百美元是多少人民币？", "py": "Yì bǎi měiyuán shì duōshǎo rénmínbì?", "vi": "100 đô Mỹ là bao nhiêu Nhân dân tệ?"}}
+{"level": 3, "no": 486, "hz": "迷", "py": "mí", "vi": "mê; người hâm mộ", "ex": {"zh": "我是他的歌迷。", "py": "Wǒ shì tā de gēmí.", "vi": "Tôi là fan của anh ấy."}}
+{"level": 3, "no": 487, "hz": "米（名）", "py": "mǐ", "vi": "mét; gạo", "ex": {"zh": "他身高一米八。", "py": "Tā shēngāo yī mǐ bā.", "vi": "Anh ấy cao 1m80."}}
+{"level": 3, "no": 488, "hz": "面对", "py": "miànduì", "vi": "đối mặt", "ex": {"zh": "我们必须面对现实。", "py": "Wǒmen bìxū miànduì xiànshí.", "vi": "Chúng ta phải đối mặt với thực tế."}}
+{"level": 3, "no": 489, "hz": "面积", "py": "miànjī", "vi": "diện tích", "ex": {"zh": "这个房子的面积不小。", "py": "Zhè ge fángzi de miànjī bù xiǎo.", "vi": "Diện tích ngôi nhà này không nhỏ."}}
+{"level": 3, "no": 490, "hz": "民间", "py": "mínjiān", "vi": "dân gian", "ex": {"zh": "这是一个民间故事。", "py": "Zhè shì yí gè mínjiān gùshì.", "vi": "Đây là một câu chuyện dân gian."}}
+{"level": 3, "no": 491, "hz": "民族", "py": "mínzú", "vi": "dân tộc", "ex": {"zh": "中国是一个多民族国家。", "py": "Zhōngguó shì yí gè duō mínzú guójiā.", "vi": "Trung Quốc là quốc gia đa dân tộc."}}
+{"level": 3, "no": 492, "hz": "明确", "py": "míngquè", "vi": "làm rõ", "ex": {"zh": "请你把问题说得更明确一些。", "py": "Qǐng nǐ bǎ wèntí shuō de gèng míngquè yìxiē.", "vi": "Bạn hãy nói vấn đề rõ ràng hơn chút."}}
+{"level": 3, "no": 493, "hz": "明显", "py": "míngxiǎn", "vi": "rõ ràng", "ex": {"zh": "错误非常明显。", "py": "Cuòwù fēicháng míngxiǎn.", "vi": "Lỗi rất rõ ràng."}}
+{"level": 3, "no": 494, "hz": "命运", "py": "mìngyùn", "vi": "số phận", "ex": {"zh": "每个人有不同的命运。", "py": "Měi gè rén yǒu bùtóng de mìngyùn.", "vi": "Mỗi người có một số phận khác nhau."}}
+{"level": 3, "no": 495, "hz": "某", "py": "mǒu", "vi": "nào đó", "ex": {"zh": "某人刚刚来过。", "py": "Mǒu rén gānggāng lái guò.", "vi": "Có người nào đó vừa đến."}}
+{"level": 3, "no": 496, "hz": "母亲", "py": "mǔqīn", "vi": "mẹ", "ex": {"zh": "母亲节是五月的第二个星期天。", "py": "Mǔqīn jié shì wǔ yuè de dì èr gè xīngqītiān.", "vi": "Ngày của mẹ là Chủ Nhật thứ hai của tháng 5."}}
+{"level": 3, "no": 497, "hz": "木头", "py": "mùtou", "vi": "gỗ", "ex": {"zh": "这张桌子是木头做的。", "py": "Zhè zhāng zhuōzi shì mùtou zuò de.", "vi": "Cái bàn này làm bằng gỗ."}}
+{"level": 3, "no": 498, "hz": "目标", "py": "mùbiāo", "vi": "mục tiêu", "ex": {"zh": "我的目标是通过考试。", "py": "Wǒ de mùbiāo shì tōngguò kǎoshì.", "vi": "Mục tiêu của tôi là đậu kỳ thi."}}
+{"level": 3, "no": 499, "hz": "目前", "py": "mùqián", "vi": "hiện tại", "ex": {"zh": "我目前没有时间。", "py": "Wǒ mùqián méiyǒu shíjiān.", "vi": "Hiện tại tôi không có thời gian."}}
+{"level": 3, "no": 500, "hz": "奶茶", "py": "nǎi chá", "vi": "trà sữa", "ex": {"zh": "她每天都喝奶茶。", "py": "Tā měitiān dōu hē nǎichá.", "vi": "Cô ấy uống trà sữa mỗi ngày."}}
+{"level": 3, "no": 501, "hz": "男子", "py": "nán zǐ", "vi": "nam giới", "ex": {"zh": "那位男子是我哥哥。", "py": "Nà wèi nánzǐ shì wǒ gēge.", "vi": "Người đàn ông đó là anh tôi."}}
+{"level": 3, "no": 502, "hz": "南部", "py": "nán bù", "vi": "miền nam", "ex": {"zh": "我住在城市的南部。", "py": "Wǒ zhù zài chéngshì de nánbù.", "vi": "Tôi sống ở phía nam thành phố."}}
+{"level": 3, "no": 503, "hz": "难道", "py": "nándào", "vi": "chẳng lẽ", "ex": {"zh": "难道你不知道这件事？", "py": "Nándào nǐ bù zhīdào zhè jiàn shì?", "vi": "Chẳng lẽ bạn không biết việc này?"}}
+{"level": 3, "no": 504, "hz": "难度", "py": "nán dù", "vi": "độ khó", "ex": {"zh": "这项工作难度很大。", "py": "Zhè xiàng gōngzuò nándù hěn dà.", "vi": "Công việc này rất khó."}}
+{"level": 3, "no": 505, "hz": "内", "py": "nèi", "vi": "bên trong", "ex": {"zh": "请在两天内完成任务。", "py": "Qǐng zài liǎng tiān nèi wánchéng rènwù.", "vi": "Hãy hoàn thành nhiệm vụ trong vòng hai ngày."}}
+{"level": 3, "no": 506, "hz": "内容", "py": "nèiróng", "vi": "nội dung", "ex": {"zh": "报告的内容很详细。", "py": "Bàogào de nèiróng hěn xiángxì.", "vi": "Nội dung báo cáo rất chi tiết."}}
+{"level": 3, "no": 507, "hz": "内心", "py": "nèi xīn", "vi": "nội tâm", "ex": {"zh": "她的内心很柔软。", "py": "Tā de nèixīn hěn róuruǎn.", "vi": "Nội tâm cô ấy rất mềm mỏng."}}
+{"level": 3, "no": 508, "hz": "能不能", "py": "néng bù néng", "vi": "có thể hay không", "ex": {"zh": "你能不能帮我一下？", "py": "Nǐ néng bù néng bāng wǒ yíxià?", "vi": "Bạn có thể giúp tôi một chút không?"}}
+{"level": 3, "no": 509, "hz": "能力", "py": "nénglì", "vi": "năng lực", "ex": {"zh": "他工作能力很强。", "py": "Tā gōngzuò nénglì hěn qiáng.", "vi": "Anh ấy có năng lực làm việc rất tốt."}}
+{"level": 3, "no": 510, "hz": "年初", "py": "nián chū", "vi": "đầu năm", "ex": {"zh": "年初我们有一个计划。", "py": "Nián chū wǒmen yǒu yī gè jìhuà.", "vi": "Đầu năm chúng tôi có một kế hoạch."}}
+{"level": 3, "no": 511, "hz": "年代", "py": "niándài", "vi": "thập niên", "ex": {"zh": "他出生于八十年代。", "py": "Tā chūshēng yú bāshí niándài.", "vi": "Anh ấy sinh vào thập niên 80."}}
+{"level": 3, "no": 512, "hz": "年底", "py": "nián dǐ", "vi": "cuối năm", "ex": {"zh": "我打算年底回国。", "py": "Wǒ dǎsuàn niándǐ huíguó.", "vi": "Tôi dự định về nước cuối năm."}}
+{"level": 3, "no": 513, "hz": "年纪", "py": "niánjì", "vi": "tuổi tác", "ex": {"zh": "她年纪很小但很聪明。", "py": "Tā niánjì hěn xiǎo dàn hěn cōngmíng.", "vi": "Cô ấy còn nhỏ nhưng rất thông minh."}}
+{"level": 3, "no": 514, "hz": "念", "py": "niàn", "vi": "đọc", "ex": {"zh": "请你大声念出来。", "py": "Qǐng nǐ dàshēng niàn chūlái.", "vi": "Hãy đọc to lên nhé."}}
+{"level": 3, "no": 515, "hz": "牛（名）", "py": "niú", "vi": "bò", "ex": {"zh": "农村有很多牛。", "py": "Nóngcūn yǒu hěn duō niú.", "vi": "Ở nông thôn có rất nhiều bò."}}
+{"level": 3, "no": 516, "hz": "农村", "py": "nóngcūn", "vi": "nông thôn", "ex": {"zh": "他来自一个小农村。", "py": "Tā láizì yī gè xiǎo nóngcūn.", "vi": "Anh ấy đến từ một vùng nông thôn nhỏ."}}
+{"level": 3, "no": 517, "hz": "农民", "py": "nóngmín", "vi": "nông dân", "ex": {"zh": "我的爷爷是农民。", "py": "Wǒ de yéye shì nóngmín.", "vi": "Ông tôi là nông"}}
+{"level": 3, "no": 518, "hz": "农业", "py": "nóngyè", "vi": "nông nghiệp", "ex": {"zh": "农业是国家的重要基础。", "py": "Nóngyè shì guójiā de zhòngyào jīchǔ.", "vi": "Nông nghiệp là nền tảng quan trọng của quốc gia."}}
+{"level": 3, "no": 519, "hz": "女子", "py": "nǚ zǐ", "vi": "nữ giới", "ex": {"zh": "那个女子在跳舞。", "py": "Nà gè nǚzǐ zài tiàowǔ.", "vi": "Cô gái đó đang nhảy múa."}}
+{"level": 3, "no": 520, "hz": "暖和", "py": "nuǎnhuo", "vi": "ấm áp", "ex": {"zh": "今天的天气很暖和。", "py": "Jīntiān de tiānqì hěn nuǎnhuo.", "vi": "Hôm nay thời tiết rất ấm áp."}}
+{"level": 3, "no": 521, "hz": "怕（副）", "py": "pà", "vi": "sợ", "ex": {"zh": "我怕黑。", "py": "Wǒ pà hēi.", "vi": "Tôi sợ bóng tối."}}
+{"level": 3, "no": 522, "hz": "拍", "py": "pāi", "vi": "vỗ; chụp", "ex": {"zh": "他拍了很多照片。", "py": "Tā pāi le hěn duō zhàopiàn.", "vi": "Anh ấy đã chụp rất nhiều ảnh."}}
+{"level": 3, "no": 523, "hz": "排（动）", "py": "pái", "vi": "sắp xếp", "ex": {"zh": "请把这些书排好。", "py": "Qǐng bǎ zhèxiē shū pái hǎo.", "vi": "Hãy sắp xếp những quyển sách này."}}
+{"level": 3, "no": 524, "hz": "排名", "py": "pái míng", "vi": "xếp hạng", "ex": {"zh": "我们的学校在全国排名前十。", "py": "Wǒmen de xuéxiào zài quánguó páimíng qián shí.", "vi": "Trường của chúng tôi xếp top 10 toàn quốc."}}
+{"level": 3, "no": 525, "hz": "牌子", "py": "pái zi", "vi": "thương hiệu", "ex": {"zh": "我喜欢这个牌子的衣服。", "py": "Wǒ xǐhuān zhège páizi de yīfu.", "vi": "Tôi thích quần áo thương hiệu này."}}
+{"level": 3, "no": 526, "hz": "派", "py": "pài", "vi": "cử đi", "ex": {"zh": "公司派我去北京工作。", "py": "Gōngsī pài wǒ qù Běijīng gōngzuò.", "vi": "Công ty cử tôi đến Bắc Kinh làm việc."}}
+{"level": 3, "no": 527, "hz": "判断", "py": "pànduàn", "vi": "phán đoán", "ex": {"zh": "你的判断是正确的。", "py": "Nǐ de pànduàn shì zhèngquè de.", "vi": "Phán đoán của bạn là đúng."}}
+{"level": 3, "no": 528, "hz": "胖", "py": "pàng", "vi": "béo", "ex": {"zh": "小狗越来越胖了。", "py": "Xiǎo gǒu yuèláiyuè pàng le.", "vi": "Con chó nhỏ ngày càng mập lên."}}
+{"level": 3, "no": 529, "hz": "跑步", "py": "pǎobù", "vi": "chạy bộ", "ex": {"zh": "我每天早上跑步。", "py": "Wǒ měitiān zǎoshang pǎobù.", "vi": "Tôi chạy bộ mỗi sáng."}}
+{"level": 3, "no": 530, "hz": "配", "py": "pèi", "vi": "phối hợp", "ex": {"zh": "这条裤子配这件衣服很合适。", "py": "Zhè tiáo kùzi pèi zhè jiàn yīfu hěn héshì.", "vi": "Quần này rất hợp với áo này."}}
+{"level": 3, "no": 531, "hz": "配合", "py": "pèihé", "vi": "phối hợp", "ex": {"zh": "大家需要配合完成任务。", "py": "Dàjiā xūyào pèihé wánchéng rènwù.", "vi": "Mọi người cần phối hợp để hoàn thành nhiệm vụ."}}
+{"level": 3, "no": 532, "hz": "批评", "py": "pīpíng", "vi": "phê bình", "ex": {"zh": "老师批评了他的错误。", "py": "Lǎoshī pīpíng le tā de cuòwù.", "vi": "Giáo viên đã phê bình sai lầm của cậu ấy."}}
+{"level": 3, "no": 533, "hz": "批准", "py": "pīzhǔn", "vi": "phê duyệt", "ex": {"zh": "计划已经被批准了。", "py": "Jìhuà yǐjīng bèi pīzhǔn le.", "vi": "Kế hoạch đã được phê duyệt."}}
+{"level": 3, "no": 534, "hz": "皮", "py": "pí", "vi": "da", "ex": {"zh": "这双鞋的皮很软。", "py": "Zhè shuāng xié de pí hěn ruǎn.", "vi": "Da đôi giày này rất mềm."}}
+{"level": 3, "no": 535, "hz": "皮包", "py": "pí bāo", "vi": "túi da", "ex": {"zh": "她买了一个新皮包。", "py": "Tā mǎi le yī gè xīn pí bāo.", "vi": "Cô ấy mua một chiếc túi da mới."}}
+{"level": 3, "no": 536, "hz": "啤酒", "py": "píjiǔ", "vi": "bia", "ex": {"zh": "我们点了两杯啤酒。", "py": "Wǒmen diǎn le liǎng bēi píjiǔ.", "vi": "Chúng tôi gọi hai ly bia."}}
+{"level": 3, "no": 537, "hz": "票价", "py": "piào jià", "vi": "giá vé", "ex": {"zh": "电影的票价不贵。", "py": "Diànyǐng de piàojià bú guì.", "vi": "Giá vé xem phim không đắt."}}
+{"level": 3, "no": 538, "hz": "评价", "py": "píngjià", "vi": "đánh giá", "ex": {"zh": "老板对他工作评价很高。", "py": "Lǎobǎn duì tā gōngzuò píngjià hěn gāo.", "vi": "Sếp đánh giá cao công việc của anh ấy."}}
+{"level": 3, "no": 539, "hz": "苹果", "py": "píngguǒ", "vi": "táo", "ex": {"zh": "我每天吃一个苹果。", "py": "Wǒ měitiān chī yī gè píngguǒ.", "vi": "Tôi ăn một quả táo mỗi ngày."}}
+{"level": 3, "no": 540, "hz": "破", "py": "pò", "vi": "vỡ", "ex": {"zh": "这个杯子破了。", "py": "Zhège bēizi pò le.", "vi": "Cái ly này bị vỡ rồi."}}
+{"level": 3, "no": 541, "hz": "破坏", "py": "pòhuài", "vi": "phá hoại", "ex": {"zh": "不要破坏公共设施。", "py": "Bùyào pòhuài gōnggòng shèshī.", "vi": "Đừng phá hoại cơ sở công cộng."}}
+{"level": 3, "no": 542, "hz": "普遍", "py": "pǔbiàn", "vi": "phổ biến", "ex": {"zh": "这种现象很普遍。", "py": "Zhè zhǒng xiànxiàng hěn pǔbiàn.", "vi": "Hiện tượng này rất phổ biến."}}
+{"level": 3, "no": 543, "hz": "普及", "py": "pǔjí", "vi": "phổ cập", "ex": {"zh": "教育已经普及到农村。", "py": "Jiàoyù yǐjīng pǔjí dào nóngcūn.", "vi": "Giáo dục đã phổ cập tới nông thôn."}}
+{"level": 3, "no": 544, "hz": "期", "py": "qī", "vi": "kỳ hạn", "ex": {"zh": "这个计划分三个时期。", "py": "Zhège jìhuà fēn sān gè qīqī.", "vi": "Kế hoạch này chia làm ba giai đoạn."}}
+{"level": 3, "no": 545, "hz": "齐", "py": "qí", "vi": "đều nhau", "ex": {"zh": "大家齐声说“你好”。", "py": "Dàjiā qíshēng shuō “nǐ hǎo”.", "vi": "Mọi người đồng thanh nói “xin chào”."}}
+{"level": 3, "no": 546, "hz": "其次", "py": "qícì", "vi": "tiếp theo", "ex": {"zh": "首先要努力，其次要坚持。", "py": "Shǒuxiān yào nǔlì, qícì yào jiānchí.", "vi": "Trước tiên phải nỗ lực, sau đó phải kiên trì."}}
+{"level": 3, "no": 547, "hz": "其实", "py": "qíshí", "vi": "thật ra", "ex": {"zh": "我其实不太懂这道题。", "py": "Wǒ qíshí bú tài dǒng zhè dào tí.", "vi": "Thật ra tôi không hiểu rõ câu hỏi này."}}
+{"level": 3, "no": 548, "hz": "奇怪", "py": "qíguài", "vi": "kỳ lạ", "ex": {"zh": "他的行为很奇怪。", "py": "Tā de xíngwéi hěn qíguài.", "vi": "Hành vi của anh ấy rất kỳ lạ."}}
+{"level": 3, "no": 549, "hz": "气候", "py": "qìhòu", "vi": "khí hậu", "ex": {"zh": "这里的气候很温暖。", "py": "Zhè lǐ de qìhòu hěn wēnnuǎn.", "vi": "Khí hậu ở đây rất ấm áp."}}
+{"level": 3, "no": 550, "hz": "千万", "py": "qiānwàn", "vi": "nhất định; rất nhiều", "ex": {"zh": "你千万不要忘了这件事。", "py": "Nǐ qiānwàn búyào wàng le zhè jiàn shì.", "vi": "Bạn nhất định đừng quên chuyện này."}}
+{"level": 3, "no": 551, "hz": "前后", "py": "qián hòu", "vi": "trước và sau", "ex": {"zh": "他前后去了三次北京。", "py": "Tā qiánhòu qù le sān cì Běijīng.", "vi": "Anh ấy đã đi Bắc Kinh ba lần cả trước và sau."}}
+{"level": 3, "no": 552, "hz": "前进", "py": "qián jìn", "vi": "tiến về phía trước", "ex": {"zh": "我们要继续前进。", "py": "Wǒmen yào jìxù qiánjìn.", "vi": "Chúng ta cần tiếp tục tiến lên."}}
+{"level": 3, "no": 553, "hz": "前面", "py": "qiánmiàn", "vi": "phía trước", "ex": {"zh": "车停在前面。", "py": "Chē tíng zài qiánmiàn.", "vi": "Xe đỗ ở phía trước."}}
+{"level": 3, "no": 554, "hz": "前往", "py": "qián wǎng", "vi": "đi đến", "ex": {"zh": "他前往上海出差。", "py": "Tā qiánwǎng Shànghǎi chūchāi.", "vi": "Anh ấy đi công tác Thượng Hải."}}
+{"level": 3, "no": 555, "hz": "强", "py": "qiáng", "vi": "mạnh", "ex": {"zh": "他身体很强壮。", "py": "Tā shēntǐ hěn qiángzhuàng.", "vi": "Cơ thể anh ấy rất khỏe mạnh."}}
+{"level": 3, "no": 556, "hz": "强大", "py": "qiáng dà", "vi": "mạnh mẽ", "ex": {"zh": "中国是一个强大的国家。", "py": "Zhōngguó shì yī gè qiángdà de guójiā.", "vi": "Trung Quốc là một quốc gia hùng mạnh."}}
+{"level": 3, "no": 557, "hz": "强调", "py": "qiángdiào", "vi": "nhấn mạnh", "ex": {"zh": "老师强调了时间的重要性。", "py": "Lǎoshī qiángdiào le shíjiān de zhòngyàoxìng.", "vi": "Giáo viên nhấn mạnh tầm quan trọng của thời gian."}}
+{"level": 3, "no": 558, "hz": "强烈", "py": "qiángliè", "vi": "mãnh liệt", "ex": {"zh": "我有强烈的愿望去旅行。", "py": "Wǒ yǒu qiángliè de yuànwàng qù lǚxíng.", "vi": "Tôi có mong muốn mãnh liệt được đi du lịch."}}
+{"level": 3, "no": 559, "hz": "桥", "py": "qiáo", "vi": "cầu", "ex": {"zh": "我们过桥去对面。", "py": "Wǒmen guò qiáo qù duìmiàn.", "vi": "Chúng ta đi qua cầu sang bên kia."}}
+{"level": 3, "no": 560, "hz": "巧", "py": "qiǎo", "vi": "khéo léo", "ex": {"zh": "她的手很巧。", "py": "Tā de shǒu hěn qiǎo.", "vi": "Tay cô ấy rất khéo."}}
+{"level": 3, "no": 561, "hz": "亲", "py": "qīn", "vi": "thân thiết", "ex": {"zh": "他们关系很亲。", "py": "Tāmen guānxì hěn qīn.", "vi": "Họ có mối quan hệ thân thiết."}}
+{"level": 3, "no": 562, "hz": "亲切", "py": "qīnqiè", "vi": "thân mật", "ex": {"zh": "她对我们很亲切。", "py": "Tā duì wǒmen hěn qīnqiè.", "vi": "Cô ấy rất thân mật với chúng tôi."}}
+{"level": 3, "no": 563, "hz": "亲人", "py": "qīn rén", "vi": "người thân", "ex": {"zh": "她是我最亲的人。", "py": "Tā shì wǒ zuì qīn de rén.", "vi": "Cô ấy là người thân thiết nhất của tôi."}}
+{"level": 3, "no": 564, "hz": "亲自", "py": "qīnzì", "vi": "đích thân", "ex": {"zh": "他亲自来道歉。", "py": "Tā qīnzì lái dàoqiàn.", "vi": "Anh ấy đích thân đến xin lỗi."}}
+{"level": 3, "no": 565, "hz": "情感", "py": "qíng gǎn", "vi": "tình cảm", "ex": {"zh": "他的情感很丰富。", "py": "Tā de qínggǎn hěn fēngfù.", "vi": "Anh ấy rất giàu tình cảm."}}
+{"level": 3, "no": 566, "hz": "情况", "py": "qíngkuàng", "vi": "tình hình", "ex": {"zh": "请告诉我最新的情况。", "py": "Qǐng gàosu wǒ zuìxīn de qíngkuàng.", "vi": "Hãy cho tôi biết tình hình mới nhất."}}
+{"level": 3, "no": 567, "hz": "请教", "py": "qǐngjiào", "vi": "thỉnh giáo", "ex": {"zh": "我想请教你一个问题。", "py": "Wǒ xiǎng qǐngjiào nǐ yī gè wèntí.", "vi": "Tôi muốn hỏi bạn một vấn đề."}}
+{"level": 3, "no": 568, "hz": "庆祝", "py": "qìngzhù", "vi": "chúc mừng", "ex": {"zh": "我们一起庆祝节日。", "py": "Wǒmen yīqǐ qìngzhù jiérì.", "vi": "Chúng ta cùng nhau chúc mừng ngày lễ."}}
+{"level": 3, "no": 569, "hz": "球迷", "py": "qiúmí", "vi": "người hâm mộ", "ex": {"zh": "他是个足球迷。", "py": "Tā shì gè zúqiú mí.", "vi": "Anh ấy là người hâm mộ bóng đá."}}
+{"level": 3, "no": 570, "hz": "区", "py": "qū", "vi": "khu vực", "ex": {"zh": "他住在商业区。", "py": "Tā zhù zài shāngyè qū.", "vi": "Anh ấy sống ở khu thương mại."}}
+{"level": 3, "no": 571, "hz": "区别", "py": "qūbié", "vi": "sự khác biệt", "ex": {"zh": "他们之间没有太大区别。", "py": "Tāmen zhījiān méiyǒu tài dà qūbié.", "vi": "Giữa họ không có nhiều khác biệt."}}
+{"level": 3, "no": 572, "hz": "取消", "py": "qǔxiāo", "vi": "hủy bỏ", "ex": {"zh": "会议被取消了。", "py": "Huìyì bèi qǔxiāo le.", "vi": "Cuộc họp đã bị hủy."}}
+{"level": 3, "no": 573, "hz": "去世", "py": "qùshì", "vi": "qua đời", "ex": {"zh": "他爷爷去年去世了。", "py": "Tā yéye qùnián qùshì le.", "vi": "Ông của anh ấy qua đời năm ngoái."}}
+{"level": 3, "no": 574, "hz": "全场", "py": "quán chǎng", "vi": "toàn sân", "ex": {"zh": "全场观众都在鼓掌。", "py": "Quánchǎng guānzhòng dōu zài gǔzhǎng.", "vi": "Toàn bộ khán giả đều đang vỗ tay."}}
+{"level": 3, "no": 575, "hz": "全面", "py": "quánmiàn", "vi": "toàn diện", "ex": {"zh": "我们需要一个全面的计划。", "py": "Wǒmen xūyào yī gè quánmiàn de jìhuà.", "vi": "Chúng tôi cần một kế hoạch toàn diện."}}
+{"level": 3, "no": 576, "hz": "全球", "py": "quán qiú", "vi": "toàn cầu", "ex": {"zh": "全球气候在变化。", "py": "Quánqiú qìhòu zài biànhuà.", "vi": "Khí hậu toàn cầu đang thay đổi."}}
+{"level": 3, "no": 577, "hz": "缺", "py": "quē", "vi": "thiếu", "ex": {"zh": "我们缺人手。", "py": "Wǒmen quē rénshǒu.", "vi": "Chúng tôi thiếu nhân"}}
+{"level": 3, "no": 578, "hz": "缺点", "py": "quēdiǎn", "vi": "khuyết điểm", "ex": {"zh": "每个人都有缺点。", "py": "Měi gè rén dōu yǒu quēdiǎn.", "vi": "Ai cũng có khuyết điểm."}}
+{"level": 3, "no": 579, "hz": "缺少", "py": "quēshǎo", "vi": "thiếu sót", "ex": {"zh": "缺少经验是他的问题。", "py": "Quēshǎo jīngyàn shì tā de wèntí.", "vi": "Thiếu kinh nghiệm là vấn đề của anh ấy."}}
+{"level": 3, "no": 580, "hz": "确保", "py": "quèbǎo", "vi": "đảm bảo", "ex": {"zh": "请确保信息准确。", "py": "Qǐng quèbǎo xìnxī zhǔnquè.", "vi": "Hãy đảm bảo thông tin chính xác."}}
+{"level": 3, "no": 581, "hz": "确定", "py": "quèdìng", "vi": "xác định", "ex": {"zh": "你确定这个日期吗？", "py": "Nǐ quèdìng zhège rìqī ma?", "vi": "Bạn chắc chắn về ngày này chứ?"}}
+{"level": 3, "no": 582, "hz": "确实", "py": "quèshí", "vi": "thực sự", "ex": {"zh": "我确实不知道这件事。", "py": "Wǒ quèshí bù zhīdào zhè jiàn shì.", "vi": "Tôi thực sự không biết chuyện này."}}
+{"level": 3, "no": 583, "hz": "裙子", "py": "qúnzi", "vi": "váy", "ex": {"zh": "她穿了一条红色的裙子。", "py": "Tā chuān le yī tiáo hóngsè de qúnzi.", "vi": "Cô ấy mặc một chiếc váy màu đỏ."}}
+{"level": 3, "no": 584, "hz": "群", "py": "qún", "vi": "nhóm", "ex": {"zh": "一群学生在操场上玩。", "py": "Yì qún xuéshēng zài cāochǎng shàng wán.", "vi": "Một nhóm học sinh đang chơi trên sân."}}
+{"level": 3, "no": 585, "hz": "热爱", "py": "rè’ài", "vi": "yêu tha thiết", "ex": {"zh": "他热爱自己的工作。", "py": "Tā rè’ài zìjǐ de gōngzuò.", "vi": "Anh ấy yêu công việc của mình."}}
+{"level": 3, "no": 586, "hz": "热烈", "py": "rèliè", "vi": "nồng nhiệt", "ex": {"zh": "他们受到热烈欢迎。", "py": "Tāmen shòudào rèliè huānyíng.", "vi": "Họ được chào đón nồng nhiệt."}}
+{"level": 3, "no": 587, "hz": "人才", "py": "réncái", "vi": "nhân tài", "ex": {"zh": "我们公司需要更多人才。", "py": "Wǒmen gōngsī xūyào gèng duō réncái.", "vi": "Công ty chúng tôi cần nhiều nhân tài hơn."}}
+{"level": 3, "no": 588, "hz": "人工", "py": "réngōng", "vi": "nhân tạo", "ex": {"zh": "这是一个人工湖。", "py": "Zhè shì yī gè réngōng hú.", "vi": "Đây là một hồ nhân tạo."}}
+{"level": 3, "no": 589, "hz": "人类", "py": "rénlèi", "vi": "loài người", "ex": {"zh": "人类应该保护地球。", "py": "Rénlèi yīnggāi bǎohù dìqiú.", "vi": "Loài người nên bảo vệ Trái Đất."}}
+{"level": 3, "no": 590, "hz": "人民", "py": "rén mín", "vi": "nhân dân", "ex": {"zh": "人民生活越来越好。", "py": "Rénmín shēnghuó yuèláiyuè hǎo.", "vi": "Cuộc sống nhân dân ngày càng tốt."}}
+{"level": 3, "no": 591, "hz": "人民币", "py": "rénmínbì", "vi": "nhân dân tệ", "ex": {"zh": "他用人民币付款。", "py": "Tā yòng Rénmínbì fùkuǎn.", "vi": "Anh ấy thanh toán bằng Nhân dân tệ."}}
+{"level": 3, "no": 592, "hz": "人群", "py": "rén qún", "vi": "đám đông", "ex": {"zh": "人群中传来一阵欢呼声。", "py": "Rénqún zhōng chuán lái yī zhèn huānhū shēng.", "vi": "Tiếng reo hò vang lên từ đám đông."}}
+{"level": 3, "no": 593, "hz": "人生", "py": "rénshēng", "vi": "cuộc đời", "ex": {"zh": "人生充满挑战。", "py": "Rénshēng chōngmǎn tiǎozhàn.", "vi": "Cuộc đời đầy thử thách."}}
+{"level": 3, "no": 594, "hz": "人员", "py": "rényuán", "vi": "nhân sự", "ex": {"zh": "本公司招聘技术人员。", "py": "Běn gōngsī zhāopìn jìshù rényuán.", "vi": "Công ty chúng tôi tuyển nhân viên kỹ thuật."}}
+{"level": 3, "no": 595, "hz": "认出", "py": "rèn chū", "vi": "nhận ra", "ex": {"zh": "我一眼就认出他了。", "py": "Wǒ yī yǎn jiù rènchū tā le.", "vi": "Tôi nhận ra anh ấy ngay lập tức."}}
+{"level": 3, "no": 596, "hz": "认得", "py": "rèn dé", "vi": "biết", "ex": {"zh": "我不认得他。", "py": "Wǒ bù rèndé tā.", "vi": "Tôi không nhận ra anh ấy."}}
+{"level": 3, "no": 597, "hz": "认可", "py": "rènkě", "vi": "công nhận", "ex": {"zh": "他的努力得到了认可。", "py": "Tā de nǔlì dédào le rènkě.", "vi": "Nỗ lực của anh ấy đã được công nhận."}}
+{"level": 3, "no": 598, "hz": "任（动）", "py": "rèn", "vi": "bổ nhiệm", "ex": {"zh": "他被任命为经理。", "py": "Tā bèi rènmìng wéi jīnglǐ.", "vi": "Anh ấy được bổ nhiệm làm quản lý."}}
+{"level": 3, "no": 599, "hz": "任（连）", "py": "rèn", "vi": "mặc cho", "ex": {"zh": "任你怎么说，我都不信。", "py": "Rèn nǐ zěnme shuō, wǒ dōu bù xìn.", "vi": "Dù bạn nói thế nào, tôi cũng không tin."}}
+{"level": 3, "no": 600, "hz": "任何", "py": "rènhé", "vi": "bất kỳ", "ex": {"zh": "你可以在任何时间来。", "py": "Nǐ kěyǐ zài rènhé shíjiān lái.", "vi": "Bạn có thể đến bất kỳ lúc nào."}}
+{"level": 3, "no": 601, "hz": "任务", "py": "rènwu", "vi": "nhiệm vụ", "ex": {"zh": "我已经完成了今天的任务。", "py": "Wǒ yǐjīng wánchéng le jīntiān de rènwu.", "vi": "Tôi đã hoàn thành nhiệm vụ hôm nay."}}
+{"level": 3, "no": 602, "hz": "仍", "py": "réng", "vi": "vẫn", "ex": {"zh": "他仍住在老家。", "py": "Tā réng zhù zài lǎojiā.", "vi": "Anh ấy vẫn sống ở quê."}}
+{"level": 3, "no": 603, "hz": "仍然", "py": "réngrán", "vi": "vẫn", "ex": {"zh": "天气仍然很冷。", "py": "Tiānqì réngrán hěn lěng.", "vi": "Thời tiết vẫn rất lạnh."}}
+{"level": 3, "no": 604, "hz": "日常", "py": "rìcháng", "vi": "hằng ngày", "ex": {"zh": "这些是我的日常任务。", "py": "Zhèxiē shì wǒ de rìcháng rènwu.", "vi": "Đây là nhiệm vụ hằng ngày của tôi."}}
+{"level": 3, "no": 605, "hz": "容易", "py": "róngyì", "vi": "dễ dàng", "ex": {"zh": "这个问题很容易回答。", "py": "Zhège wèntí hěn róngyì huídá.", "vi": "Câu hỏi này rất dễ trả lời."}}
+{"level": 3, "no": 606, "hz": "如何", "py": "rúhé", "vi": "như thế nào", "ex": {"zh": "你打算如何解决这个问题？", "py": "Nǐ dǎsuàn rúhé jiějué zhège wèntí?", "vi": "Bạn định giải quyết vấn đề này thế nào?"}}
+{"level": 3, "no": 607, "hz": "散步", "py": "sànbù", "vi": "đi dạo", "ex": {"zh": "我每天晚上都去散步。", "py": "Wǒ měitiān wǎnshang dōu qù sànbù.", "vi": "Tôi đi dạo mỗi tối."}}
+{"level": 3, "no": 608, "hz": "沙发", "py": "shāfā", "vi": "ghế sô pha", "ex": {"zh": "请坐在沙发上。", "py": "Qǐng zuò zài shāfā shàng.", "vi": "Mời ngồi lên ghế sô pha."}}
+{"level": 3, "no": 609, "hz": "沙子", "py": "shā zi", "vi": "cát", "ex": {"zh": "孩子们在玩沙子。", "py": "Háizimen zài wán shāzi.", "vi": "Bọn trẻ đang chơi cát."}}
+{"level": 3, "no": 610, "hz": "伤", "py": "shāng", "vi": "tổn thương", "ex": {"zh": "他受伤了。", "py": "Tā shòushāng le.", "vi": "Anh ấy bị thương."}}
+{"level": 3, "no": 611, "hz": "伤心", "py": "shāngxīn", "vi": "buồn", "ex": {"zh": "她听到坏消息后很伤心。", "py": "Tā tīngdào huài xiāoxi hòu hěn shāngxīn.", "vi": "Cô ấy buồn sau khi nghe tin xấu."}}
+{"level": 3, "no": 612, "hz": "商品", "py": "shāngpǐn", "vi": "hàng hóa", "ex": {"zh": "商店里有各种商品。", "py": "Shāngdiàn lǐ yǒu gèzhǒng shāngpǐn.", "vi": "Trong cửa hàng có nhiều loại hàng hóa."}}
+{"level": 3, "no": 613, "hz": "商业", "py": "shāngyè", "vi": "thương mại", "ex": {"zh": "他在商业领域工作。", "py": "Tā zài shāngyè lǐngyù gōngzuò.", "vi": "Anh ấy làm việc trong lĩnh vực thương mại."}}
+{"level": 3, "no": 614, "hz": "上来", "py": "shàng lái", "vi": "đi lên", "ex": {"zh": "他走上来了。", "py": "Tā zǒu shànglái le.", "vi": "Anh ấy đã đi lên."}}
+{"level": 3, "no": 615, "hz": "上面", "py": "shàng miàn", "vi": "phía trên", "ex": {"zh": "桌子上面有一本书。", "py": "Zhuōzi shàngmiàn yǒu yī běn shū.", "vi": "Trên bàn có một quyển sách."}}
+{"level": 3, "no": 616, "hz": "上去", "py": "shàng qù", "vi": "đi lên", "ex": {"zh": "他爬楼梯上去了。", "py": "Tā pá lóutī shàngqù le.", "vi": "Anh ấy đã leo cầu thang lên trên."}}
+{"level": 3, "no": 617, "hz": "上升", "py": "shàng shēng", "vi": "tăng lên", "ex": {"zh": "物价在不断上升。", "py": "Wùjià zài bùduàn shàngshēng.", "vi": "Giá cả đang liên tục tăng lên."}}
+{"level": 3, "no": 618, "hz": "上衣", "py": "shàng yī", "vi": "áo khoác", "ex": {"zh": "她穿着一件红色的上衣。", "py": "Tā chuānzhe yī jiàn hóngsè de shàngyī.", "vi": "Cô ấy mặc một chiếc áo khoác đỏ."}}
+{"level": 3, "no": 619, "hz": "设备", "py": "shèbèi", "vi": "thiết bị", "ex": {"zh": "工厂购置了新设备。", "py": "Gōngchǎng gòuzhì le xīn shèbèi.", "vi": "Nhà máy đã mua thiết bị mới."}}
+{"level": 3, "no": 620, "hz": "设计", "py": "shèjì", "vi": "thiết kế", "ex": {"zh": "她负责这个项目的设计。", "py": "Tā fùzé zhège xiàngmù de shèjì.", "vi": "Cô ấy phụ trách thiết kế dự án này."}}
+{"level": 3, "no": 621, "hz": "设立", "py": "shèlì", "vi": "thành lập", "ex": {"zh": "公司设立了一个新部门。", "py": "Gōngsī shèlì le yī gè xīn bùmén.", "vi": "Công ty đã thành lập một phòng ban mới."}}
+{"level": 3, "no": 622, "hz": "社会", "py": "shèhuì", "vi": "xã hội", "ex": {"zh": "我们生活在一个现代社会。", "py": "Wǒmen shēnghuó zài yī gè xiàndài shèhuì.", "vi": "Chúng ta sống trong một xã hội hiện đại."}}
+{"level": 3, "no": 623, "hz": "身份证", "py": "shēn fèn zhèng", "vi": "chứng minh nhân dân", "ex": {"zh": "请出示你的身份证。", "py": "Qǐng chūshì nǐ de shēnfènzhèng.", "vi": "Xin hãy xuất trình chứng minh nhân"}}
+{"level": 3, "no": 624, "hz": "深", "py": "shēn", "vi": "sâu", "ex": {"zh": "湖水很深。", "py": "Húshuǐ hěn shēn.", "vi": "Nước hồ rất sâu."}}
+{"level": 3, "no": 625, "hz": "深刻", "py": "shēnkè", "vi": "sâu sắc", "ex": {"zh": "这本书给我留下深刻印象。", "py": "Zhè běn shū gěi wǒ liúxià shēnkè yìnxiàng.", "vi": "Cuốn sách này để lại ấn tượng sâu sắc với tôi."}}
+{"level": 3, "no": 626, "hz": "深入", "py": "shēn rù", "vi": "thâm nhập", "ex": {"zh": "我们要深入了解市场。", "py": "Wǒmen yào shēnrù liǎojiě shìchǎng.", "vi": "Chúng ta cần hiểu rõ thị trường."}}
+{"level": 3, "no": 627, "hz": "升", "py": "shēng", "vi": "tăng", "ex": {"zh": "水位在上升。", "py": "Shuǐwèi zài shàngshēng.", "vi": "Mực nước đang tăng."}}
+{"level": 3, "no": 628, "hz": "生（形）", "py": "shēng", "vi": "sống", "ex": {"zh": "我不喜欢吃生的鱼。", "py": "Wǒ bù xǐhuān chī shēng de yú.", "vi": "Tôi không thích ăn cá sống."}}
+{"level": 3, "no": 629, "hz": "生产", "py": "shēngchǎn", "vi": "sản xuất", "ex": {"zh": "工厂正在生产新产品。", "py": "Gōngchǎng zhèngzài shēngchǎn xīn chǎnpǐn.", "vi": "Nhà máy đang sản xuất sản phẩm mới."}}
+{"level": 3, "no": 630, "hz": "生存", "py": "shēngcún", "vi": "sinh tồn", "ex": {"zh": "野生动物必须努力生存。", "py": "Yěshēng dòngwù bìxū nǔlì shēngcún.", "vi": "Động vật hoang dã phải nỗ lực sinh tồn."}}
+{"level": 3, "no": 631, "hz": "生动", "py": "shēngdòng", "vi": "sinh động", "ex": {"zh": "她的讲课非常生动。", "py": "Tā de jiǎngkè fēicháng shēngdòng.", "vi": "Bài giảng của cô ấy rất sinh động."}}
+{"level": 3, "no": 632, "hz": "生命", "py": "shēngmìng", "vi": "sinh mệnh", "ex": {"zh": "我们要珍惜生命。", "py": "Wǒmen yào zhēnxī shēngmìng.", "vi": "Chúng ta nên trân trọng sự sống."}}
+{"level": 3, "no": 633, "hz": "生意", "py": "shēngyi", "vi": "buôn bán", "ex": {"zh": "他的生意越做越大。", "py": "Tā de shēngyi yuè zuò yuè dà.", "vi": "Việc kinh doanh của anh ấy ngày càng phát triển."}}
+{"level": 3, "no": 634, "hz": "生长", "py": "shēngzhǎng", "vi": "sinh trưởng", "ex": {"zh": "树木在春天迅速生长。", "py": "Shùmù zài chūntiān xùnsù shēngzhǎng.", "vi": "Cây cối phát triển nhanh vào mùa xuân."}}
+{"level": 3, "no": 635, "hz": "声明", "py": "shēngmíng", "vi": "tuyên bố", "ex": {"zh": "政府发表了一项声明。", "py": "Zhèngfǔ fābiǎo le yī xiàng shēngmíng.", "vi": "Chính phủ đã đưa ra một tuyên bố."}}
+{"level": 3, "no": 636, "hz": "胜", "py": "shèng", "vi": "chiến thắng", "ex": {"zh": "我们赢了比赛，获得胜利。", "py": "Wǒmen yíng le bǐsài, huòdé shènglì.", "vi": "Chúng tôi đã thắng cuộc thi và giành chiến thắng."}}
+{"level": 3, "no": 637, "hz": "胜利", "py": "shènglì", "vi": "thắng lợi", "ex": {"zh": "胜利属于坚持到底的人。", "py": "Shènglì shǔyú jiānchí dàodǐ de rén.", "vi": "Chiến thắng thuộc về người kiên trì đến cùng."}}
+{"level": 3, "no": 638, "hz": "失去", "py": "shīqù", "vi": "mất đi", "ex": {"zh": "我不想失去你。", "py": "Wǒ bù xiǎng shīqù nǐ.", "vi": "Tôi không muốn mất"}}
+{"level": 3, "no": 639, "hz": "石头", "py": "shítou", "vi": "đá", "ex": {"zh": "他扔了一块石头进水里。", "py": "Tā rēng le yī kuài shítou jìn shuǐ lǐ.", "vi": "Anh ấy ném một hòn đá xuống nước."}}
+{"level": 3, "no": 640, "hz": "石油", "py": "shíyóu", "vi": "dầu mỏ", "ex": {"zh": "石油是一种重要资源。", "py": "Shíyóu shì yī zhǒng zhòngyào zīyuán.", "vi": "Dầu mỏ là một nguồn tài nguyên quan trọng."}}
+{"level": 3, "no": 641, "hz": "时", "py": "shí", "vi": "thời gian", "ex": {"zh": "我们要珍惜每一时。", "py": "Wǒmen yào zhēnxī měi yī shí.", "vi": "Chúng ta nên trân trọng từng khoảnh khắc."}}
+{"level": 3, "no": 642, "hz": "时代", "py": "shídài", "vi": "thời đại", "ex": {"zh": "我们生活在信息时代。", "py": "Wǒmen shēnghuó zài xìnxī shídài.", "vi": "Chúng ta sống trong thời đại thông tin."}}
+{"level": 3, "no": 643, "hz": "时刻", "py": "shíkè", "vi": "thời khắc", "ex": {"zh": "请注意每一个时刻。", "py": "Qǐng zhùyì měi yī gè shíkè.", "vi": "Hãy chú ý từng khoảnh khắc."}}
+{"level": 3, "no": 644, "hz": "实际上", "py": "shí jì shàng", "vi": "thực tế là", "ex": {"zh": "实际上他比你想象的聪明。", "py": "Shíjìshàng tā bǐ nǐ xiǎngxiàng de cōngmíng.", "vi": "Thực tế là anh ấy thông minh hơn bạn tưởng."}}
+{"level": 3, "no": 645, "hz": "实力", "py": "shílì", "vi": "thực lực", "ex": {"zh": "他有很强的实力。", "py": "Tā yǒu hěn qiáng de shílì.", "vi": "Anh ấy có thực lực rất mạnh."}}
+{"level": 3, "no": 646, "hz": "实行", "py": "shíxíng", "vi": "thực hiện", "ex": {"zh": "政策开始实行了。", "py": "Zhèngcè kāishǐ shíxíng le.", "vi": "Chính sách đã bắt đầu được thực hiện."}}
+{"level": 3, "no": 647, "hz": "实验", "py": "shíyàn", "vi": "thí nghiệm", "ex": {"zh": "老师做了一个有趣的实验。", "py": "Lǎoshī zuò le yī gè yǒuqù de shíyàn.", "vi": "Giáo viên đã làm một thí nghiệm thú vị."}}
+{"level": 3, "no": 648, "hz": "实验室", "py": "shí yàn shì", "vi": "phòng thí nghiệm", "ex": {"zh": "他们在实验室工作。", "py": "Tāmen zài shíyànshì gōngzuò.", "vi": "Họ làm việc trong phòng thí nghiệm."}}
+{"level": 3, "no": 649, "hz": "食品", "py": "shí pǐn", "vi": "thực phẩm", "ex": {"zh": "这些食品已经过期了。", "py": "Zhèxiē shípǐn yǐjīng guòqī le.", "vi": "Những thực phẩm này đã hết hạn."}}
+{"level": 3, "no": 650, "hz": "使", "py": "shǐ", "vi": "khiến cho", "ex": {"zh": "他的话使我感动。", "py": "Tā de huà shǐ wǒ gǎndòng.", "vi": "Lời nói của anh ấy khiến tôi cảm động."}}
+{"level": 3, "no": 651, "hz": "始终", "py": "shǐzhōng", "vi": "suốt", "ex": {"zh": "他始终坚持自己的理想。", "py": "Tā shǐzhōng jiānchí zìjǐ de lǐxiǎng.", "vi": "Anh ấy luôn kiên trì với lý tưởng của mình."}}
+{"level": 3, "no": 652, "hz": "世纪", "py": "shìjì", "vi": "thế kỷ", "ex": {"zh": "我们生活在21世纪。", "py": "Wǒmen shēnghuó zài 21 shìjì.", "vi": "Chúng ta sống ở thế kỷ 21."}}
+{"level": 3, "no": 653, "hz": "世界", "py": "shìjiè", "vi": "thế giới", "ex": {"zh": "世界正在迅速变化。", "py": "Shìjiè zhèngzài xùnsù biànhuà.", "vi": "Thế giới đang thay đổi nhanh chóng."}}
+{"level": 3, "no": 654, "hz": "世界杯", "py": "shì jiè bēi", "vi": "world Cup", "ex": {"zh": "我最喜欢看世界杯足球赛。", "py": "Wǒ zuì xǐhuān kàn Shìjièbēi zúqiúsài.", "vi": "Tôi thích xem bóng đá World Cup nhất."}}
+{"level": 3, "no": 655, "hz": "市场", "py": "shìchǎng", "vi": "thị trường", "ex": {"zh": "市场上有很多新产品。", "py": "Shìchǎng shàng yǒu hěn duō xīn chǎnpǐn.", "vi": "Trên thị trường có nhiều sản phẩm mới."}}
+{"level": 3, "no": 656, "hz": "事故", "py": "shìgù", "vi": "tai nạn", "ex": {"zh": "这次事故没有人受伤。", "py": "Zhè cì shìgù méiyǒu rén shòushāng.", "vi": "Không ai bị thương trong vụ tai nạn này."}}
+{"level": 3, "no": 657, "hz": "事件", "py": "shìjiàn", "vi": "sự kiện", "ex": {"zh": "这是一件重要的事件。", "py": "Zhè shì yī jiàn zhòngyào de shìjiàn.", "vi": "Đây là một sự kiện quan trọng."}}
+{"level": 3, "no": 658, "hz": "事实", "py": "shìshí", "vi": "sự thật", "ex": {"zh": "这是不争的事实。", "py": "Zhè shì bù zhēng de shìshí.", "vi": "Đây là sự thật không thể chối cãi."}}
+{"level": 3, "no": 659, "hz": "事实上", "py": "shì shí shàng", "vi": "thực tế là", "ex": {"zh": "事实上，我早就知道了。", "py": "Shìshí shàng, wǒ zǎo jiù zhīdào le.", "vi": "Thực tế là tôi đã biết từ lâu rồi."}}
+{"level": 3, "no": 660, "hz": "事业", "py": "shìyè", "vi": "sự nghiệp", "ex": {"zh": "他把全部精力投入事业中。", "py": "Tā bǎ quánbù jīnglì tóurù shìyè zhōng.", "vi": "Anh ấy dốc toàn bộ sức lực vào sự nghiệp."}}
+{"level": 3, "no": 661, "hz": "试题", "py": "shì tí", "vi": "đề thi", "ex": {"zh": "老师正在批改试题。", "py": "Lǎoshī zhèngzài pīgǎi shìtí.", "vi": "Giáo viên đang chấm đề thi."}}
+{"level": 3, "no": 662, "hz": "试验", "py": "shìyàn", "vi": "thử nghiệm", "ex": {"zh": "科学家正在进行试验。", "py": "Kēxuéjiā zhèngzài jìnxíng shìyàn.", "vi": "Các nhà khoa học đang tiến hành thử nghiệm."}}
+{"level": 3, "no": 663, "hz": "适合", "py": "shìhé", "vi": "phù hợp", "ex": {"zh": "这件衣服不适合你。", "py": "Zhè jiàn yīfu bù shìhé nǐ.", "vi": "Bộ đồ này không hợp với bạn."}}
+{"level": 3, "no": 664, "hz": "适应", "py": "shìyìng", "vi": "thích nghi", "ex": {"zh": "他很快适应了新环境。", "py": "Tā hěn kuài shìyìng le xīn huánjìng.", "vi": "Anh ấy nhanh chóng thích nghi với môi trường mới."}}
+{"level": 3, "no": 665, "hz": "适用", "py": "shì yòng", "vi": "thích dụng", "ex": {"zh": "这个方法适用于各种情况。", "py": "Zhège fāngfǎ shìyòng yú gè zhǒng qíngkuàng.", "vi": "Phương pháp này thích hợp với nhiều tình huống."}}
+{"level": 3, "no": 666, "hz": "室", "py": "shì", "vi": "phòng", "ex": {"zh": "他在自己的办公室里。", "py": "Tā zài zìjǐ de bàngōngshì lǐ.", "vi": "Anh ấy đang ở trong văn phòng của mình."}}
+{"level": 3, "no": 667, "hz": "收费", "py": "shōu fèi", "vi": "thu phí", "ex": {"zh": "这个服务是收费的。", "py": "Zhège fúwù shì shōufèi de.", "vi": "Dịch vụ này có thu phí."}}
+{"level": 3, "no": 668, "hz": "收看", "py": "shōu kàn", "vi": "xem (TV)", "ex": {"zh": "他每天晚上收看新闻。", "py": "Tā měitiān wǎnshang shōukàn xīnwén.", "vi": "Anh ấy xem tin tức mỗi tối."}}
+{"level": 3, "no": 669, "hz": "收听", "py": "shōu tīng", "vi": "nghe (radio)", "ex": {"zh": "他经常收听英语广播。", "py": "Tā jīngcháng shōutīng Yīngyǔ guǎngbò.", "vi": "Anh ấy thường nghe đài tiếng Anh."}}
+{"level": 3, "no": 670, "hz": "收音机", "py": "shōuyīnjī", "vi": "đài phát thanh", "ex": {"zh": "他买了一台收音机。", "py": "Tā mǎi le yī tái shōuyīnjī.", "vi": "Anh ấy mua một chiếc đài phát thanh."}}
+{"level": 3, "no": 671, "hz": "手续", "py": "shǒuxù", "vi": "thủ tục", "ex": {"zh": "办理护照需要很多手续。", "py": "Bànlǐ hùzhào xūyào hěn duō shǒuxù.", "vi": "Làm hộ chiếu cần nhiều thủ tục."}}
+{"level": 3, "no": 672, "hz": "手指", "py": "shǒuzhǐ", "vi": "ngón tay", "ex": {"zh": "她的手指很细长。", "py": "Tā de shǒuzhǐ hěn xìcháng.", "vi": "Ngón tay của cô ấy thon dài."}}
+{"level": 3, "no": 673, "hz": "首都", "py": "shǒudū", "vi": "thủ đô", "ex": {"zh": "北京是中国的首都。", "py": "Běijīng shì Zhōngguó de shǒudū.", "vi": "Bắc Kinh là thủ đô của Trung Quốc."}}
+{"level": 3, "no": 674, "hz": "首先", "py": "shǒuxiān", "vi": "đầu tiên", "ex": {"zh": "首先我要感谢大家的支持。", "py": "Shǒuxiān wǒ yào gǎnxiè dàjiā de zhīchí.", "vi": "Trước tiên, tôi muốn cảm ơn sự ủng hộ của mọi người."}}
+{"level": 3, "no": 675, "hz": "受", "py": "shòu", "vi": "chịu, nhận", "ex": {"zh": "他受到了很多人的欢迎。", "py": "Tā shòudào le hěn duō rén de huānyíng.", "vi": "Anh ấy được nhiều người chào đón."}}
+{"level": 3, "no": 676, "hz": "受伤", "py": "shòushāng", "vi": "bị thương", "ex": {"zh": "比赛中他受伤了。", "py": "Bǐsài zhōng tā shòushāng le.", "vi": "Anh ấy bị thương trong trận đấu."}}
+{"level": 3, "no": 677, "hz": "书架", "py": "shūjià", "vi": "giá sách", "ex": {"zh": "我的书架上放满了书。", "py": "Wǒ de shūjià shàng fàng mǎn le shū.", "vi": "Giá sách của tôi đầy sách."}}
+{"level": 3, "no": 678, "hz": "输", "py": "shū", "vi": "thua", "ex": {"zh": "我们队输了比赛。", "py": "Wǒmen duì shū le bǐsài.", "vi": "Đội chúng tôi thua trận đấu."}}
+{"level": 3, "no": 679, "hz": "输入", "py": "shūrù", "vi": "nhập vào", "ex": {"zh": "请在此输入密码。", "py": "Qǐng zài cǐ shūrù mìmǎ.", "vi": "Hãy nhập mật khẩu vào đây."}}
+{"level": 3, "no": 680, "hz": "熟人", "py": "shú rén", "vi": "người quen", "ex": {"zh": "他是我的老熟人了。", "py": "Tā shì wǒ de lǎo shúrén le.", "vi": "Anh ấy là người quen cũ của tôi."}}
+{"level": 3, "no": 681, "hz": "属", "py": "shǔ", "vi": "thuộc", "ex": {"zh": "我属龙。", "py": "Wǒ shǔ lóng.", "vi": "Tôi cầm tinh con rồng."}}
+{"level": 3, "no": 682, "hz": "属于", "py": "shǔyú", "vi": "thuộc về", "ex": {"zh": "这本书属于我。", "py": "Zhè běn shū shǔyú wǒ.", "vi": "Quyển sách này thuộc về tôi."}}
+{"level": 3, "no": 683, "hz": "束", "py": "shù", "vi": "bó", "ex": {"zh": "他送我一束花。", "py": "Tā sòng wǒ yī shù huā.", "vi": "Anh ấy tặng tôi một bó hoa."}}
+{"level": 3, "no": 684, "hz": "数量", "py": "shùliàng", "vi": "số lượng", "ex": {"zh": "商品的数量有限。", "py": "Shāngpǐn de shùliàng yǒuxiàn.", "vi": "Số lượng hàng hóa có hạn."}}
+{"level": 3, "no": 685, "hz": "双", "py": "shuāng", "vi": "đôi", "ex": {"zh": "我买了一双新鞋。", "py": "Wǒ mǎi le yī shuāng xīn xié.", "vi": "Tôi đã mua một đôi giày mới."}}
+{"level": 3, "no": 686, "hz": "双方", "py": "shuāngfāng", "vi": "hai bên", "ex": {"zh": "双方已经达成协议。", "py": "Shuāngfāng yǐjīng dáchéng xiéyì.", "vi": "Hai bên đã đạt được thỏa thuận."}}
+{"level": 3, "no": 687, "hz": "思想", "py": "sīxiǎng", "vi": "tư tưởng", "ex": {"zh": "他的思想很先进。", "py": "Tā de sīxiǎng hěn xiānjìn.", "vi": "Tư tưởng của anh ấy rất tiến bộ."}}
+{"level": 3, "no": 688, "hz": "死", "py": "sǐ", "vi": "chết", "ex": {"zh": "那只鸟死了。", "py": "Nà zhī niǎo sǐ le.", "vi": "Con chim đó đã chết."}}
+{"level": 3, "no": 689, "hz": "速度", "py": "sùdù", "vi": "tốc độ", "ex": {"zh": "火车的速度非常快。", "py": "Huǒchē de sùdù fēicháng kuài.", "vi": "Tốc độ tàu hỏa rất nhanh."}}
+{"level": 3, "no": 690, "hz": "随", "py": "suí", "vi": "theo", "ex": {"zh": "我随你一起去。", "py": "Wǒ suí nǐ yīqǐ qù.", "vi": "Tôi đi theo bạn."}}
+{"level": 3, "no": 691, "hz": "所（名、量）", "py": "suǒ", "vi": "nơi / cái (lượng từ)", "ex": {"zh": "他在一所大学教书。", "py": "Tā zài yī suǒ dàxué jiāoshū.", "vi": "Anh ấy dạy ở một trường đại học."}}
+{"level": 3, "no": 692, "hz": "所长", "py": "suǒ zhǎng", "vi": "sở trưởng", "ex": {"zh": "他是公安局的所长。", "py": "Tā shì gōng'ānjú de suǒzhǎng.", "vi": "Anh ấy là sở trưởng công an."}}
+{"level": 3, "no": 693, "hz": "台", "py": "tái", "vi": "đài / cái (máy)", "ex": {"zh": "我家有一台电视。", "py": "Wǒ jiā yǒu yī tái diànshì.", "vi": "Nhà tôi có một cái tivi."}}
+{"level": 3, "no": 694, "hz": "谈", "py": "tán", "vi": "nói chuyện", "ex": {"zh": "我们谈了很多问题。", "py": "Wǒmen tán le hěn duō wèntí.", "vi": "Chúng tôi đã nói nhiều vấn đề."}}
+{"level": 3, "no": 695, "hz": "谈话", "py": "tán huà", "vi": "cuộc trò chuyện", "ex": {"zh": "他们正在谈话。", "py": "Tāmen zhèngzài tánhuà.", "vi": "Họ đang trò chuyện."}}
+{"level": 3, "no": 696, "hz": "谈判", "py": "tánpàn", "vi": "đàm phán", "ex": {"zh": "双方开始谈判了。", "py": "Shuāngfāng kāishǐ tánpàn le.", "vi": "Hai bên bắt đầu đàm phán."}}
+{"level": 3, "no": 697, "hz": "汤", "py": "tāng", "vi": "canh", "ex": {"zh": "妈妈做了一碗热汤。", "py": "Māma zuò le yī wǎn rè tāng.", "vi": "Mẹ nấu một bát canh nóng."}}
+{"level": 3, "no": 698, "hz": "糖", "py": "táng", "vi": "đường", "ex": {"zh": "我不吃糖。", "py": "Wǒ bù chī táng.", "vi": "Tôi không ăn đường."}}
+{"level": 3, "no": 699, "hz": "特色", "py": "tèsè", "vi": "đặc sắc", "ex": {"zh": "这个地方有很多地方特色。", "py": "Zhège dìfāng yǒu hěn duō dìfāng tèsè.", "vi": "Nơi này có nhiều nét đặc sắc địa phương."}}
+{"level": 3, "no": 700, "hz": "提前", "py": "tíqián", "vi": "sớm, trước thời hạn", "ex": {"zh": "我们需要提前准备好。", "py": "Wǒmen xūyào tíqián zhǔnbèi hǎo.", "vi": "Chúng ta cần chuẩn bị sớm."}}
+{"level": 3, "no": 701, "hz": "提问", "py": "tíwèn", "vi": "đặt câu hỏi", "ex": {"zh": "老师鼓励学生提问。", "py": "Lǎoshī gǔlì xuéshēng tíwèn.", "vi": "Giáo viên khuyến khích học sinh đặt câu hỏi."}}
+{"level": 3, "no": 702, "hz": "题目", "py": "tímù", "vi": "đề bài", "ex": {"zh": "请认真阅读题目。", "py": "Qǐng rènzhēn yuèdú tímù.", "vi": "Hãy đọc kỹ đề bài."}}
+{"level": 3, "no": 703, "hz": "体会", "py": "tǐhuì", "vi": "lĩnh hội", "ex": {"zh": "我体会到父母的辛苦。", "py": "Wǒ tǐhuì dào fùmǔ de xīnkǔ.", "vi": "Tôi cảm nhận được sự vất vả của cha mẹ."}}
+{"level": 3, "no": 704, "hz": "体现", "py": "tǐxiàn", "vi": "thể hiện", "ex": {"zh": "这篇文章体现了作者的思想。", "py": "Zhè piān wénzhāng tǐxiàn le zuòzhě de sīxiǎng.", "vi": "Bài viết này thể hiện tư tưởng của tác giả."}}
+{"level": 3, "no": 705, "hz": "体验", "py": "tǐyàn", "vi": "trải nghiệm", "ex": {"zh": "他想体验农村生活。", "py": "Tā xiǎng tǐyàn nóngcūn shēnghuó.", "vi": "Anh ấy muốn trải nghiệm cuộc sống nông thôn."}}
+{"level": 3, "no": 706, "hz": "天空", "py": "tiānkōng", "vi": "bầu trời", "ex": {"zh": "天空中有很多星星。", "py": "Tiānkōng zhōng yǒu hěn duō xīngxing.", "vi": "Trên bầu trời có rất nhiều sao."}}
+{"level": 3, "no": 707, "hz": "甜", "py": "tián", "vi": "ngọt", "ex": {"zh": "这个蛋糕很甜。", "py": "Zhège dàngāo hěn tián.", "vi": "Cái bánh này rất ngọt."}}
+{"level": 3, "no": 708, "hz": "调", "py": "tiáo", "vi": "điều chỉnh", "ex": {"zh": "他把音量调小了。", "py": "Tā bǎ yīnliàng tiáo xiǎo le.", "vi": "Anh ấy giảm âm lượng xuống."}}
+{"level": 3, "no": 709, "hz": "调整", "py": "tiáozhěng", "vi": "điều chỉnh", "ex": {"zh": "公司正在调整计划。", "py": "Gōngsī zhèngzài tiáozhěng jìhuà.", "vi": "Công ty đang điều chỉnh kế hoạch."}}
+{"level": 3, "no": 710, "hz": "跳", "py": "tiào", "vi": "nhảy", "ex": {"zh": "他一高兴就跳了起来。", "py": "Tā yī gāoxìng jiù tiào le qǐlái.", "vi": "Anh ấy nhảy lên khi vui mừng."}}
+{"level": 3, "no": 711, "hz": "跳高", "py": "tiào gāo", "vi": "nhảy cao", "ex": {"zh": "他是跳高运动员。", "py": "Tā shì tiàogāo yùndòngyuán.", "vi": "Anh ấy là vận động viên nhảy cao."}}
+{"level": 3, "no": 712, "hz": "跳舞", "py": "tiàowǔ", "vi": "nhảy múa", "ex": {"zh": "她最喜欢跳舞。", "py": "Tā zuì xǐhuān tiàowǔ.", "vi": "Cô ấy thích nhảy múa nhất."}}
+{"level": 3, "no": 713, "hz": "跳远", "py": "tiào yuǎn", "vi": "nhảy xa", "ex": {"zh": "他在跳远比赛中得了第一名。", "py": "Tā zài tiàoyuǎn bǐsài zhōng dé le dì yī míng.", "vi": "Anh ấy giành giải nhất trong cuộc thi nhảy xa."}}
+{"level": 3, "no": 714, "hz": "铁", "py": "tiě", "vi": "sắt", "ex": {"zh": "桥是用铁建成的。", "py": "Qiáo shì yòng tiě jiànchéng de.", "vi": "Cây cầu được xây bằng sắt."}}
+{"level": 3, "no": 715, "hz": "铁路", "py": "tiě lù", "vi": "đường sắt", "ex": {"zh": "这条铁路很重要。", "py": "Zhè tiáo tiělù hěn zhòngyào.", "vi": "Tuyến đường sắt này rất quan trọng."}}
+{"level": 3, "no": 716, "hz": "听力", "py": "tīng lì", "vi": "nghe hiểu", "ex": {"zh": "我的英语听力不太好。", "py": "Wǒ de Yīngyǔ tīnglì bù tài hǎo.", "vi": "Khả năng nghe tiếng Anh của tôi không tốt lắm."}}
+{"level": 3, "no": 717, "hz": "听众", "py": "tīng zhòng", "vi": "thính giả", "ex": {"zh": "节目的听众很多。", "py": "Jiémù de tīngzhòng hěn duō.", "vi": "Chương trình có rất nhiều thính giả."}}
+{"level": 3, "no": 718, "hz": "停止", "py": "tíng zhǐ", "vi": "dừng lại", "ex": {"zh": "请停止说话。", "py": "Qǐng tíngzhǐ shuōhuà.", "vi": "Vui lòng ngừng nói chuyện."}}
+{"level": 3, "no": 719, "hz": "通常", "py": "tōngcháng", "vi": "thường thì", "ex": {"zh": "我通常八点起床。", "py": "Wǒ tōngcháng bā diǎn qǐchuáng.", "vi": "Tôi thường dậy lúc 8 giờ."}}
+{"level": 3, "no": 720, "hz": "通信", "py": "tōng xìn", "vi": "liên lạc", "ex": {"zh": "他们通过邮件通信。", "py": "Tāmen tōngguò yóujiàn tōngxìn.", "vi": "Họ liên lạc qua email."}}
+{"level": 3, "no": 721, "hz": "同意", "py": "tóngyì", "vi": "đồng ý", "ex": {"zh": "我同意你的看法。", "py": "Wǒ tóngyì nǐ de kànfǎ.", "vi": "Tôi đồng ý với quan điểm của bạn."}}
+{"level": 3, "no": 722, "hz": "痛（形）", "py": "tòng", "vi": "đau", "ex": {"zh": "我的头很痛。", "py": "Wǒ de tóu hěn tòng.", "vi": "Tôi rất đau đầu."}}
+{"level": 3, "no": 723, "hz": "痛苦", "py": "tòngkǔ", "vi": "đau khổ", "ex": {"zh": "他经历了很多痛苦。", "py": "Tā jīnglì le hěn duō tòngkǔ.", "vi": "Anh ấy đã trải qua nhiều đau khổ."}}
+{"level": 3, "no": 724, "hz": "头（形）", "py": "tóu", "vi": "đầu", "ex": {"zh": "他低着头不说话。", "py": "Tā dī zhe tóu bù shuōhuà.", "vi": "Anh ấy cúi đầu không nói gì."}}
+{"level": 3, "no": 725, "hz": "头脑", "py": "tóu nǎo", "vi": "đầu óc", "ex": {"zh": "他头脑很清楚。", "py": "Tā tóunǎo hěn qīngchǔ.", "vi": "Đầu óc anh ấy rất minh mẫn."}}
+{"level": 3, "no": 726, "hz": "突出", "py": "tūchū", "vi": "nổi bật", "ex": {"zh": "他在班上成绩突出。", "py": "Tā zài bān shàng chéngjì tūchū.", "vi": "Thành tích của anh ấy nổi bật trong lớp."}}
+{"level": 3, "no": 727, "hz": "突然", "py": "tūrán", "vi": "đột nhiên", "ex": {"zh": "他突然走了。", "py": "Tā tūrán zǒu le.", "vi": "Anh ấy đột nhiên rời đi."}}
+{"level": 3, "no": 728, "hz": "图", "py": "tú", "vi": "bản đồ / hình", "ex": {"zh": "墙上挂着一幅图。", "py": "Qiáng shàng guà zhe yī fú tú.", "vi": "Trên tường treo một bức tranh."}}
+{"level": 3, "no": 729, "hz": "图画", "py": "tú huà", "vi": "tranh vẽ", "ex": {"zh": "孩子画了一幅图画。", "py": "Háizi huà le yī fú túhuà.", "vi": "Đứa trẻ đã vẽ một bức tranh."}}
+{"level": 3, "no": 730, "hz": "土（名）", "py": "tǔ", "vi": "đất", "ex": {"zh": "这些植物需要肥沃的土。", "py": "Zhèxiē zhíwù xūyào féiwò de tǔ.", "vi": "Những cây này cần đất màu mỡ."}}
+{"level": 3, "no": 731, "hz": "团", "py": "tuán", "vi": "nhóm", "ex": {"zh": "我们是一团火。", "py": "Wǒmen shì yī tuán huǒ.", "vi": "Chúng tôi là một tập thể nhiệt huyết."}}
+{"level": 3, "no": 732, "hz": "团结", "py": "tuánjié", "vi": "đoàn kết", "ex": {"zh": "团结就是力量。", "py": "Tuánjié jiùshì lìliàng.", "vi": "Đoàn kết là sức mạnh."}}
+{"level": 3, "no": 733, "hz": "团体", "py": "tuántǐ", "vi": "tập thể", "ex": {"zh": "这个团体有很多成员。", "py": "Zhège tuántǐ yǒu hěn duō chéngyuán.", "vi": "Nhóm này có rất nhiều thành viên."}}
+{"level": 3, "no": 734, "hz": "推动", "py": "tuī dòng", "vi": "thúc đẩy", "ex": {"zh": "新政策推动了经济发展。", "py": "Xīn zhèngcè tuīdòng le jīngjì fāzhǎn.", "vi": "Chính sách mới thúc đẩy phát triển kinh tế."}}
+{"level": 3, "no": 735, "hz": "推广", "py": "tuīguǎng", "vi": "mở rộng", "ex": {"zh": "公司正在推广新产品。", "py": "Gōngsī zhèngzài tuīguǎng xīn chǎnpǐn.", "vi": "Công ty đang quảng bá sản phẩm mới."}}
+{"level": 3, "no": 736, "hz": "推进", "py": "tuī jìn", "vi": "thúc đẩy", "ex": {"zh": "我们要推进项目进度。", "py": "Wǒmen yào tuījìn xiàngmù jìndù.", "vi": "Chúng ta cần thúc đẩy tiến độ dự án."}}
+{"level": 3, "no": 737, "hz": "推开", "py": "tuī kāi", "vi": "đẩy ra", "ex": {"zh": "他推开了门。", "py": "Tā tuī kāi le mén.", "vi": "Anh ấy đẩy cửa ra."}}
+{"level": 3, "no": 738, "hz": "退", "py": "tuì", "vi": "lùi lại", "ex": {"zh": "他向后退了一步。", "py": "Tā xiàng hòu tuì le yī bù.", "vi": "Anh ấy lùi một bước."}}
+{"level": 3, "no": 739, "hz": "退出", "py": "tuì chū", "vi": "rút lui", "ex": {"zh": "他决定退出比赛。", "py": "Tā juédìng tuìchū bǐsài.", "vi": "Anh ấy quyết định rút khỏi cuộc thi."}}
+{"level": 3, "no": 740, "hz": "退休", "py": "tuìxiū", "vi": "nghỉ hưu", "ex": {"zh": "她已经退休了。", "py": "Tā yǐjīng tuìxiū le.", "vi": "Bà ấy đã nghỉ hưu rồi."}}
+{"level": 3, "no": 741, "hz": "外交", "py": "wàijiāo", "vi": "ngoại giao", "ex": {"zh": "他从事外交工作。", "py": "Tā cóngshì wàijiāo gōngzuò.", "vi": "Anh ấy làm công việc ngoại giao."}}
+{"level": 3, "no": 742, "hz": "外面", "py": "wài miàn", "vi": "bên ngoài", "ex": {"zh": "外面下雨了。", "py": "Wàimiàn xiàyǔ le.", "vi": "Trời đang mưa bên ngoài."}}
+{"level": 3, "no": 743, "hz": "外文", "py": "wài wén", "vi": "ngoại ngữ", "ex": {"zh": "她学了三种外文。", "py": "Tā xué le sān zhǒng wàiwén.", "vi": "Cô ấy học ba loại ngoại ngữ."}}
+{"level": 3, "no": 744, "hz": "完美", "py": "wánměi", "vi": "hoàn hảo", "ex": {"zh": "她的表现非常完美。", "py": "Tā de biǎoxiàn fēicháng wánměi.", "vi": "Màn trình diễn của cô ấy rất hoàn hảo."}}
+{"level": 3, "no": 745, "hz": "完善", "py": "wánshàn", "vi": "hoàn thiện", "ex": {"zh": "我们需要完善这个系统。", "py": "Wǒmen xūyào wánshàn zhège xìtǒng.", "vi": "Chúng ta cần hoàn thiện hệ thống này."}}
+{"level": 3, "no": 746, "hz": "完整", "py": "wánzhěng", "vi": "đầy đủ", "ex": {"zh": "文件内容不完整。", "py": "Wénjiàn nèiróng bù wánzhěng.", "vi": "Nội dung tài liệu không đầy đủ."}}
+{"level": 3, "no": 747, "hz": "玩具", "py": "wánjù", "vi": "đồ chơi", "ex": {"zh": "孩子们在玩玩具。", "py": "Háizimen zài wán wánjù.", "vi": "Bọn trẻ đang chơi đồ chơi."}}
+{"level": 3, "no": 748, "hz": "往往", "py": "wǎngwǎng", "vi": "thường xuyên", "ex": {"zh": "他往往迟到。", "py": "Tā wǎngwǎng chídào.", "vi": "Anh ấy thường đến trễ."}}
+{"level": 3, "no": 749, "hz": "危害", "py": "wēihài", "vi": "gây hại", "ex": {"zh": "吸烟危害健康。", "py": "Xīyān wēihài jiànkāng.", "vi": "Hút thuốc gây hại cho sức khỏe."}}
+{"level": 3, "no": 750, "hz": "危险", "py": "wēixiǎn", "vi": "nguy hiểm", "ex": {"zh": "那条路太危险了。", "py": "Nà tiáo lù tài wēixiǎn le.", "vi": "Con đường đó quá nguy hiểm."}}
+{"level": 3, "no": 751, "hz": "为（动）", "py": "wéi", "vi": "làm; trở thành; là", "ex": {"zh": "他为老师。", "py": "Tā wéi lǎoshī.", "vi": "Anh ấy là giáo viên."}}
+{"level": 3, "no": 752, "hz": "为（介）", "py": "wèi", "vi": "vì, để", "ex": {"zh": "我为你感到骄傲。", "py": "Wǒ wèi nǐ gǎndào jiāo'ào.", "vi": "Tôi cảm thấy tự hào vì bạn."}}
+{"level": 3, "no": 753, "hz": "围", "py": "wéi", "vi": "bao quanh", "ex": {"zh": "房子被树围着。", "py": "Fángzi bèi shù wéizhe.", "vi": "Ngôi nhà được bao quanh bởi cây cối."}}
+{"level": 3, "no": 754, "hz": "伟大", "py": "wěidà", "vi": "vĩ đại", "ex": {"zh": "他是一位伟大的作家。", "py": "Tā shì yī wèi wěidà de zuòjiā.", "vi": "Ông ấy là một nhà văn vĩ đại."}}
+{"level": 3, "no": 755, "hz": "卫生", "py": "wèi shēng", "vi": "vệ sinh", "ex": {"zh": "请注意个人卫生。", "py": "Qǐng zhùyì gèrén wèishēng.", "vi": "Hãy chú ý đến vệ sinh cá nhân."}}
+{"level": 3, "no": 756, "hz": "卫生间", "py": "wèishēngjiān", "vi": "nhà vệ sinh", "ex": {"zh": "卫生间在楼下。", "py": "Wèishēngjiān zài lóuxià.", "vi": "Nhà vệ sinh ở tầng dưới."}}
+{"level": 3, "no": 757, "hz": "为了", "py": "wèile", "vi": "để", "ex": {"zh": "为了健康，我开始运动。", "py": "Wèile jiànkāng, wǒ kāishǐ yùndòng.", "vi": "Để khỏe mạnh, tôi bắt đầu tập thể dục."}}
+{"level": 3, "no": 758, "hz": "温暖", "py": "wēnnuǎn", "vi": "ấm áp", "ex": {"zh": "这个房间很温暖。", "py": "Zhège fángjiān hěn wēnnuǎn.", "vi": "Căn phòng này rất ấm áp."}}
+{"level": 3, "no": 759, "hz": "文化", "py": "wénhuà", "vi": "văn hóa", "ex": {"zh": "我对中国文化很感兴趣。", "py": "Wǒ duì Zhōngguó wénhuà hěn gǎn xìngqù.", "vi": "Tôi rất quan tâm đến văn hóa Trung Quốc."}}
+{"level": 3, "no": 760, "hz": "文件", "py": "wénjiàn", "vi": "tài liệu", "ex": {"zh": "请把这个文件发给我。", "py": "Qǐng bǎ zhège wénjiàn fā gěi wǒ.", "vi": "Hãy gửi tài liệu này cho tôi."}}
+{"level": 3, "no": 761, "hz": "文明", "py": "wénmíng", "vi": "văn minh", "ex": {"zh": "我们要做文明的人。", "py": "Wǒmen yào zuò wénmíng de rén.", "vi": "Chúng ta cần làm người văn minh."}}
+{"level": 3, "no": 762, "hz": "文学", "py": "wénxué", "vi": "văn học", "ex": {"zh": "他喜欢中国文学。", "py": "Tā xǐhuān Zhōngguó wénxué.", "vi": "Anh ấy thích văn học Trung Quốc."}}
+{"level": 3, "no": 763, "hz": "文章", "py": "wénzhāng", "vi": "bài văn", "ex": {"zh": "这篇文章写得很好。", "py": "Zhè piān wénzhāng xiě de hěn hǎo.", "vi": "Bài văn này viết rất hay."}}
+{"level": 3, "no": 764, "hz": "文字", "py": "wénzì", "vi": "văn tự", "ex": {"zh": "汉字是一种古老的文字。", "py": "Hànzì shì yī zhǒng gǔlǎo de wénzì.", "vi": "Chữ Hán là loại văn tự cổ xưa."}}
+{"level": 3, "no": 765, "hz": "握手", "py": "wòshǒu", "vi": "bắt tay", "ex": {"zh": "他们互相握手。", "py": "Tāmen hùxiāng wòshǒu.", "vi": "Họ bắt tay nhau."}}
+{"level": 3, "no": 766, "hz": "屋子", "py": "wūzi", "vi": "căn phòng", "ex": {"zh": "这间屋子很大。", "py": "Zhè jiān wūzi hěn dà.", "vi": "Căn phòng này rất rộng."}}
+{"level": 3, "no": 767, "hz": "武器", "py": "wǔqì", "vi": "vũ khí", "ex": {"zh": "核武器非常危险。", "py": "Héwǔqì fēicháng wēixiǎn.", "vi": "Vũ khí hạt nhân rất nguy hiểm."}}
+{"level": 3, "no": 768, "hz": "武术", "py": "wǔshù", "vi": "võ thuật", "ex": {"zh": "他在学习中国武术。", "py": "Tā zài xuéxí Zhōngguó wǔshù.", "vi": "Anh ấy đang học võ thuật Trung Hoa."}}
+{"level": 3, "no": 769, "hz": "舞台", "py": "wǔ tái", "vi": "sân khấu", "ex": {"zh": "她走上了舞台。", "py": "Tā zǒu shàng le wǔtái.", "vi": "Cô ấy bước lên sân khấu."}}
+{"level": 3, "no": 770, "hz": "西部", "py": "xī bù", "vi": "miền tây", "ex": {"zh": "中国西部有很多山。", "py": "Zhōngguó xībù yǒu hěn duō shān.", "vi": "Phía tây Trung Quốc có nhiều núi."}}
+{"level": 3, "no": 771, "hz": "希望", "py": "xīwàng", "vi": "hy vọng", "ex": {"zh": "我希望明天是晴天。", "py": "Wǒ xīwàng míngtiān shì qíngtiān.", "vi": "Tôi hy vọng ngày mai trời nắng."}}
+{"level": 3, "no": 772, "hz": "系", "py": "xì", "vi": "khoa (trường), buộc", "ex": {"zh": "我在中文系学习。", "py": "Wǒ zài Zhōngwén xì xuéxí.", "vi": "Tôi học ở khoa tiếng Trung."}}
+{"level": 3, "no": 773, "hz": "下来", "py": "xià lái", "vi": "xuống (hành động)", "ex": {"zh": "他从楼上走下来。", "py": "Tā cóng lóushàng zǒu xiàlái.", "vi": "Anh ấy đi xuống từ tầng trên."}}
+{"level": 3, "no": 774, "hz": "下面", "py": "xià miàn", "vi": "bên dưới", "ex": {"zh": "桌子下面有只猫。", "py": "Zhuōzi xiàmiàn yǒu zhī māo.", "vi": "Dưới bàn có một con mèo."}}
+{"level": 3, "no": 775, "hz": "下去", "py": "xià qù", "vi": "đi xuống; tiếp tục", "ex": {"zh": "雨还会下去。", "py": "Yǔ hái huì xiàqù.", "vi": "Trời sẽ tiếp tục mưa."}}
+{"level": 3, "no": 776, "hz": "先进", "py": "xiānjìn", "vi": "tiên tiến", "ex": {"zh": "这是一种先进的技术。", "py": "Zhè shì yī zhǒng xiānjìn de jìshù.", "vi": "Đây là công nghệ tiên tiến."}}
+{"level": 3, "no": 777, "hz": "显得", "py": "xiǎnde", "vi": "trông có vẻ", "ex": {"zh": "他显得很高兴。", "py": "Tā xiǎnde hěn gāoxìng.", "vi": "Anh ấy trông rất vui."}}
+{"level": 3, "no": 778, "hz": "显然", "py": "xiǎnrán", "vi": "rõ ràng", "ex": {"zh": "他显然不知道答案。", "py": "Tā xiǎnrán bù zhīdào dá'àn.", "vi": "Rõ ràng là anh ấy không biết đáp án."}}
+{"level": 3, "no": 779, "hz": "显示", "py": "xiǎnshì", "vi": "hiển thị", "ex": {"zh": "屏幕上显示了时间。", "py": "Píngmù shàng xiǎnshì le shíjiān.", "vi": "Thời gian được hiển thị trên màn hình."}}
+{"level": 3, "no": 780, "hz": "现场", "py": "xiànchǎng", "vi": "hiện trường", "ex": {"zh": "警察赶到了现场。", "py": "Jǐngchá gǎndào le xiànchǎng.", "vi": "Cảnh sát đã đến hiện trường."}}
+{"level": 3, "no": 781, "hz": "现代", "py": "xiàndài", "vi": "hiện đại", "ex": {"zh": "现代生活节奏很快。", "py": "Xiàndài shēnghuó jiézòu hěn kuài.", "vi": "Nhịp sống hiện đại rất nhanh."}}
+{"level": 3, "no": 782, "hz": "现金", "py": "xiànjīn", "vi": "tiền mặt", "ex": {"zh": "你可以用现金付款吗？", "py": "Nǐ kěyǐ yòng xiànjīn fùkuǎn ma?", "vi": "Bạn có thể trả bằng tiền mặt không?"}}
+{"level": 3, "no": 783, "hz": "现实", "py": "xiànshí", "vi": "thực tế", "ex": {"zh": "理想和现实有差距。", "py": "Lǐxiǎng hé xiànshí yǒu chājù.", "vi": "Lý tưởng và thực tế có sự khác biệt."}}
+{"level": 3, "no": 784, "hz": "现象", "py": "xiànxiàng", "vi": "hiện tượng", "ex": {"zh": "这种现象很常见。", "py": "Zhè zhǒng xiànxiàng hěn chángjiàn.", "vi": "Hiện tượng này rất phổ biến."}}
+{"level": 3, "no": 785, "hz": "线", "py": "xiàn", "vi": "đường, dây", "ex": {"zh": "地铁一号线很方便。", "py": "Dìtiě yī hào xiàn hěn fāngbiàn.", "vi": "Tuyến tàu điện số 1 rất tiện lợi."}}
+{"level": 3, "no": 786, "hz": "相比", "py": "xiāng bǐ", "vi": "so sánh", "ex": {"zh": "相比之下，他更有经验。", "py": "Xiāngbǐ zhī xià, tā gèng yǒu jīngyàn.", "vi": "So với người khác, anh ấy có nhiều kinh nghiệm hơn."}}
+{"level": 3, "no": 787, "hz": "相当", "py": "xiāngdāng", "vi": "khá là", "ex": {"zh": "他的汉语相当好。", "py": "Tā de Hànyǔ xiāngdāng hǎo.", "vi": "Tiếng Trung của anh ấy khá tốt."}}
+{"level": 3, "no": 788, "hz": "相关", "py": "xiāngguān", "vi": "liên quan", "ex": {"zh": "这和你的工作无关。", "py": "Zhè hé nǐ de gōngzuò wúguān.", "vi": "Việc này không liên quan đến công việc của bạn."}}
+{"level": 3, "no": 789, "hz": "相互", "py": "xiāng hù", "vi": "lẫn nhau", "ex": {"zh": "他们相互帮助。", "py": "Tāmen xiānghù bāngzhù.", "vi": "Họ giúp đỡ lẫn nhau."}}
+{"level": 3, "no": 790, "hz": "相似", "py": "xiāngsì", "vi": "tương tự", "ex": {"zh": "这两种颜色很相似。", "py": "Zhè liǎng zhǒng yánsè hěn xiāngsì.", "vi": "Hai màu này rất giống nhau."}}
+{"level": 3, "no": 791, "hz": "香", "py": "xiāng", "vi": "thơm", "ex": {"zh": "饭菜很香。", "py": "Fàncài hěn xiāng.", "vi": "Món ăn rất thơm."}}
+{"level": 3, "no": 792, "hz": "香蕉", "py": "xiāngjiāo", "vi": "chuối", "ex": {"zh": "我喜欢吃香蕉。", "py": "Wǒ xǐhuān chī xiāngjiāo.", "vi": "Tôi thích ăn chuối."}}
+{"level": 3, "no": 793, "hz": "消费", "py": "xiāofèi", "vi": "tiêu dùng", "ex": {"zh": "我们要理性消费。", "py": "Wǒmen yào lǐxìng xiāofèi.", "vi": "Chúng ta nên tiêu dùng hợp lý."}}
+{"level": 3, "no": 794, "hz": "消失", "py": "xiāoshī", "vi": "biến mất", "ex": {"zh": "雾慢慢地消失了。", "py": "Wù màn man de xiāoshī le.", "vi": "Sương mù từ từ tan biến."}}
+{"level": 3, "no": 795, "hz": "消息", "py": "xiāoxi", "vi": "tin tức", "ex": {"zh": "我收到一个好消息。", "py": "Wǒ shōudào yī gè hǎo xiāoxi.", "vi": "Tôi nhận được một tin tốt."}}
+{"level": 3, "no": 796, "hz": "效果", "py": "xiàoguǒ", "vi": "hiệu quả", "ex": {"zh": "这个药效果很好。", "py": "Zhège yào xiàoguǒ hěn hǎo.", "vi": "Loại thuốc này có hiệu quả tốt."}}
+{"level": 3, "no": 797, "hz": "写作", "py": "xiězuò", "vi": "viết văn", "ex": {"zh": "他擅长写作。", "py": "Tā shàncháng xiězuò.", "vi": "Anh ấy giỏi viết văn."}}
+{"level": 3, "no": 798, "hz": "血", "py": "xuè", "vi": "máu", "ex": {"zh": "他流了很多血。", "py": "Tā liú le hěn duō xuè.", "vi": "Anh ấy chảy rất nhiều máu."}}
+{"level": 3, "no": 799, "hz": "心", "py": "xīn", "vi": "trái tim", "ex": {"zh": "她有一颗善良的心。", "py": "Tā yǒu yī kē shànliáng de xīn.", "vi": "Cô ấy có một trái tim nhân hậu."}}
+{"level": 3, "no": 800, "hz": "信（动）", "py": "xìn", "vi": "tin tưởng", "ex": {"zh": "我信你说的话。", "py": "Wǒ xìn nǐ shuō de huà.", "vi": "Tôi tin lời bạn nói."}}
+{"level": 3, "no": 801, "hz": "信封", "py": "xìnfēng", "vi": "phong bì", "ex": {"zh": "请把信装进信封里。", "py": "Qǐng bǎ xìn zhuāng jìn xìnfēng lǐ.", "vi": "Hãy bỏ thư vào phong bì."}}
+{"level": 3, "no": 802, "hz": "信任", "py": "xìnrèn", "vi": "tin tưởng", "ex": {"zh": "我完全信任你。", "py": "Wǒ wánquán xìnrèn nǐ.", "vi": "Tôi hoàn toàn tin tưởng bạn."}}
+{"level": 3, "no": 803, "hz": "行李", "py": "xíng lǐ", "vi": "hành lý", "ex": {"zh": "他的行李很重。", "py": "Tā de xínglǐ hěn zhòng.", "vi": "Hành lý của anh ấy rất nặng."}}
+{"level": 3, "no": 804, "hz": "形成", "py": "xíngchéng", "vi": "hình thành", "ex": {"zh": "这个观念已经形成。", "py": "Zhège guānniàn yǐjīng xíngchéng.", "vi": "Quan niệm này đã hình thành rồi."}}
+{"level": 3, "no": 805, "hz": "形式", "py": "xíngshì", "vi": "hình thức", "ex": {"zh": "不同国家有不同的婚礼形式。", "py": "Bùtóng guójiā yǒu bùtóng de hūnlǐ xíngshì.", "vi": "Các nước khác nhau có hình thức cưới khác nhau."}}
+{"level": 3, "no": 806, "hz": "形象", "py": "xíngxiàng", "vi": "hình ảnh", "ex": {"zh": "他在大家心中的形象很好。", "py": "Tā zài dàjiā xīnzhōng de xíngxiàng hěn hǎo.", "vi": "Anh ấy có hình ảnh rất tốt trong lòng mọi người."}}
+{"level": 3, "no": 807, "hz": "形状", "py": "xíngzhuàng", "vi": "hình dạng", "ex": {"zh": "这个蛋糕的形状很特别。", "py": "Zhège dàngāo de xíngzhuàng hěn tèbié.", "vi": "Hình dạng của chiếc bánh này rất đặc biệt."}}
+{"level": 3, "no": 808, "hz": "幸福", "py": "xìngfú", "vi": "hạnh phúc", "ex": {"zh": "我们过着幸福的生活。", "py": "Wǒmen guòzhe xìngfú de shēnghuó.", "vi": "Chúng tôi đang sống cuộc sống hạnh phúc."}}
+{"level": 3, "no": 809, "hz": "幸运", "py": "xìngyùn", "vi": "may mắn", "ex": {"zh": "你真幸运！", "py": "Nǐ zhēn xìngyùn!", "vi": "Bạn thật may mắn!"}}
+{"level": 3, "no": 810, "hz": "性（积极性）", "py": "xìng (jī jí xìng)", "vi": "tính (tích cực)", "ex": {"zh": "他工作很有积极性。", "py": "Tā gōngzuò hěn yǒu jījíxìng.", "vi": "Anh ấy làm việc rất tích cực."}}
+{"level": 3, "no": 811, "hz": "性别", "py": "xìngbié", "vi": "giới tính", "ex": {"zh": "请填写性别。", "py": "Qǐng tiánxiě xìngbié.", "vi": "Hãy điền giới tính."}}
+{"level": 3, "no": 812, "hz": "性格", "py": "xìnggé", "vi": "tính cách", "ex": {"zh": "她性格很开朗。", "py": "Tā xìnggé hěn kāilǎng.", "vi": "Tính cách cô ấy rất cởi mở."}}
+{"level": 3, "no": 813, "hz": "修", "py": "xiū", "vi": "sửa chữa", "ex": {"zh": "他在修车。", "py": "Tā zài xiū chē.", "vi": "Anh ấy đang sửa xe."}}
+{"level": 3, "no": 814, "hz": "修改", "py": "xiūgǎi", "vi": "sửa đổi", "ex": {"zh": "请修改这篇文章。", "py": "Qǐng xiūgǎi zhè piān wénzhāng.", "vi": "Hãy sửa lại bài văn này."}}
+{"level": 3, "no": 815, "hz": "需求", "py": "xūqiú", "vi": "nhu cầu", "ex": {"zh": "市场需求很大。", "py": "Shìchǎng xūqiú hěn dà.", "vi": "Nhu cầu thị trường rất lớn."}}
+{"level": 3, "no": 816, "hz": "需要", "py": "xūyào", "vi": "cần", "ex": {"zh": "我需要你的帮助。", "py": "Wǒ xūyào nǐ de bāngzhù.", "vi": "Tôi cần sự giúp đỡ của bạn."}}
+{"level": 3, "no": 817, "hz": "宣布", "py": "xuānbù", "vi": "tuyên bố", "ex": {"zh": "公司宣布新政策。", "py": "Gōngsī xuānbù xīn zhèngcè.", "vi": "Công ty công bố chính sách mới."}}
+{"level": 3, "no": 818, "hz": "宣传", "py": "xuānchuán", "vi": "tuyên truyền", "ex": {"zh": "我们在宣传环保知识。", "py": "Wǒmen zài xuānchuán huánbǎo zhīshì.", "vi": "Chúng tôi đang tuyên truyền kiến thức bảo vệ môi trường."}}
+{"level": 3, "no": 819, "hz": "选手", "py": "xuǎnshǒu", "vi": "tuyển thủ", "ex": {"zh": "她是我们的优秀选手。", "py": "Tā shì wǒmen de yōuxiù xuǎnshǒu.", "vi": "Cô ấy là tuyển thủ xuất sắc của chúng tôi."}}
+{"level": 3, "no": 820, "hz": "学费", "py": "xué fèi", "vi": "học phí", "ex": {"zh": "学费已经交了。", "py": "Xuéfèi yǐjīng jiāo le.", "vi": "Học phí đã được nộp."}}
+{"level": 3, "no": 821, "hz": "训练", "py": "xùnliàn", "vi": "huấn luyện", "ex": {"zh": "他们每天早上训练。", "py": "Tāmen měitiān zǎoshang xùnliàn.", "vi": "Họ tập luyện mỗi sáng."}}
+{"level": 3, "no": 822, "hz": "压", "py": "yā", "vi": "ấn, đè", "ex": {"zh": "他压住了纸张。", "py": "Tā yā zhù le zhǐzhāng.", "vi": "Anh ấy đè chặt tờ giấy."}}
+{"level": 3, "no": 823, "hz": "压力", "py": "yālì", "vi": "áp lực", "ex": {"zh": "工作压力很大。", "py": "Gōngzuò yālì hěn dà.", "vi": "Áp lực công việc rất lớn."}}
+{"level": 3, "no": 824, "hz": "烟", "py": "yān", "vi": "khói, thuốc", "ex": {"zh": "请不要抽烟。", "py": "Qǐng bùyào chōuyān.", "vi": "Làm ơn đừng hút thuốc."}}
+{"level": 3, "no": 825, "hz": "眼前", "py": "yǎn qián", "vi": "trước mắt", "ex": {"zh": "眼前的问题很严重。", "py": "Yǎnqián de wèntí hěn yánzhòng.", "vi": "Vấn đề trước mắt rất nghiêm trọng."}}
+{"level": 3, "no": 826, "hz": "演", "py": "yǎn", "vi": "biểu diễn", "ex": {"zh": "他在演一部电影。", "py": "Tā zài yǎn yī bù diànyǐng.", "vi": "Anh ấy đang đóng một bộ phim."}}
+{"level": 3, "no": 827, "hz": "演唱", "py": "yǎn chàng", "vi": "trình diễn", "ex": {"zh": "她在演唱一首新歌。", "py": "Tā zài yǎnchàng yī shǒu xīngē.", "vi": "Cô ấy đang hát một bài hát mới."}}
+{"level": 3, "no": 828, "hz": "演唱会", "py": "yǎn chàng huì", "vi": "buổi hòa nhạc", "ex": {"zh": "我们去看演唱会吧。", "py": "Wǒmen qù kàn yǎnchànghuì ba.", "vi": "Chúng ta đi xem buổi hòa nhạc nhé."}}
+{"level": 3, "no": 829, "hz": "演出", "py": "yǎnchū", "vi": "biểu diễn", "ex": {"zh": "这场演出很精彩。", "py": "Zhè chǎng yǎnchū hěn jīngcǎi.", "vi": "Buổi biểu diễn này rất tuyệt vời."}}
+{"level": 3, "no": 830, "hz": "演员", "py": "yǎnyuán", "vi": "diễn viên", "ex": {"zh": "他是著名的演员。", "py": "Tā shì zhùmíng de yǎnyuán.", "vi": "Anh ấy là diễn viên nổi tiếng."}}
+{"level": 3, "no": 831, "hz": "羊", "py": "yáng", "vi": "con cừu", "ex": {"zh": "那是一只白羊。", "py": "Nà shì yī zhī bái yáng.", "vi": "Đó là một con cừu trắng."}}
+{"level": 3, "no": 832, "hz": "阳光", "py": "yángguāng", "vi": "ánh nắng", "ex": {"zh": "今天阳光明媚。", "py": "Jīntiān yángguāng míngmèi.", "vi": "Hôm nay trời nắng đẹp."}}
+{"level": 3, "no": 833, "hz": "要是", "py": "yàoshi", "vi": "nếu như", "ex": {"zh": "要是明天下雨怎么办？", "py": "Yàoshi míngtiān xiàyǔ zěnme bàn?", "vi": "Nếu mai trời mưa thì làm sao?"}}
+{"level": 3, "no": 834, "hz": "衣架", "py": "yī jià", "vi": "móc treo đồ", "ex": {"zh": "请把衣服挂在衣架上。", "py": "Qǐng bǎ yīfu guà zài yījià shàng.", "vi": "Hãy treo quần áo lên móc."}}
+{"level": 3, "no": 835, "hz": "一切", "py": "yíqiè", "vi": "mọi thứ", "ex": {"zh": "一切都会好的。", "py": "Yíqiè dōu huì hǎo de.", "vi": "Mọi việc sẽ ổn thôi."}}
+{"level": 3, "no": 836, "hz": "已", "py": "yǐ", "vi": "đã", "ex": {"zh": "他已离开。", "py": "Tā yǐ líkāi.", "vi": "Anh ấy đã rời đi."}}
+{"level": 3, "no": 837, "hz": "以来", "py": "yǐlái", "vi": "kể từ khi", "ex": {"zh": "自去年以来，他一直在工作。", "py": "Zì qùnián yǐlái, tā yīzhí zài gōngzuò.", "vi": "Kể từ năm ngoái, anh ấy luôn làm việc."}}
+{"level": 3, "no": 838, "hz": "一方面", "py": "yì fāng miàn", "vi": "một mặt", "ex": {"zh": "一方面他聪明，另一方面他努力。", "py": "Yì fāngmiàn tā cōngmíng, lìng yī fāngmiàn tā nǔlì.", "vi": "Một mặt anh ấy thông minh, mặt khác anh ấy chăm chỉ."}}
+{"level": 3, "no": 839, "hz": "艺术", "py": "yìshù", "vi": "nghệ thuật", "ex": {"zh": "她对艺术很感兴趣。", "py": "Tā duì yìshù hěn gǎn xìngqù.", "vi": "Cô ấy rất quan tâm đến nghệ thuật."}}
+{"level": 3, "no": 840, "hz": "意外", "py": "yìwài", "vi": "bất ngờ, tai nạn", "ex": {"zh": "昨天发生了意外。", "py": "Zuótiān fāshēng le yìwài.", "vi": "Hôm qua đã xảy ra một tai nạn."}}
+{"level": 3, "no": 841, "hz": "意义", "py": "yìyì", "vi": "ý nghĩa", "ex": {"zh": "这句话很有意义。", "py": "Zhè jù huà hěn yǒu yìyì.", "vi": "Câu nói này rất có ý nghĩa."}}
+{"level": 3, "no": 842, "hz": "因此", "py": "yīncǐ", "vi": "vì thế", "ex": {"zh": "他生病了，因此没来上班。", "py": "Tā shēngbìng le, yīncǐ méi lái shàngbān.", "vi": "Anh ấy bị ốm, vì vậy không đi làm."}}
+{"level": 3, "no": 843, "hz": "银", "py": "yín", "vi": "bạc", "ex": {"zh": "这条项链是银的。", "py": "Zhè tiáo xiàngliàn shì yín de.", "vi": "Chiếc dây chuyền này bằng bạc."}}
+{"level": 3, "no": 844, "hz": "银牌", "py": "yín pái", "vi": "huy chương bạc", "ex": {"zh": "他赢得了一枚银牌。", "py": "Tā yíngdé le yī méi yínpái.", "vi": "Anh ấy đã giành được huy chương bạc."}}
+{"level": 3, "no": 845, "hz": "印象", "py": "yìnxiàng", "vi": "ấn tượng", "ex": {"zh": "他给我留下了深刻印象。", "py": "Tā gěi wǒ liúxià le shēnkè yìnxiàng.", "vi": "Anh ấy để lại cho tôi ấn tượng sâu sắc."}}
+{"level": 3, "no": 846, "hz": "应当", "py": "yīng dāng", "vi": "nên", "ex": {"zh": "我们应当遵守规则。", "py": "Wǒmen yīngdāng zūnshǒu guīzé.", "vi": "Chúng ta nên tuân thủ quy tắc."}}
+{"level": 3, "no": 847, "hz": "迎接", "py": "yíngjiē", "vi": "đón tiếp", "ex": {"zh": "学校热烈迎接新生。", "py": "Xuéxiào rèliè yíngjiē xīnshēng.", "vi": "Trường học nồng nhiệt chào đón học sinh"}}
+{"level": 3, "no": 848, "hz": "营养", "py": "yíngyǎng", "vi": "dinh dưỡng", "ex": {"zh": "水果含有丰富营养。", "py": "Shuǐguǒ hányǒu fēngfù yíngyǎng.", "vi": "Trái cây chứa nhiều chất dinh dưỡng."}}
+{"level": 3, "no": 849, "hz": "赢", "py": "yíng", "vi": "thắng", "ex": {"zh": "我们赢了比赛！", "py": "Wǒmen yíng le bǐsài!", "vi": "Chúng tôi đã thắng trận đấu!"}}
+{"level": 3, "no": 850, "hz": "影视", "py": "yǐng shì", "vi": "phim ảnh", "ex": {"zh": "她在学影视表演。", "py": "Tā zài xué yǐngshì biǎoyǎn.", "vi": "Cô ấy đang học diễn xuất phim ảnh."}}
+{"level": 3, "no": 851, "hz": "应用", "py": "yìngyòng", "vi": "ứng dụng", "ex": {"zh": "这个软件的应用很广泛。", "py": "Zhège ruǎnjiàn de yìngyòng hěn guǎngfàn.", "vi": "Ứng dụng này rất phổ biến."}}
+{"level": 3, "no": 852, "hz": "优点", "py": "yōudiǎn", "vi": "ưu điểm", "ex": {"zh": "每个人都有自己的优点。", "py": "Měi gèrén dōu yǒu zìjǐ de yōudiǎn.", "vi": "Mỗi người đều có ưu điểm riêng."}}
+{"level": 3, "no": 853, "hz": "优势", "py": "yōushì", "vi": "thế mạnh", "ex": {"zh": "他在语言方面有优势。", "py": "Tā zài yǔyán fāngmiàn yǒu yōushì.", "vi": "Anh ấy có lợi thế về ngôn ngữ."}}
+{"level": 3, "no": 854, "hz": "由", "py": "yóu", "vi": "do, bởi", "ex": {"zh": "这次活动由学生会组织。", "py": "Zhè cì huódòng yóu xuéshēnghuì zǔzhī.", "vi": "Hoạt động lần này do hội sinh viên tổ chức."}}
+{"level": 3, "no": 855, "hz": "由于", "py": "yóuyú", "vi": "bởi vì", "ex": {"zh": "由于天气不好，我们取消了计划。", "py": "Yóuyú tiānqì bù hǎo, wǒmen qǔxiāo le jìhuà.", "vi": "Vì thời tiết xấu nên chúng tôi hủy kế hoạch."}}
+{"level": 3, "no": 856, "hz": "邮件", "py": "yóu jiàn", "vi": "thư từ", "ex": {"zh": "我刚收到一封邮件。", "py": "Wǒ gāng shōudào yī fēng yóujiàn.", "vi": "Tôi vừa nhận được một bức thư."}}
+{"level": 3, "no": 857, "hz": "邮票", "py": "yóu piào", "vi": "tem thư", "ex": {"zh": "他收集了很多邮票。", "py": "Tā shōují le hěn duō yóupiào.", "vi": "Anh ấy sưu tầm rất nhiều tem."}}
+{"level": 3, "no": 858, "hz": "邮箱", "py": "yóu xiāng", "vi": "hộp thư", "ex": {"zh": "请把文件发到我的邮箱。", "py": "Qǐng bǎ wénjiàn fā dào wǒ de yóuxiāng.", "vi": "Hãy gửi tài liệu vào hộp thư của tôi."}}
+{"level": 3, "no": 859, "hz": "游", "py": "yóu", "vi": "du lịch, bơi", "ex": {"zh": "他喜欢游山玩水。", "py": "Tā xǐhuān yóu shān wán shuǐ.", "vi": "Anh ấy thích đi du lịch sơn thủy."}}
+{"level": 3, "no": 860, "hz": "游戏", "py": "yóuxì", "vi": "trò chơi", "ex": {"zh": "孩子们在玩游戏。", "py": "Háizimen zài wán yóuxì.", "vi": "Bọn trẻ đang chơi trò chơi."}}
+{"level": 3, "no": 861, "hz": "游泳", "py": "yóuyǒng", "vi": "bơi lội", "ex": {"zh": "我每天早上游泳。", "py": "Wǒ měitiān zǎoshang yóuyǒng.", "vi": "Tôi bơi mỗi sáng."}}
+{"level": 3, "no": 862, "hz": "有的是", "py": "yǒu de shì", "vi": "có thừa", "ex": {"zh": "时间有的是，不用急。", "py": "Shíjiān yǒu de shì, bùyòng jí.", "vi": "Thời gian còn nhiều, đừng vội."}}
+{"level": 3, "no": 863, "hz": "有利", "py": "yǒulì", "vi": "có lợi", "ex": {"zh": "这对我们很有利。", "py": "Zhè duì wǒmen hěn yǒulì.", "vi": "Điều này rất có lợi cho chúng ta."}}
+{"level": 3, "no": 864, "hz": "有效", "py": "yǒu xiào", "vi": "hiệu quả", "ex": {"zh": "这个方法很有效。", "py": "Zhège fāngfǎ hěn yǒuxiào.", "vi": "Phương pháp này rất hiệu quả."}}
+{"level": 3, "no": 865, "hz": "预报", "py": "yùbào", "vi": "dự báo", "ex": {"zh": "明天的天气预报说会下雨。", "py": "Míngtiān de tiānqì yùbào shuō huì xiàyǔ.", "vi": "Dự báo thời tiết ngày mai nói sẽ mưa."}}
+{"level": 3, "no": 866, "hz": "预防", "py": "yùfáng", "vi": "phòng ngừa", "ex": {"zh": "预防疾病比治疗更重要。", "py": "Yùfáng jíbìng bǐ zhìliáo gèng zhòngyào.", "vi": "Phòng bệnh quan trọng hơn chữa bệnh."}}
+{"level": 3, "no": 867, "hz": "预计", "py": "yù jì", "vi": "ước tính", "ex": {"zh": "我们预计明天完成。", "py": "Wǒmen yùjì míngtiān wánchéng.", "vi": "Chúng tôi dự kiến sẽ hoàn thành vào ngày mai."}}
+{"level": 3, "no": 868, "hz": "预习", "py": "yùxí", "vi": "học trước", "ex": {"zh": "他每天都预习新课。", "py": "Tā měitiān dōu yùxí xīn kè.", "vi": "Cậu ấy đều học bài mới mỗi ngày."}}
+{"level": 3, "no": 869, "hz": "员（服务员）", "py": "yuán (fú wù yuán)", "vi": "nhân viên", "ex": {"zh": "那位服务员很热情。", "py": "Nà wèi fúwùyuán hěn rèqíng.", "vi": "Nhân viên phục vụ đó rất nhiệt tình."}}
+{"level": 3, "no": 870, "hz": "员工", "py": "yuángōng", "vi": "nhân viên", "ex": {"zh": "我们公司有500名员工。", "py": "Wǒmen gōngsī yǒu 500 míng yuángōng.", "vi": "Công ty chúng tôi có 500 nhân viên."}}
+{"level": 3, "no": 871, "hz": "愿望", "py": "yuànwàng", "vi": "nguyện vọng", "ex": {"zh": "我的愿望是出国留学。", "py": "Wǒ de yuànwàng shì chūguó liúxué.", "vi": "Nguyện vọng của tôi là đi du học."}}
+{"level": 3, "no": 872, "hz": "约", "py": "yuē", "vi": "hẹn", "ex": {"zh": "我们约好明天见面。", "py": "Wǒmen yuē hǎo míngtiān jiànmiàn.", "vi": "Chúng tôi đã hẹn gặp nhau ngày"}}
+{"level": 3, "no": 873, "hz": "乐队", "py": "yuè duì", "vi": "ban nhạc", "ex": {"zh": "这个乐队很有名。", "py": "Zhège yuèduì hěn yǒumíng.", "vi": "Ban nhạc này rất nổi tiếng."}}
+{"level": 3, "no": 874, "hz": "运输", "py": "yùnshū", "vi": "vận chuyển", "ex": {"zh": "这些货物正在运输中。", "py": "Zhèxiē huòwù zhèngzài yùnshū zhōng.", "vi": "Những hàng hóa này đang được vận chuyển."}}
+{"level": 3, "no": 875, "hz": "杂志", "py": "zázhì", "vi": "tạp chí", "ex": {"zh": "我每个月都买这本杂志。", "py": "Wǒ měi gè yuè dōu mǎi zhè běn zázhì.", "vi": "Tôi mua tạp chí này mỗi tháng."}}
+{"level": 3, "no": 876, "hz": "早已", "py": "zǎo yǐ", "vi": "từ lâu", "ex": {"zh": "他早已回国了。", "py": "Tā zǎo yǐ huíguó le.", "vi": "Anh ấy đã về nước từ lâu rồi."}}
+{"level": 3, "no": 877, "hz": "造", "py": "zào", "vi": "chế tạo", "ex": {"zh": "这辆车是德国造的。", "py": "Zhè liàng chē shì Déguó zào de.", "vi": "Chiếc xe này do Đức sản xuất."}}
+{"level": 3, "no": 878, "hz": "造成", "py": "zàochéng", "vi": "gây ra", "ex": {"zh": "雨水太多造成了洪水。", "py": "Yǔshuǐ tài duō zàochéng le hóngshuǐ.", "vi": "Mưa nhiều đã gây ra lũ lụt."}}
+{"level": 3, "no": 879, "hz": "责任", "py": "zérèn", "vi": "trách nhiệm", "ex": {"zh": "每个人都有责任保护环境。", "py": "Měi gèrén dōu yǒu zérèn bǎohù huánjìng.", "vi": "Ai cũng có trách nhiệm bảo vệ môi trường."}}
+{"level": 3, "no": 880, "hz": "增加", "py": "zēngjiā", "vi": "tăng thêm", "ex": {"zh": "公司计划增加员工人数。", "py": "Gōngsī jìhuà zēngjiā yuángōng rénshù.", "vi": "Công ty dự định tăng số lượng nhân viên."}}
+{"level": 3, "no": 881, "hz": "增长", "py": "zēng zhǎng", "vi": "tăng trưởng", "ex": {"zh": "经济正在快速增长。", "py": "Jīngjì zhèngzài kuàisù zēngzhǎng.", "vi": "Nền kinh tế đang tăng trưởng nhanh chóng."}}
+{"level": 3, "no": 882, "hz": "展开", "py": "zhǎnkāi", "vi": "triển khai", "ex": {"zh": "我们将展开新项目。", "py": "Wǒmen jiāng zhǎnkāi xīn xiàngmù.", "vi": "Chúng tôi sẽ triển khai dự án mới."}}
+{"level": 3, "no": 883, "hz": "张", "py": "zhāng", "vi": "họ Trương", "ex": {"zh": "他姓张，叫张伟。", "py": "Tā xìng Zhāng, jiào Zhāng Wěi.", "vi": "Anh ấy họ Trương, tên là Trương Vĩ."}}
+{"level": 3, "no": 884, "hz": "照", "py": "zhào", "vi": "chiếu, soi", "ex": {"zh": "阳光照在窗户上。", "py": "Yángguāng zhào zài chuānghù shàng.", "vi": "Ánh nắng chiếu lên cửa sổ."}}
+{"level": 3, "no": 885, "hz": "者（志愿者）", "py": "zhě (zhì yuàn zhě)", "vi": "người (tình nguyện viên)", "ex": {"zh": "他是一个热心的志愿者。", "py": "Tā shì yīgè rèxīn de zhìyuànzhě.", "vi": "Anh ấy là một tình nguyện viên nhiệt tình."}}
+{"level": 3, "no": 886, "hz": "真实", "py": "zhēnshí", "vi": "chân thật", "ex": {"zh": "这是真实的故事。", "py": "Zhè shì zhēnshí de gùshì.", "vi": "Đây là một câu chuyện có thật."}}
+{"level": 3, "no": 887, "hz": "争", "py": "zhēng", "vi": "tranh giành", "ex": {"zh": "他们在争第一名。", "py": "Tāmen zài zhēng dì yī míng.", "vi": "Họ đang tranh vị trí số một."}}
+{"level": 3, "no": 888, "hz": "争取", "py": "zhēngqǔ", "vi": "tranh thủ", "ex": {"zh": "我们要争取好成绩。", "py": "Wǒmen yào zhēngqǔ hǎo chéngjì.", "vi": "Chúng ta phải tranh thủ thành tích tốt."}}
+{"level": 3, "no": 889, "hz": "整", "py": "zhěng", "vi": "toàn bộ", "ex": {"zh": "整个城市都停电了。", "py": "Zhěnggè chéngshì dōu tíngdiàn le.", "vi": "Cả thành phố bị mất điện."}}
+{"level": 3, "no": 890, "hz": "整个", "py": "zhěnggè", "vi": "toàn thể", "ex": {"zh": "他讲了整个故事。", "py": "Tā jiǎng le zhěnggè gùshì.", "vi": "Anh ấy kể toàn bộ câu chuyện."}}
+{"level": 3, "no": 891, "hz": "整理", "py": "zhěnglǐ", "vi": "sắp xếp", "ex": {"zh": "请把桌子整理一下。", "py": "Qǐng bǎ zhuōzi zhěnglǐ yīxià.", "vi": "Hãy dọn lại bàn một chút."}}
+{"level": 3, "no": 892, "hz": "整齐", "py": "zhěngqí", "vi": "ngăn nắp", "ex": {"zh": "他的房间非常整齐。", "py": "Tā de fángjiān fēicháng zhěngqí.", "vi": "Phòng của anh ấy rất gọn gàng."}}
+{"level": 3, "no": 893, "hz": "整体", "py": "zhěngtǐ", "vi": "tổng thể", "ex": {"zh": "我们要看问题的整体。", "py": "Wǒmen yào kàn wèntí de zhěngtǐ.", "vi": "Chúng ta cần nhìn tổng thể vấn đề."}}
+{"level": 3, "no": 894, "hz": "整天", "py": "zhěng tiān", "vi": "cả ngày", "ex": {"zh": "他整天玩手机。", "py": "Tā zhěngtiān wán shǒujī.", "vi": "Anh ấy chơi điện thoại cả ngày."}}
+{"level": 3, "no": 895, "hz": "整整", "py": "zhěng zhěng", "vi": "trọn, đúng", "ex": {"zh": "我等了他整整一天。", "py": "Wǒ děng le tā zhěngzhěng yì tiān.", "vi": "Tôi đã đợi anh ấy cả một ngày."}}
+{"level": 3, "no": 896, "hz": "正（形）", "py": "zhèng", "vi": "chính, ngay ngắn", "ex": {"zh": "他坐得很正。", "py": "Tā zuò de hěn zhèng.", "vi": "Anh ấy ngồi rất ngay ngắn."}}
+{"level": 3, "no": 897, "hz": "正式", "py": "zhèngshì", "vi": "chính thức", "ex": {"zh": "会议正式开始。", "py": "Huìyì zhèngshì kāishǐ.", "vi": "Cuộc họp bắt đầu chính thức."}}
+{"level": 3, "no": 898, "hz": "证", "py": "zhèng", "vi": "giấy chứng nhận", "ex": {"zh": "我们需要出生证。", "py": "Wǒmen xūyào chūshēngzhèng.", "vi": "Chúng tôi cần giấy khai sinh."}}
+{"level": 3, "no": 899, "hz": "证件", "py": "zhèngjiàn", "vi": "giấy tờ", "ex": {"zh": "请出示你的证件。", "py": "Qǐng chūshì nǐ de zhèngjiàn.", "vi": "Hãy xuất trình giấy tờ của bạn."}}
+{"level": 3, "no": 900, "hz": "证据", "py": "zhèngjù", "vi": "bằng chứng", "ex": {"zh": "我有足够的证据证明他有罪。", "py": "Wǒ yǒu zúgòu de zhèngjù zhèngmíng tā yǒuzuì.", "vi": "Tôi có đủ bằng chứng để chứng minh anh ấy có tội."}}
+{"level": 3, "no": 901, "hz": "证明", "py": "zhèngmíng", "vi": "chứng minh", "ex": {"zh": "他无法证明自己的清白。", "py": "Tā wúfǎ zhèngmíng zìjǐ de qīngbái.", "vi": "Anh ấy không thể chứng minh sự trong sạch của mình."}}
+{"level": 3, "no": 902, "hz": "支（量）", "py": "zhī", "vi": "cái, cây (lượng từ)", "ex": {"zh": "我买了一支笔。", "py": "Wǒ mǎi le yī zhī bǐ.", "vi": "Tôi đã mua một cây bút."}}
+{"level": 3, "no": 903, "hz": "支持", "py": "zhīchí", "vi": "ủng hộ", "ex": {"zh": "我们支持你的决定。", "py": "Wǒmen zhīchí nǐ de juédìng.", "vi": "Chúng tôi ủng hộ quyết định của bạn."}}
+{"level": 3, "no": 904, "hz": "支付", "py": "zhī fù", "vi": "thanh toán", "ex": {"zh": "请在网上支付费用。", "py": "Qǐng zài wǎngshàng zhīfù fèiyòng.", "vi": "Hãy thanh toán phí trên mạng."}}
+{"level": 3, "no": 905, "hz": "只", "py": "zhī", "vi": "chỉ", "ex": {"zh": "我只想休息一下。", "py": "Wǒ zhǐ xiǎng xiūxi yīxià.", "vi": "Tôi chỉ muốn nghỉ ngơi một chút."}}
+{"level": 3, "no": 906, "hz": "直", "py": "zhí", "vi": "thẳng", "ex": {"zh": "请走直线，不要转弯。", "py": "Qǐng zǒu zhíxiàn, búyào zhuǎnwān.", "vi": "Hãy đi thẳng, đừng rẽ."}}
+{"level": 3, "no": 907, "hz": "直播", "py": "zhíbō", "vi": "phát trực tiếp", "ex": {"zh": "她在社交平台上做直播。", "py": "Tā zài shèjiāo píngtái shàng zuò zhíbō.", "vi": "Cô ấy livestream trên mạng xã hội."}}
+{"level": 3, "no": 908, "hz": "直到", "py": "zhí dào", "vi": "cho đến khi", "ex": {"zh": "我等到晚上十点，直到他回来。", "py": "Wǒ děng dào wǎnshang shí diǎn, zhídào tā huílái.", "vi": "Tôi đợi đến 10 giờ tối, cho đến khi anh ấy về."}}
+{"level": 3, "no": 909, "hz": "值", "py": "zhí", "vi": "giá trị, đáng", "ex": {"zh": "这本书很值。", "py": "Zhè běn shū hěn zhí.", "vi": "Cuốn sách này rất đáng giá."}}
+{"level": 3, "no": 910, "hz": "值得", "py": "zhíde", "vi": "xứng đáng", "ex": {"zh": "这个地方值得一游。", "py": "Zhège dìfāng zhíde yì yóu.", "vi": "Nơi này đáng để tham quan."}}
+{"level": 3, "no": 911, "hz": "职工", "py": "zhí gōng", "vi": "nhân viên", "ex": {"zh": "工厂里有几百名职工。", "py": "Gōngchǎng lǐ yǒu jǐ bǎi míng zhígōng.", "vi": "Trong nhà máy có vài trăm nhân viên."}}
+{"level": 3, "no": 912, "hz": "职业", "py": "zhíyè", "vi": "nghề nghiệp", "ex": {"zh": "他的职业是医生。", "py": "Tā de zhíyè shì yīshēng.", "vi": "Nghề của anh ấy là bác sĩ."}}
+{"level": 3, "no": 913, "hz": "只好", "py": "zhǐhǎo", "vi": "đành phải", "ex": {"zh": "没有车，我只好走路回家。", "py": "Méiyǒu chē, wǒ zhǐhǎo zǒulù huí jiā.", "vi": "Không có xe, tôi đành phải đi bộ về nhà."}}
+{"level": 3, "no": 914, "hz": "只是", "py": "zhǐ shì", "vi": "chỉ là", "ex": {"zh": "我不是不喜欢你，只是太忙了。", "py": "Wǒ bú shì bù xǐhuān nǐ, zhǐshì tài máng le.", "vi": "Không phải tôi không thích bạn, chỉ là quá bận."}}
+{"level": 3, "no": 915, "hz": "只有", "py": "zhǐ yǒu", "vi": "chỉ có", "ex": {"zh": "只有努力，才能成功。", "py": "Zhǐyǒu nǔlì, cái néng chénggōng.", "vi": "Chỉ có nỗ lực mới thành công."}}
+{"level": 3, "no": 916, "hz": "指", "py": "zhǐ", "vi": "ngón tay, chỉ ra", "ex": {"zh": "他用手指指着地图。", "py": "Tā yòng shǒuzhǐ zhǐzhe dìtú.", "vi": "Anh ấy dùng ngón tay chỉ vào bản đồ."}}
+{"level": 3, "no": 917, "hz": "指出", "py": "zhǐ chū", "vi": "chỉ ra", "ex": {"zh": "老师指出了我的错误。", "py": "Lǎoshī zhǐchū le wǒ de cuòwù.", "vi": "Giáo viên đã chỉ ra lỗi của tôi."}}
+{"level": 3, "no": 918, "hz": "指导", "py": "zhǐdǎo", "vi": "hướng dẫn", "ex": {"zh": "感谢您的指导。", "py": "Gǎnxiè nín de zhǐdǎo.", "vi": "Cảm ơn sự hướng dẫn của bạn."}}
+{"level": 3, "no": 919, "hz": "至今", "py": "zhìjīn", "vi": "cho đến nay", "ex": {"zh": "他至今还没有结婚。", "py": "Tā zhìjīn hái méiyǒu jiéhūn.", "vi": "Đến nay anh ấy vẫn chưa kết hôn."}}
+{"level": 3, "no": 920, "hz": "至少", "py": "zhìshǎo", "vi": "ít nhất", "ex": {"zh": "他每天至少读一小时书。", "py": "Tā měitiān zhìshǎo dú yì xiǎoshí shū.", "vi": "Mỗi ngày anh ấy đọc sách ít nhất một tiếng."}}
+{"level": 3, "no": 921, "hz": "志愿", "py": "zhì yuàn", "vi": "nguyện vọng", "ex": {"zh": "我的志愿是成为工程师。", "py": "Wǒ de zhìyuàn shì chéngwéi gōngchéngshī.", "vi": "Nguyện vọng của tôi là trở thành kỹ sư."}}
+{"level": 3, "no": 922, "hz": "志愿者", "py": "zhìyuànzhě", "vi": "tình nguyện viên", "ex": {"zh": "他是一位热心的志愿者。", "py": "Tā shì yī wèi rèxīn de zhìyuànzhě.", "vi": "Anh ấy là một tình nguyện viên nhiệt tình."}}
+{"level": 3, "no": 923, "hz": "制定", "py": "zhìdìng", "vi": "xây dựng, đặt ra", "ex": {"zh": "政府制定了新的政策。", "py": "Zhèngfǔ zhìdìng le xīn de zhèngcè.", "vi": "Chính phủ đã đưa ra chính sách mới."}}
+{"level": 3, "no": 924, "hz": "制度", "py": "zhìdù", "vi": "chế độ", "ex": {"zh": "公司有严格的管理制度。", "py": "Gōngsī yǒu yángé de guǎnlǐ zhìdù.", "vi": "Công ty có chế độ quản lý nghiêm ngặt."}}
+{"level": 3, "no": 925, "hz": "制造", "py": "zhìzào", "vi": "chế tạo", "ex": {"zh": "这些产品是在中国制造的。", "py": "Zhèxiē chǎnpǐn shì zài Zhōngguó zhìzào de.", "vi": "Những sản phẩm này được sản xuất tại Trung Quốc."}}
+{"level": 3, "no": 926, "hz": "制作", "py": "zhìzuò", "vi": "chế tác", "ex": {"zh": "这部电影制作精良。", "py": "Zhè bù diànyǐng zhìzuò jīngliáng.", "vi": "Bộ phim này được sản xuất rất tinh tế."}}
+{"level": 3, "no": 927, "hz": "中部", "py": "zhōng bù", "vi": "khu vực trung tâm", "ex": {"zh": "我们计划去中国中部旅游。", "py": "Wǒmen jìhuà qù Zhōngguó zhōngbù lǚyóu.", "vi": "Chúng tôi dự định du lịch miền trung Trung Quốc."}}
+{"level": 3, "no": 928, "hz": "中华民族", "py": "zhōng huá mín zú", "vi": "dân tộc Trung Hoa", "ex": {"zh": "中华民族有悠久的历史。", "py": "Zhōnghuá mínzú yǒu yōujiǔ de lìshǐ.", "vi": "Dân tộc Trung Hoa có lịch sử lâu đời."}}
+{"level": 3, "no": 929, "hz": "终于", "py": "zhōngyú", "vi": "cuối cùng", "ex": {"zh": "他终于通过了考试。", "py": "Tā zhōngyú tōngguò le kǎoshì.", "vi": "Cuối cùng anh ấy cũng đã vượt qua kỳ thi."}}
+{"level": 3, "no": 930, "hz": "钟", "py": "zhōng", "vi": "đồng hồ", "ex": {"zh": "这是一只古老的钟。", "py": "Zhè shì yī zhī gǔlǎo de zhōng.", "vi": "Đây là một chiếc đồng hồ cổ."}}
+{"level": 3, "no": 931, "hz": "种", "py": "zhǒng", "vi": "loại", "ex": {"zh": "我喜欢各种水果。", "py": "Wǒ xǐhuān gè zhǒng shuǐguǒ.", "vi": "Tôi thích các loại trái cây."}}
+{"level": 3, "no": 932, "hz": "种子", "py": "zhǒngzi", "vi": "hạt giống", "ex": {"zh": "春天是播种子的季节。", "py": "Chūntiān shì bō zhǒngzi de jìjié.", "vi": "Mùa xuân là thời điểm gieo hạt."}}
+{"level": 3, "no": 933, "hz": "重大", "py": "zhòngdà", "vi": "trọng đại", "ex": {"zh": "他做出了一个重大的决定。", "py": "Tā zuòchū le yī gè zhòngdà de juédìng.", "vi": "Anh ấy đã đưa ra một quyết định trọng đại."}}
+{"level": 3, "no": 934, "hz": "周围", "py": "zhōuwéi", "vi": "xung quanh", "ex": {"zh": "他周围的人都很友好。", "py": "Tā zhōuwéi de rén dōu hěn yǒuhǎo.", "vi": "Những người xung quanh anh ấy đều rất thân thiện."}}
+{"level": 3, "no": 935, "hz": "猪", "py": "zhū", "vi": "con heo", "ex": {"zh": "农场里养了很多猪。", "py": "Nóngchǎng lǐ yǎng le hěn duō zhū.", "vi": "Trang trại nuôi rất nhiều heo."}}
+{"level": 3, "no": 936, "hz": "主持", "py": "zhǔchí", "vi": "chủ trì", "ex": {"zh": "她在主持一场节目。", "py": "Tā zài zhǔchí yī chǎng jiémù.", "vi": "Cô ấy đang dẫn một chương trình."}}
+{"level": 3, "no": 937, "hz": "主动", "py": "zhǔdòng", "vi": "chủ động", "ex": {"zh": "他在工作中非常主动。", "py": "Tā zài gōngzuò zhōng fēicháng zhǔdòng.", "vi": "Anh ấy rất chủ động trong công việc."}}
+{"level": 3, "no": 938, "hz": "主任", "py": "zhǔrèn", "vi": "chủ nhiệm", "ex": {"zh": "他是系里的主任。", "py": "Tā shì xì lǐ de zhǔrèn.", "vi": "Anh ấy là chủ nhiệm khoa."}}
+{"level": 3, "no": 939, "hz": "主意", "py": "zhǔyi", "vi": "ý tưởng", "ex": {"zh": "这是个不错的主意。", "py": "Zhè shì gè búcuò de zhǔyi.", "vi": "Đây là một ý tưởng hay."}}
+{"level": 3, "no": 940, "hz": "主张", "py": "zhǔzhāng", "vi": "chủ trương", "ex": {"zh": "他主张减少开支。", "py": "Tā zhǔzhāng jiǎnshǎo kāizhī.", "vi": "Anh ấy chủ trương giảm chi tiêu."}}
+{"level": 3, "no": 941, "hz": "注意", "py": "zhùyì", "vi": "chú ý", "ex": {"zh": "上课时要注意听讲。", "py": "Shàngkè shí yào zhùyì tīngjiǎng.", "vi": "Trong giờ học phải chú ý nghe giảng."}}
+{"level": 3, "no": 942, "hz": "祝", "py": "zhù", "vi": "chúc", "ex": {"zh": "祝你生日快乐！", "py": "Zhù nǐ shēngrì kuàilè!", "vi": "Chúc bạn sinh nhật vui"}}
+{"level": 3, "no": 943, "hz": "抓", "py": "zhuā", "vi": "nắm bắt", "ex": {"zh": "他一把抓住了机会。", "py": "Tā yī bǎ zhuā zhù le jīhuì.", "vi": "Anh ấy nhanh chóng nắm bắt cơ hội."}}
+{"level": 3, "no": 944, "hz": "抓住", "py": "zhuā zhù", "vi": "bắt lấy", "ex": {"zh": "我抓住了他的手。", "py": "Wǒ zhuā zhù le tā de shǒu.", "vi": "Tôi đã nắm lấy tay anh ấy."}}
+{"level": 3, "no": 945, "hz": "专家", "py": "zhuānjiā", "vi": "chuyên gia", "ex": {"zh": "他是电脑方面的专家。", "py": "Tā shì diànnǎo fāngmiàn de zhuānjiā.", "vi": "Anh ấy là chuyên gia về máy tính."}}
+{"level": 3, "no": 946, "hz": "专门", "py": "zhuānmén", "vi": "chuyên môn", "ex": {"zh": "他是专门研究历史的。", "py": "Tā shì zhuānmén yánjiū lìshǐ de.", "vi": "Anh ấy chuyên nghiên cứu lịch sử."}}
+{"level": 3, "no": 947, "hz": "专题", "py": "zhuāntí", "vi": "chủ đề chuyên sâu", "ex": {"zh": "这期杂志有一个科技专题。", "py": "Zhè qī zázhì yǒu yī gè kējì zhuāntí.", "vi": "Số tạp chí này có một chuyên đề công nghệ."}}
+{"level": 3, "no": 948, "hz": "专业", "py": "zhuānyè", "vi": "chuyên ngành", "ex": {"zh": "我的专业是会计。", "py": "Wǒ de zhuānyè shì kuàijì.", "vi": "Chuyên ngành của tôi là kế toán."}}
+{"level": 3, "no": 949, "hz": "转", "py": "zhuàn", "vi": "quay, xoay", "ex": {"zh": "他突然转过头来看我。", "py": "Tā tūrán zhuǎn guò tóu lái kàn wǒ.", "vi": "Anh ấy bất ngờ quay đầu lại nhìn tôi."}}
+{"level": 3, "no": 950, "hz": "转变", "py": "zhuǎnbiàn", "vi": "chuyển biến", "ex": {"zh": "他的态度发生了转变。", "py": "Tā de tàidù fāshēng le zhuǎnbiàn.", "vi": "Thái độ của anh ấy đã thay đổi."}}
+{"level": 3, "no": 951, "hz": "状况", "py": "zhuàngkuàng", "vi": "tình hình", "ex": {"zh": "当前经济状况不太乐观。", "py": "Dāngqián jīngjì zhuàngkuàng bú tài lèguān.", "vi": "Tình hình kinh tế hiện tại không lạc quan lắm."}}
+{"level": 3, "no": 952, "hz": "状态", "py": "zhuàngtài", "vi": "trạng thái", "ex": {"zh": "他最近的精神状态很好。", "py": "Tā zuìjìn de jīngshén zhuàngtài hěn hǎo.", "vi": "Gần đây tinh thần anh ấy rất"}}
+{"level": 3, "no": 953, "hz": "追", "py": "zhuī", "vi": "đuổi theo", "ex": {"zh": "他追着公交车跑。", "py": "Tā zhuīzhe gōngjiāochē pǎo.", "vi": "Anh ấy chạy đuổi theo xe buýt."}}
+{"level": 3, "no": 954, "hz": "准", "py": "zhǔn", "vi": "chuẩn; cho phép", "ex": {"zh": "他的发音很准。", "py": "Tā de fāyīn hěn zhǔn.", "vi": "Phát âm của anh ấy rất chuẩn."}}
+{"level": 3, "no": 955, "hz": "资格", "py": "zīgé", "vi": "tư cách; trình độ", "ex": {"zh": "他没有这个职位的资格。", "py": "Tā méiyǒu zhège zhíwèi de zīgé.", "vi": "Anh ấy không đủ tư cách cho vị trí"}}
+{"level": 3, "no": 956, "hz": "资金", "py": "zījīn", "vi": "vốn", "ex": {"zh": "公司资金不足。", "py": "Gōngsī zījīn bùzú.", "vi": "Công ty thiếu vốn."}}
+{"level": 3, "no": 957, "hz": "子女", "py": "zǐ nǚ", "vi": "con cái", "ex": {"zh": "她有三个子女。", "py": "Tā yǒu sān gè zǐnǚ.", "vi": "Cô ấy có ba người con."}}
+{"level": 3, "no": 958, "hz": "自从", "py": "zìcóng", "vi": "kể từ khi", "ex": {"zh": "自从上次见面后，我没再见过他。", "py": "Zìcóng shàng cì jiànmiàn hòu, wǒ méi zài jiànguò tā.", "vi": "Từ lần gặp trước, tôi chưa gặp lại anh ấy."}}
+{"level": 3, "no": 959, "hz": "自动", "py": "zìdòng", "vi": "tự động", "ex": {"zh": "门会自动打开。", "py": "Mén huì zìdòng dǎkāi.", "vi": "Cửa sẽ tự động mở."}}
+{"level": 3, "no": 960, "hz": "自觉", "py": "zìjué", "vi": "tự giác", "ex": {"zh": "他学习很自觉。", "py": "Tā xuéxí hěn zìjué.", "vi": "Cậu ấy học rất tự giác."}}
+{"level": 3, "no": 961, "hz": "自然", "py": "zìrán", "vi": "tự nhiên", "ex": {"zh": "她的反应很自然。", "py": "Tā de fǎnyìng hěn zìrán.", "vi": "Phản ứng của cô ấy rất tự nhiên."}}
+{"level": 3, "no": 962, "hz": "自身", "py": "zì shēn", "vi": "bản thân", "ex": {"zh": "问题出在他自身。", "py": "Wèntí chū zài tā zìshēn.", "vi": "Vấn đề nằm ở chính bản thân anh ấy."}}
+{"level": 3, "no": 963, "hz": "自主", "py": "zìzhǔ", "vi": "tự chủ", "ex": {"zh": "我们要培养学生的自主能力。", "py": "Wǒmen yào péiyǎng xuéshēng de zìzhǔ nénglì.", "vi": "Chúng ta cần rèn luyện năng lực tự chủ cho học sinh."}}
+{"level": 3, "no": 964, "hz": "总", "py": "zǒng", "vi": "luôn luôn", "ex": {"zh": "他总是很忙。", "py": "Tā zǒng shì hěn máng.", "vi": "Anh ấy luôn luôn rất bận."}}
+{"level": 3, "no": 965, "hz": "总结", "py": "zǒngjié", "vi": "tổng kết", "ex": {"zh": "请你总结一下今天的内容。", "py": "Qǐng nǐ zǒngjié yīxià jīntiān de nèiróng.", "vi": "Hãy tổng kết lại nội dung hôm nay."}}
+{"level": 3, "no": 966, "hz": "总是", "py": "zǒngshì", "vi": "luôn luôn", "ex": {"zh": "他总是迟到。", "py": "Tā zǒngshì chídào.", "vi": "Anh ấy luôn đến muộn."}}
+{"level": 3, "no": 967, "hz": "足够", "py": "zú gòu", "vi": "đủ", "ex": {"zh": "我们有足够的时间。", "py": "Wǒmen yǒu zúgòu de shíjiān.", "vi": "Chúng ta có đủ thời gian."}}
+{"level": 3, "no": 968, "hz": "足球", "py": "zú qiú", "vi": "bóng đá", "ex": {"zh": "我喜欢踢足球。", "py": "Wǒ xǐhuān tī zúqiú.", "vi": "Tôi thích chơi bóng đá."}}
+{"level": 3, "no": 969, "hz": "组合", "py": "zǔhé", "vi": "tổ hợp", "ex": {"zh": "这个颜色组合很好看。", "py": "Zhège yánsè zǔhé hěn hǎokàn.", "vi": "Tổ hợp màu sắc này rất đẹp."}}
+{"level": 3, "no": 970, "hz": "左右", "py": "zuǒyòu", "vi": "khoảng", "ex": {"zh": "他三十岁左右。", "py": "Tā sānshí suì zuǒyòu.", "vi": "Anh ấy khoảng 30 tuổi."}}
+{"level": 3, "no": 971, "hz": "作品", "py": "zuòpǐn", "vi": "tác phẩm", "ex": {"zh": "这是他最有名的作品。", "py": "Zhè shì tā zuì yǒumíng de zuòpǐn.", "vi": "Đây là tác phẩm nổi tiếng nhất của anh ấy."}}
+{"level": 3, "no": 972, "hz": "作者", "py": "zuòzhě", "vi": "tác giả", "ex": {"zh": "这本书的作者很有名。", "py": "Zhè běn shū de zuòzhě hěn yǒumíng.", "vi": "Tác giả cuốn sách này rất nổi tiếng."}}
+{"level": 3, "no": 973, "hz": "做客", "py": "zuò kè", "vi": "làm khách", "ex": {"zh": "欢迎你来我家做客。", "py": "Huānyíng nǐ lái wǒ jiā zuòkè.", "vi": "Chào mừng bạn đến nhà tôi chơi."}}

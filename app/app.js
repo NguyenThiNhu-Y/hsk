@@ -241,6 +241,7 @@ function setTab(t) {
   $('lsWords').classList.toggle('hidden', t !== 'words');
   $('lsTexts').classList.toggle('hidden', t !== 'texts');
   $('lsGrammar').classList.toggle('hidden', t !== 'grammar');
+  $('lsEx').classList.toggle('hidden', t !== 'ex');
 }
 document.querySelectorAll('.tabs button').forEach(b => b.addEventListener('click', () => setTab(b.dataset.tab)));
 function applyTextToggles() {
@@ -274,13 +275,16 @@ function startReview() {
   if (!ws.length) return toast('Không có từ nào cần ôn hôm nay');
   startSession(ws, 'Ôn tập');
 }
-function startSession(words, title) {
-  session = { queue: words.slice(), total: words.length, done: 0, failed: new Set(), title, history: [], view: null };
+const sayOf = w => (w.sent ? w.ex.zh : w.hz);
+function startSession(words, title, back = 'home') {
+  session = { queue: words.slice(), total: words.length, done: 0, failed: new Set(), title, history: [], view: null, back };
   showView('study');
   showCard();
 }
 function fillCard(w) {
   session.shown = w;
+  $('cardWord').classList.toggle('sent', !!w.sent);
+  if (w.sent) return fillSentCard(w);
   $('cardCat').textContent = `${BOOK_NAMES[w.book]} · Bài ${w.lesson}${w.pos ? ' · ' + w.pos : ''}`;
   $('cardWord').textContent = w.hz;
   $('cardPyFront').textContent = state.settings.front === 'hzpy' ? w.py : '';
@@ -347,7 +351,7 @@ function flip() {
   $('cardBack').classList.remove('hidden');
   $('flipActions').classList.add('hidden');
   $('gradeActions').classList.remove('hidden');
-  if (state.settings.autoSpeak) speak(session.queue[0].hz);
+  if (state.settings.autoSpeak) speak(sayOf(session.queue[0]));
 }
 function grade(ok) {
   if (!session || session.view !== null || !session.flipped) return;
@@ -369,9 +373,10 @@ function grade(ok) {
   showCard();
 }
 function finishSession() {
-  toast(`Xong ${session.total} thẻ! ${session.failed.size ? session.failed.size + ' từ phải lặp lại — tối nay ôn lại nhé.' : 'Không sai từ nào 🎉'}`);
+  toast(`Xong ${session.total} thẻ! ${session.failed.size ? session.failed.size + ' thẻ phải lặp lại — tối nay ôn lại nhé.' : 'Không sai thẻ nào 🎉'}`);
+  const back = session.back;
   session = null;
-  showView('home');
+  showView(back);
 }
 $('flipBtn').addEventListener('click', flip);
 $('card').addEventListener('click', e => { if (!e.target.closest('button')) flip(); });
@@ -379,7 +384,7 @@ $('againBtn').addEventListener('click', () => grade(false));
 $('goodBtn').addEventListener('click', () => grade(true));
 $('prevBtn').addEventListener('click', prevCard);
 $('nextBtn').addEventListener('click', nextCard);
-$('speakBtn').addEventListener('click', () => session && speak(session.shown.hz));
+$('speakBtn').addEventListener('click', () => session && speak(sayOf(session.shown)));
 
 // ===== Luyện tập =====
 // Pinyin: đổi dấu thanh để làm đáp án nhiễu
@@ -500,15 +505,18 @@ $('pracStart').addEventListener('click', () => {
   if (!types.length) return ($('pracMsg').textContent = 'Hãy chọn ít nhất một dạng câu hỏi.');
   const { words, lessons } = pracPool();
   const n = Number($('pracNum').value);
-  if (!words.length) return ($('pracMsg').textContent = $('pracScope').value === 'weak' ? 'Chưa có từ hay sai nào — học thêm rồi quay lại nhé!' : 'Chưa có từ nào trong phạm vi này — hãy học vài từ trước.');
+  if (!words.length && !types.includes('gq')) return ($('pracMsg').textContent = $('pracScope').value === 'weak' ? 'Chưa có từ hay sai nào — học thêm rồi quay lại nhé!' : 'Chưa có từ nào trong phạm vi này — hãy học vài từ trước.');
   const lines = shuffle(LINES.filter(l => l.book === book() && lessons.includes(l.lesson)));
   const qs = [];
   const wq = shuffle(words.slice());
-  let li = 0;
+  if (!wq.length) types.splice(0, types.length, ...types.filter(t => t === 'gq' || t === 'order'));
+  let li = 0, gi = 0;
+  const gqs = types.includes('gq') ? shuffle(GQ.filter(g => g.book === book() && lessons.includes(g.lesson))) : [];
+  const nextGq = () => (gi < gqs.length ? gqQuestion(gqs[gi++]) : null);
   const nextOrder = () => { while (li < lines.length) { const q = makeQuestion('order', null, lines[li++]); if (q) return q; } return null; };
   for (let i = 0, guard = 0; qs.length < n && guard < n * 20; guard++, i++) {
     const t = types[i % types.length];
-    const q = t === 'order' ? nextOrder() : makeQuestion(t, wq[i % wq.length]);
+    const q = t === 'order' ? nextOrder() : t === 'gq' ? nextGq() : makeQuestion(t, wq[i % wq.length]);
     if (q) qs.push(q);
   }
   if (!qs.length) return ($('pracMsg').textContent = 'Không tạo được câu hỏi cho phạm vi này.');
@@ -517,6 +525,14 @@ $('pracStart').addEventListener('click', () => {
   $('pracRun').classList.remove('hidden');
   showQuestion();
 });
+function runPractice(qs, back) {
+  if (!qs.length) return toast('Không tạo được câu hỏi');
+  showView('practice');
+  prac = { qs, i: 0, score: 0, wrong: [], back };
+  $('pracSetup').classList.add('hidden');
+  $('pracRun').classList.remove('hidden');
+  showQuestion();
+}
 const ASK = {
   mean: 'Từ này nghĩa là gì?', pinyin: 'Chọn pinyin đúng (chú ý dấu thanh)', hanzi: 'Chọn chữ Hán đúng',
   listen: '🎧 Nghe và chọn từ bạn nghe được', fill: '选词填空 — Chọn từ điền vào chỗ trống', order: '连词成句 — Sắp xếp thành câu đúng',
@@ -527,28 +543,32 @@ function showQuestion() {
   $('pracProgress').textContent = `Câu ${prac.i + 1}/${prac.qs.length}`;
   $('pracScore').textContent = `Đúng ${prac.score}`;
   $('pracBar').style.width = (prac.i / prac.qs.length * 100) + '%';
-  $('qAsk').textContent = ASK[q.type];
+  $('qAsk').textContent = q.ask || ASK[q.type];
   $('qExplain').classList.add('hidden');
   $('qNext').classList.add('hidden');
-  $('qSpeak').classList.toggle('hidden', q.type !== 'listen');
+  $('qSpeak').classList.toggle('hidden', !(q.type === 'listen' || q.autoSay));
   $('qOrder').classList.toggle('hidden', q.type !== 'order');
   $('qChoices').classList.toggle('hidden', q.type === 'order');
   const w = q.w;
-  if (q.type === 'mean' || q.type === 'pinyin') $('qBody').innerHTML = `<div class="q-big">${esc(w.hz)}</div>`;
+  if (q.gen) {
+    $('qBody').innerHTML = q.body;
+    if (q.autoSay) speak(q.say);
+  }
+  else if (q.type === 'mean' || q.type === 'pinyin') $('qBody').innerHTML = `<div class="q-big">${esc(w.hz)}</div>`;
   else if (q.type === 'hanzi') $('qBody').innerHTML = `<div class="py big">${esc(w.py)}</div><div class="meaning">${esc(w.vi)}</div>`;
   else if (q.type === 'listen') { $('qBody').innerHTML = '<div class="q-big">🎧</div><div class="muted">Bấm 🔊 để nghe lại</div>'; speak(w.hz); }
   else if (q.type === 'fill') $('qBody').innerHTML = `<div class="q-sent">${esc(w.ex.zh).replace(esc(q.key), '<span class="blank">（　　）</span>')}</div>`;
   else if (q.type === 'order') {
-    $('qBody').innerHTML = `<div class="meaning">“${esc(q.line.vi)}”</div><div class="muted">Bấm lần lượt các cụm từ theo đúng thứ tự (bấm lại cụm đã chọn để bỏ).</div>`;
+    $('qBody').innerHTML = `${q.hint ?? `<div class="meaning">“${esc(q.line.vi)}”</div>`}<div class="muted">Bấm lần lượt các cụm từ theo đúng thứ tự (bấm lại cụm đã chọn để bỏ).</div>`;
     renderOrder();
   }
   if (q.type !== 'order') {
-    $('qChoices').innerHTML = q.opts.map((o, i) => `<button class="choice ${q.cls}" data-i="${i}">${i + 1}. ${esc(q.label(o))}</button>`).join('');
+    $('qChoices').innerHTML = q.opts.map((o, i) => `<button class="choice ${q.cls}" data-i="${i}">${i + 1}. ${q.gen ? o : esc(q.label(o))}</button>`).join('');
   }
 }
-$('qSpeak').addEventListener('click', () => prac && speak(prac.qs[prac.i].w.hz));
+$('qSpeak').addEventListener('click', () => { if (prac) { const q = prac.qs[prac.i]; speak(q.say || q.w.hz); } });
 $('qChoices').addEventListener('click', e => { const b = e.target.closest('.choice'); if (b) answer(Number(b.dataset.i)); });
-function isRight(q, i) { return q.type === 'pinyin' ? q.opts[i] === q.ans : q.opts[i] === q.w; }
+function isRight(q, i) { if (q.ai != null) return i === q.ai; return q.type === 'pinyin' ? q.opts[i] === q.ans : q.opts[i] === q.w; }
 function answer(i) {
   if (!prac || prac.answered) return;
   const q = prac.qs[prac.i];
@@ -578,7 +598,8 @@ $('orderCheck').addEventListener('click', () => {
   if (prac.answered) return;
   if (q.built.length < q.chunks.length) return toast('Hãy xếp hết các cụm từ');
   prac.answered = true;
-  const ok = q.built.map(p => p.t).join('') === q.chunks.join('');
+  const got = q.built.map(p => p.t).join('');
+  const ok = got === q.chunks.join('') || (q.alts || []).includes(got);
   $('orderBuilt').classList.add(ok ? 'ok' : 'no');
   finishAnswer(q, ok);
 });
@@ -586,8 +607,12 @@ function finishAnswer(q, ok) {
   if (ok) prac.score++;
   else prac.wrong.push(q);
   if (q.w) { recordAnswer(q.w, ok); save(); }
+  if (q.onResult) { q.onResult(ok); save(); }
   let html = ok ? '✅ Chính xác! ' : '❌ Chưa đúng. ';
-  if (q.type === 'order') {
+  if (q.explain) {
+    html += q.explain;
+    if (q.say) speak(q.say);
+  } else if (q.type === 'order') {
     html += `<div class="zh">${esc(q.line.zh)} <button class="mini-speak" data-say="${esc(q.line.zh)}">🔊</button></div>
       <div class="muted">${esc(q.line.py)}</div><div>${esc(q.line.vi)}</div>`;
   } else {
@@ -612,15 +637,15 @@ function nextQuestion() {
   save();
   $('pracDone').innerHTML = `<div class="result-big">${prac.score}/${prac.qs.length} (${pct}%)</div>
     <p style="text-align:center">${pct >= 90 ? '太棒了！Xuất sắc 🎉' : pct >= 70 ? 'Khá tốt, cố thêm chút nữa! 💪' : 'Ôn lại các câu sai rồi làm lại nhé!'}</p>
-    ${prac.wrong.length ? '<h3>Các câu làm sai</h3><div class="wrong-list">' + prac.wrong.map(q => q.type === 'order'
+    ${prac.wrong.length ? '<h3>Các câu làm sai</h3><div class="wrong-list">' + prac.wrong.map(q => q.wrongHtml ? `<div>${q.wrongHtml}</div>` : q.type === 'order'
       ? `<div><span class="zh">${esc(q.line.zh)}</span> — ${esc(q.line.vi)}</div>`
       : `<div><span class="zh">${esc(q.w.hz)}</span> ${esc(q.w.py)} — ${esc(q.w.vi)}</div>`).join('') + '</div>' : ''}
-    <div class="actions">${prac.wrong.length ? '<button class="btn bad" id="pracRetry">Làm lại câu sai</button>' : ''}<button class="btn primary" id="pracAgain">Luyện tiếp</button></div>`;
+    <div class="actions">${prac.wrong.length ? '<button class="btn bad" id="pracRetry">Làm lại câu sai</button>' : ''}<button class="btn primary" id="pracAgain">${prac.back ? 'Quay lại' : 'Luyện tiếp'}</button></div>`;
   $('pracDone').classList.remove('hidden');
-  const wrong = prac.wrong;
-  $('pracAgain').addEventListener('click', resetPractice);
+  const wrong = prac.wrong, back = prac.back;
+  $('pracAgain').addEventListener('click', () => (back ? back() : resetPractice()));
   if (wrong.length) $('pracRetry').addEventListener('click', () => {
-    prac = { qs: shuffle(wrong.map(q => ({ ...q, built: [] }))), i: 0, score: 0, wrong: [] };
+    prac = { qs: shuffle(wrong.map(q => ({ ...q, built: [] }))), i: 0, score: 0, wrong: [], back };
     $('pracDone').classList.add('hidden');
     $('pracRun').classList.remove('hidden');
     showQuestion();

@@ -21,6 +21,7 @@ function mergeStates(remote, local) {
   };
   const out = { ...remote, ...local };
   out.cards = mergeMap(remote.cards, local.cards, c => (c.right || 0) + (c.wrong || 0) + (c.learned ? 0.5 : 0));
+  out.gstats = mergeMap(remote.gstats, local.gstats, s => (s.r || 0) + (s.w || 0));
   const seen = new Set();
   out.log = [...(remote.log || []), ...(local.log || [])]
     .filter(r => { const k = JSON.stringify(r); if (seen.has(k)) return false; seen.add(k); return true; })

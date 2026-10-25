@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Học HSK 3–4</title>
-<link rel="stylesheet" href="style.css?v=1">
+<link rel="stylesheet" href="style.css?v=2">
 </head>
 <body>
 <header>
@@ -18,6 +18,7 @@
     <button data-view="home" class="active">Hôm nay</button>
     <button data-view="lessons">Bài học</button>
     <button data-view="practice">Luyện tập</button>
+    <button data-view="sent">Câu ví dụ</button>
     <button data-view="list">Từ vựng</button>
     <button data-view="settings">⚙︎</button>
   </nav>
@@ -64,6 +65,7 @@
       <button data-tab="words" class="active">Từ mới</button>
       <button data-tab="texts">Bài khoá</button>
       <button data-tab="grammar">Ngữ pháp</button>
+      <button data-tab="ex">Bài tập</button>
     </div>
     <div id="lsWords"></div>
     <div id="lsTexts" class="hidden">
@@ -74,6 +76,7 @@
       <div id="lsTextsBody"></div>
     </div>
     <div id="lsGrammar" class="hidden"></div>
+    <div id="lsEx" class="hidden"></div>
   </section>
 
   <!-- FLASHCARD -->
@@ -129,6 +132,7 @@
         <label class="check"><input type="checkbox" value="listen" checked> 🎧 Nghe chọn chữ</label>
         <label class="check"><input type="checkbox" value="fill" checked> 选词填空 Điền từ</label>
         <label class="check"><input type="checkbox" value="order" checked> 连词成句 Sắp xếp câu</label>
+        <label class="check"><input type="checkbox" value="gq" checked> 📝 Ngữ pháp (bài tập thêm)</label>
       </div>
       <label>Số câu
         <select id="pracNum"><option>10</option><option selected>20</option><option>30</option><option>50</option></select>
@@ -154,6 +158,57 @@
       <div class="actions"><button class="btn primary wide hidden" id="qNext">Câu tiếp ▶</button></div>
     </div>
     <div id="pracDone" class="hidden"></div>
+  </section>
+
+  <!-- CÂU VÍ DỤ (từ vựng HSK 3.0) -->
+  <section id="view-sent" class="view hidden">
+    <div id="sentHome">
+      <h3>💬 Học từ qua câu ví dụ — <span id="sentLevel"></span></h3>
+      <p class="muted" id="sentStats"></p>
+      <div class="progress small"><div id="sentBar"></div></div>
+      <div class="combo-grid">
+        <button class="combo-btn" id="sentNext"><b>📖 Học nhóm tiếp theo</b><span id="sentNextInfo"></span></button>
+        <button class="combo-btn" id="sentReview"><b>🔁 Ôn câu đến hạn</b><span id="sentReviewInfo"></span></button>
+        <button class="combo-btn" id="sentTestBtn"><b>✍️ Kiểm tra câu</b><span>Điền từ, dịch nghĩa, chọn câu, nghe, sắp xếp</span></button>
+      </div>
+      <div id="sentTest" class="sent-test hidden">
+        <label>Phạm vi
+          <select id="sentScope">
+            <option value="learned">Các câu đã học</option>
+            <option value="weak">Câu hay sai</option>
+            <option value="due">Câu đến hạn ôn</option>
+            <option value="all">Tất cả các câu</option>
+          </select>
+        </label>
+        <div class="type-grid" id="sentTypes">
+          <label class="check"><input type="checkbox" value="sfill" checked> 选词填空 Điền từ vào câu</label>
+          <label class="check"><input type="checkbox" value="smean" checked> Câu này nghĩa là gì?</label>
+          <label class="check"><input type="checkbox" value="spick" checked> Chọn đúng câu đã học</label>
+          <label class="check"><input type="checkbox" value="slisten" checked> 🎧 Nghe câu, chọn nghĩa</label>
+          <label class="check"><input type="checkbox" value="sorder" checked> 连词成句 Sắp xếp câu</label>
+        </div>
+        <label>Số câu <select id="sentNum"><option>10</option><option selected>20</option><option>30</option><option>50</option></select></label>
+        <button class="btn primary wide" id="sentTestStart">Bắt đầu kiểm tra</button>
+        <p class="muted" id="sentMsg"></p>
+      </div>
+      <h4>Các nhóm (20 câu / nhóm, theo thứ tự pinyin)</h4>
+      <div id="sentGroups" class="lesson-grid"></div>
+    </div>
+    <div id="sentGroup" class="hidden">
+      <div class="lesson-head">
+        <button class="btn small" id="sentBack">◀ Các nhóm</button>
+        <div><div class="big" id="sentGTitle"></div><div class="muted" id="sentGSub"></div></div>
+      </div>
+      <div class="actions">
+        <button class="btn primary" id="sentGStudy">📖 Học thẻ câu</button>
+        <button class="btn" id="sentGTest">✍️ Kiểm tra nhóm này</button>
+      </div>
+      <div class="inline-row">
+        <label class="check"><input type="checkbox" id="sentShowPy" checked> Hiện pinyin</label>
+        <label class="check"><input type="checkbox" id="sentShowVi" checked> Hiện nghĩa</label>
+      </div>
+      <div id="sentList"></div>
+    </div>
   </section>
 
   <!-- TỪ VỰNG -->
@@ -205,9 +260,10 @@
 
 <div id="toast" class="toast hidden"></div>
 
-<script src="data.js?v=1"></script>
-<script src="app.js?v=1"></script>
-<script src="sync-config.js?v=1"></script>
-<script src="sync.js?v=1"></script>
+<script src="data.js?v=2"></script>
+<script src="app.js?v=2"></script>
+<script src="extra.js?v=2"></script>
+<script src="sync-config.js?v=2"></script>
+<script src="sync.js?v=2"></script>
 </body>
 </html>
